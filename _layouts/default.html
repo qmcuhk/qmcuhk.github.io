@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-  {% include head.html %}
+{% include head.html %}
   
-    <nav >{% include nav.html %}</nav>
-    
-  <body>
+<nav id="navbar">{% include nav.html %}</nav>
+{% if page.id == "home" %}
+{% include welcome_picture.html %}
+{% endif %}    
 
-  <div class="wrapper">
-      <main>{{ content }}</main>
-    </div>
-    {% include footer.html %}
-  
-    <!--{% include script.html %}-->
-    <script src="/myscript.js"></script>
-  </body>
-  
+<body>
+
+<div class="wrapper">
+<main>
+{{ content }}
+</main>
+</div>
+
+{% include footer.html %}
+
+<script src="/myscript.js"></script>
+</body>
 </html>
