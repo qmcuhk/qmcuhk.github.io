@@ -1,0 +1,138 @@
+
+
+
+<script>
+
+/**********************************************
+          Readable lines
+**********************************************/
+/* choose theme from
+- forest
+- winter
+- retro */
+const theme = "winter";
+
+/**********************************************
+            Change Theme code
+**********************************************/
+
+/************** the color(i) applies to all the following classes: 
+color1: 
+- full-length-devider1 (in index, academic, diary, and /_notes/data) 
+- upper-icon (in /_includes/nav) 
+- footer (in /_includes/footer)
+color2: 
+- full-length-devider2 
+- background-box (in /_pages/index)
+color3: 
+- full-length-devider3
+- home-decoration-string (in /_pages/index)
+color4: 
+- full-length-devider4 
+- diary-decoration-string (in /_pages/diary)
+- diary-box-content
+****************/
+
+
+
+
+const color1 = {
+  winter: "#293B5F",
+  forest: "#064635",
+  retro: "#464660"
+};
+
+const color2 = {
+  winter: "#47597E",
+  forest: "#519259",
+  retro: "#368B85"
+};
+
+const color3 = {
+  winter: "#DBE6FD", 
+  forest: "#F0BB62",
+  retro: "#B4B897"
+};
+const color4 = {
+  winter: "#B2AB8C", 
+  forest:"#F4EEA9",
+  retro: "#F1E9E5"
+};
+const background_home = {
+  winter: "url(/assets/figure_background/home_background_winter.jpg)", 
+  forest: "url(/assets/figure_background/home_background_forest.jpg)",
+  retro: "url(/assets/figure_background/home_background_retro.jpg)"
+};
+  const background_academic = {
+  winter: "url(/assets/figure_background/academic_background_winter.jpg)", 
+  forest:"url(/assets/figure_background/academic_background_forest.jpg)",
+  retro:"url(/assets/figure_background/academic_background_retro.jpg)"
+};
+const background_excerption = {
+  winter: "url(/assets/figure_background/excerption_background_winter.jpg)", 
+  forest:"url(/assets/figure_background/excerption_background_forest.jpg)",
+  retro:"url(/assets/figure_background/excerption_background_retro.jpg)"
+};
+
+const colorSet = {color1: color1,color2: color2, color3: color3, color4: color4}; // set of color
+const backgroundSet = {backgroundOfHome: background_home, backgroundOfAcademic: background_academic, backgroundOfExcerption: background_excerption};
+
+
+
+
+var colorElements = {
+  color1: document.getElementsByClassName("color1"),
+  color2: document.getElementsByClassName("color2"),
+  color3: document.getElementsByClassName("color3"),
+  color4: document.getElementsByClassName("color4")
+};
+
+var backgroundElements = {
+  backgroundOfHome: document.getElementsByClassName("home-background"), 
+  backgroundOfAcademic: document.getElementsByClassName("academic-background"),
+  backgroundOfExcerption: document.getElementsByClassName("excerption-background")
+};
+
+
+for (let i in colorElements){        // loop among all classes that should be dyed
+  for (let j = 0; j< (colorElements[i].length);j++){   // loop among elements within a class
+    if (colorElements[i][j].className.includes("string")){
+      colorElements[i][j].style.color = colorSet[i][theme];
+    } else{
+      colorElements[i][j].style.backgroundColor = colorSet[i][theme];
+    }
+  }
+};
+
+
+
+for (let i in backgroundElements){
+  if (backgroundElements[i].length){     // see if this page contains background i
+    backgroundElements[i][0].style.background = backgroundSet[i][theme];
+    backgroundElements[i][0].style.backgroundSize = "cover";
+  } 
+};
+
+
+/**********************************************
+            Onscroll action
+**********************************************/
+
+window.onscroll = function(){scrollFunction()};
+var shrinkheader = document.getElementById("shrinkheader");
+var diaryBox = document.getElementById("diary-head-box");
+
+
+function scrollFunction() {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    shrinkheader.style.fontSize = "0.7em";
+  } else {
+    shrinkheader.style.fontSize = "1em";
+  }
+
+  if (document.documentElement.scrollTop > 600 || document.documentElement.scrollTop > 600){
+    diaryBox.style.top = "0";
+    diaryBox.style.opacity = "1";
+  }
+}
+</script>

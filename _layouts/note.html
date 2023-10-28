@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+<article>
+  <div>
+    <h1 style="padding-top:5vh;">{{ page.title }}</h1>
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" style="font-size:0.7em;">{% if page.type != 'pages' %}
+      Posted on {{ page.date | date: "%Y %B %d" }}
+      {% endif %}
+    </time>
+  </div>
+
+  <div id="notes-entry-container">
+    <content>
+      {{ content }}
+    </content>
+
+    <!--
+    <side style="font-size: 0.9em">
+      <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+      {% if page.backlinks.size > 0 %}
+      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+      {% for backlink in page.backlinks %}
+        <div class="backlink-box">
+        <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
+        <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 5 }}</div>
+        </div>
+      {% endfor %}
+      </div>
+      {% else %}
+
+      <div style="font-size: 0.9em">
+        <p>
+          There are no notes linking to this note.
+        </p>
+      </div>
+      {% endif %}
+    </side>
+    -->
+  </div>
+</article>
+
+<hr>
+
+<!--
+<div class="full-length-devider1" style="margin-right:-100vw;padding-right:100vw;margin-left:-100vw;padding-left:100vw;">
+  <div class="centerized">
+  <h1 style="padding-top: 4vh; color:white;">
+    Notes Links
+  </h1>
+  <p style="color:white; padding-bottom:2vh;" >Here are all the notes in this garden, along with their links, visualized as a graph. </p>
+  </div>
+  </div>
+<p></p>
+-->
+<!--
+{% include notes_graph.html %}
+-->
+
+<!---------------------------------------------
+              Latex support
+----------------------------------------------->
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['\\[','\\]'], ["$$","$$"]],
+    }
+  };
+  </script>
+  <script id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+  </script>
+<!---------------------------------------------
+              standard layout
+----------------------------------------------->

@@ -1,0 +1,48 @@
+{
+    "colorSet":{
+        "color1" : {
+            "winter": "#293B5F",
+            "forest": "#064635",
+            "retro": "#464660",
+            "sunset": "#0F2C67"
+        },
+        "color2": {
+            "winter": "#47597E",
+            "forest": "#519259",
+            "retro": "#368B85",
+            "sunset": "#CD1818"
+        },
+        "color3": {
+            "winter": "#DBE6FD", 
+            "forest": "#F0BB62",
+            "retro": "#B4B897",
+            "sunset": "#F3950D"
+        },
+        "color4": {
+            "winter": "#B2AB8C", 
+            "forest":"#F4EEA9",
+            "retro": "#F1E9E5",
+            "sunset": "#F4E185"
+        }
+    },
+    "backgroundSet":{
+        "backgroundOfHome": {
+            "winter": "url(/assets/figure_background/home_background_winter.jpg)", 
+            "forest": "url(/assets/figure_background/home_background_forest.jpg)",
+            "retro": "url(/assets/figure_background/home_background_retro.jpg)",
+            "sunset": "url(/assets/figure_background/home_background_sunset.jpg)"
+        },
+        "backgroundOfAcademic": {
+            "winter": "url(/assets/figure_background/academic_background_winter.jpg)", 
+            "forest": "url(/assets/figure_background/academic_background_forest.jpg)",
+            "retro": "url(/assets/figure_background/academic_background_retro.jpg)",
+            "sunset": "url(/assets/figure_background/academic_background_sunset.jpg)"
+        },
+        "backgroundOfExcerption": {
+            "winter": "url(/assets/figure_background/excerption_background_winter.jpg)", 
+            "forest":"url(/assets/figure_background/excerption_background_forest.jpg)",
+            "retro":"url(/assets/figure_background/excerption_background_retro.jpg)",
+            "sunset":"url(/assets/figure_background/excerption_background_sunset.jpg)"
+        }
+    }
+}

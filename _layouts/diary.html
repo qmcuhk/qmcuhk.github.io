@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<article style="max-width:100%;">
+  <div>
+    <h1 style="padding-top:5vh; padding-left: 15vh;">{{ page.title }}</h1>
+    {% if page.author %}
+      <h3 style="padding-left: 15vh;">{{page.author}}</h3>
+    {% else %}
+      <div style="padding-left: 15vh;">Xunyang</div>
+    {% endif %}
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" style="font-size:0.7em; padding-left: 15vh;">{% if page.type != 'pages' %}
+      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      {% endif %}
+    </time>
+  </div>
+
+  <div id="diaries-entry-container">
+    <content>
+      {{ content }}
+    </content>
+  </div>
+  
+  <div id="hyvor-talk-view"></div>
+</article>
+
+
+
+
+<!---------------------------------------------
+              Latex support
+----------------------------------------------->
+ 
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['\\[','\\]'], ["$$","$$"]],
+    }
+  };
+  </script>
+  <script id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+  </script>
+<!---------------------------------------------
+              standard layout
+----------------------------------------------->
+
+
+
+<!----------------------------------------------
+Scripts for Comment section
+------------------------------------------------>
+
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 8539;
+    var HYVOR_TALK_CONFIG = {
+        url: false,
+        id: false
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed.js"></script>
