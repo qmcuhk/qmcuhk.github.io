@@ -1,50 +1,57 @@
 $default-side-space:8vw;
 $default-top-space: 12vh;
 $footer-top-padding: 10vh;
+$footer-side-padding: 5vh;
 
 footer {
-  background-color: #000;
+  background: orange;
   color: #fff;
-  padding: $footer-top-padding $default-side-space;
+  padding: $footer-top_padding $footer-side-padding;
+  
   .footer-content {
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    padding: 0 10px;
+  }
+  .footer-logos {
+    display: flex;
+    gap: 20px;
+    
+    img {
+      height: 12vh;
+      margin-top:auto;
+      margin-bottom:auto;
+    }
   }
   .footer-info {
-    flex: 1;
+    display: flex;
+    flex-direction: row;
+    gap: 4vw;
+    align-items: flex-start; 
   }
-  .footer-info h3 {
-    margin-top: 0;
+  .info-item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4vh;
+    .info-contact {
+      display: flex;
+      flex-direction: row;
+    }
   }
-  .footer-logo img {
-    width: 60px; /* Adjust as necessary */
-  }
-  .footer-social {
-    margin-left: 20px;
-  }
-  .footer-social a {
-    margin-left: 15px;
+  .info-item i {
     color: #fff;
-    text-decoration: none;
+    font-size: 24px;
+    margin-right: 2vh;
   }
-  .footer-social i {
-    font-size: 24px; /* Adjust as necessary */
+  .info-item address {
+    display: inline; /* Removes the default block display of the address tag */
   }
-  .footer-copyright {
-    margin-top: 10px;
-    font-size: 14px;
-  }
-  .footer-logo .logo-text {
-    font-weight: bold;
-    font-size: 40px; /* Adjust as necessary */
-    font-family: 'Arial', sans-serif;
-    margin-top: auto;
-    margin-bottom: auto;
-    color: #fff;
 }
-}
+
+
+
+
+
 
 
 nav {
@@ -92,6 +99,41 @@ nav {
   }
   .nav-links li a:hover {
     background-color: #f5f5f5; /* Background color on hover */
+  }
+  /* ... Your existing CSS ... */
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #efefef;
+    min-width: 10em;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 5px;
+    top: 100%; /* Makes it appear directly below the parent item */
+    left: 50%; /* Align with the left edge of parent item */
+    transform: translateX(-50%);
+    li {
+      padding: 1em 0;
+      text-decoration: none;
+      display: block;
+    }
+  }
+  .dropdown-content li a {
+    color: #333; 
+  }
+  .dropdown-content li a:hover {
+    background-color: #e5e5e5;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown:hover > a {
+    background-color: #f5f5f5; 
   }
 }
 

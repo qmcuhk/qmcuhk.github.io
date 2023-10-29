@@ -13,3 +13,6 @@ _includes/notes_graph.json
 
 # Obsidian config
 .obsidian/
+
+fast_push.sh
+fast_serve.sh
