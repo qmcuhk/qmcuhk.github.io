@@ -5,7 +5,7 @@ $footer-side-padding: 5vh;
 $member-card-radius: 4px;
 
 footer {
-  background: rgba(183, 1, 183, 0.611);
+  background: rgba(183, 1, 183, 0.545);
   color: #fff;
   padding: $footer-top_padding $footer-side-padding;
   
@@ -243,21 +243,7 @@ body {
       border-top-left-radius: $member-card-radius;
       border-top-right-radius: $member-card-radius;
     }
-    button {
-      border: none;
-      outline: 0;
-      display: inline-block;
-      padding: 8px;
-      color: white;
-      background-color: #363636;
-      text-align: center;
-      cursor: pointer;
-      width: 100%;
-      font-size: 18px;
-      border-bottom-left-radius: $member-card-radius;
-      border-bottom-right-radius: $member-card-radius;
-    }
-    button:hover, a:hover {
+    i:hover, a:hover {
       opacity: 0.7;
     }
     a {
@@ -271,12 +257,12 @@ body {
     }
     h1 {
       margin: 0.35rem 0;
-      font-size: 1.8em;
+      font-size: 1.5em;
     }
   }
   .member-card-title {
-    color: grey;
-    font-size: 18px;
+    color: rgb(153, 153, 153);
+    font-size: 1em;
     margin: 0 0;
   }
   .member-card-logo {
@@ -295,6 +281,16 @@ body {
   background-color: white;
   width: 100%;
   height: 10vh;
+  display: flex;
+  align-content: center;
+  h1 {
+    margin: 0 auto 0 auto;
+  }
+}
+.large-divider {
+  background-color: white;
+  width: 100%;
+  height: 20vh;
   display: flex;
   align-content: center;
   h1 {
