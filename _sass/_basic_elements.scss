@@ -2,9 +2,10 @@ $default-side-space:8vw;
 $default-top-space: 12vh;
 $footer-top-padding: 10vh;
 $footer-side-padding: 5vh;
+$member-card-radius: 4px;
 
 footer {
-  background: orange;
+  background: rgba(183, 1, 183, 0.611);
   color: #fff;
   padding: $footer-top_padding $footer-side-padding;
   
@@ -52,7 +53,13 @@ footer {
 }
 
 
-
+hr {
+  border: none;  /* Removes the default border */
+  height: 1px;  /* Defines the height/thickness of the line */
+  background-color: #b2b2b2;  /* Sets the color of the line */
+  width: 80%;  /* Sets the width of the line to 80% of its container */
+  margin: 20px auto;  /* Centers the line and gives it space above and below */
+}
 
 
 
@@ -62,7 +69,7 @@ nav {
   box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
   position: fixed; /* Stick to the top of the page */
   width: 100%;
-  height: 80px;
+  min-height: 80px;
   z-index: 1000; /* Keep on top of other elements */
   top: 0;
   transition: top 0.3s; /* Smooth transition for moving navbar */
@@ -84,9 +91,19 @@ nav {
     transition: all 0.5s ease-in-out; /* This will animate the text smoothly */
     z-index: 998; /* Below the logo but above the rest */
   }
-  .nav-logo img {
-    height: 65px; /* Adjust as needed */
-    margin: 0 20px 0 10px;
+  .nav-logo {
+    display: flex;
+    align-items: center;
+    align-content: start;
+    img {
+      height: 65px; /* Adjust as needed */
+      margin: 0 20px 0 10px;
+    }
+    p {
+      font-size: 1.5rem;
+      margin: 0 0;
+      font-weight:100;
+    }
   }
   .nav-links {
     list-style-type: none;
@@ -162,17 +179,16 @@ body {
     h1 {
       font-size: 4rem;
       margin-top: 5px;
-      margin-bottom: 5px;
+      margin-bottom: 0;
     }
     p {
+      transform: translate(0,-10px);
       font-size: 1.5rem;
       margin: 5px;
     }
+
   }
 }
-
-
-
 
 .welcome-section {
   position: fixed;
@@ -198,8 +214,94 @@ body {
 
 
 
+/* hompage introduction */
+.hompage-introduction {
+  max-width: 40em;
+  margin: 0 auto 0 auto;
+  p {
+    font-size: 1.2rem;
+  }
+}
 
 
+/* hompage members */
+.hompage-members-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto 0 auto;
+  gap: 3em;
+  .member-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+    max-width: 16.5em;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    border-radius: $member-card-radius;
+    img {
+      border-top-left-radius: $member-card-radius;
+      border-top-right-radius: $member-card-radius;
+    }
+    button {
+      border: none;
+      outline: 0;
+      display: inline-block;
+      padding: 8px;
+      color: white;
+      background-color: #363636;
+      text-align: center;
+      cursor: pointer;
+      width: 100%;
+      font-size: 18px;
+      border-bottom-left-radius: $member-card-radius;
+      border-bottom-right-radius: $member-card-radius;
+    }
+    button:hover, a:hover {
+      opacity: 0.7;
+    }
+    a {
+      text-decoration: none;
+      font-size: 22px;
+      color: black;
+    }
+    i {
+      color: #363636;
+      margin: 0.5em;
+    }
+    h1 {
+      margin: 0.35rem 0;
+      font-size: 1.8em;
+    }
+  }
+  .member-card-title {
+    color: grey;
+    font-size: 18px;
+    margin: 0 0;
+  }
+  .member-card-logo {
+    margin: 0.5em 0 0.8em 0;
+  }
+  p {
+    margin: 0 0;
+    font-size:0.9rem;
+  }
+}
+
+
+
+/* general item */
+.medium-divider {
+  background-color: white;
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  align-content: center;
+  h1 {
+    margin: 0 auto 0 auto;
+  }
+}
+/* general item */
 
 
 
