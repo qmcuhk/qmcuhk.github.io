@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-I am Hongxy, currently a master physics student at ETH Zurich, Switzerland. 
+This is an about page.

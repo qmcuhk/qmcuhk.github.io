@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 title: Home
 id: home
 permalink: /
@@ -85,7 +85,7 @@ window.addEventListener('scroll', function() {
     
     // Calculate opacity based on scroll position.
     // You might need to adjust this based on your website's structure.
-    const opacity = 1 - (window.pageYOffset / 500);  // 500 is an arbitrary value for fade effect length. Adjust as needed.
+    const opacity = 1 - 0.4 * (window.pageYOffset / 500);  // 500 is an arbitrary value for fade effect length. Adjust as needed.
     
     // Set the calculated opacity
     image.style.opacity = opacity;

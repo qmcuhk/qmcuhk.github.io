@@ -46,6 +46,9 @@ footer {
   .info-item address {
     display: inline; /* Removes the default block display of the address tag */
   }
+  address {
+    font-style:normal;
+  }
 }
 
 
@@ -141,21 +144,40 @@ body {
   .wrapper {
     margin : $default-top-space $default-side-space;
   }
+  .home-wrapper {
+    background-color: rgba(255, 255, 255, 1);
+    box-shadow: 0px -8px 16px 0px rgba(0,0,0,0.4);
+    padding : $default-top-space $default-side-space;
+    position: relative;
+  }
+  .transparent-divider {
+    height: 80vh;
+  }
+  .homepage-group-name {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, -10%); /* Center the content */
+    text-align: center; /* Center text and images horizontally */
+    color: white; /* Assuming white text. Adjust if needed */
+    h1 {
+      font-size: 4rem;
+      margin-top: 5px;
+      margin-bottom: 5px;
+    }
+    p {
+      font-size: 1.5rem;
+      margin: 5px;
+    }
+  }
 }
 
 
 
+
 .welcome-section {
-  position: relative;
+  position: fixed;
   overflow: hidden;
-  .overlay-content {
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    transform: translate(-50%, -50%); /* Center the content */
-    text-align: center; /* Center text and images horizontally */
-    color: white; /* Assuming white text. Adjust if needed */
-  }
+  z-index: -1;
   .logos {
     display: flex;
     justify-content: center; /* Horizontally center logos */
@@ -165,20 +187,13 @@ body {
     width: 20vw; /* Adjust size if needed */
     height: auto;
   }
-  h1 {
-    font-size: 4rem;
-    margin-top: 5px;
-    margin-bottom: 5px;
-  }
-  p {
-    font-size: 1.5rem;
-    margin: 5px;
-  }
 }
 #welcome-image {
-  height: 100%;
+  min-width: 100vw;
   opacity: 1;
   transition: opacity 0.5s;
+  object-fit: cover;
+  height: 100vh
 }
 
 
