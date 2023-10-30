@@ -98,4 +98,68 @@ body.index a{
 }
 
 
+.publication-container {
+    width: 80%;
+    .publications {
+      max-width: 50em;
+      margin: 0 auto;
+      padding-top: 50px;
+      display: flex;
+      flex-direction: column;
+      align-items:flex-start;
+      align-content:flex-start;
+  }
+  .header {
+      font-size: 24px;
+      margin-bottom: 30px;
+  }
+  .publication {
+    display: flex;
+    align-items: start;
+    justify-content: flex-start;
+    border-bottom: 2px solid #e0e0e0;
+    padding: 15px 0;
+    flex-direction: row;
+    gap: 2em;
+  }
+  .publication-info {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+    flex-direction: column;
+  }
+  .publication-picture{
+    img {
+    width: 10em;
+    }
+  }
+  .publication:last-child {
+      border-bottom: none;
+  }
+  .title {
+      font-weight: bold;
+      color: #333;
+      max-width: 30em;
+  }
+  .journal {
+      color: #7e7e7e;
+  }
+  .authors {
+    color: rgb(64, 64, 64);
+    max-width: 25em;
+  }
+  .year {
+      font-size: 24px;
+      font-weight: bold;
+  }
+  .label {
+      background-color: #b5b5b5;
+      padding: 3px 7px;
+      color: white;
+      border-radius: 3px;
+      font-size: 12px;
+      text-align: center;
+  }
+}
+
 
