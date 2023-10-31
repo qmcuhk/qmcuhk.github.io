@@ -23,4 +23,13 @@ window.addEventListener('scroll', function() {
         // Set the calculated opacity
         welcomeImage.style.opacity = opacity;
     }
+
+    // publication popup effect
+    var pubPop = document.getElementById("publication-popup");
+    if (pubPop!= null){
+        if (document.documentElement.scrollTop > 20 || document.documentElement.scrollTop > 20){
+          pubPop.style.top = "0";
+          pubPop.style.opacity = "1";
+        }
+      }
 });

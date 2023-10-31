@@ -99,7 +99,7 @@ body.index a{
 
 
 .publication-container {
-    width: 80%;
+    width: 80vw;
     .publications {
       max-width: 50em;
       margin: 0 auto;
@@ -121,6 +121,12 @@ body.index a{
     padding: 15px 0;
     flex-direction: row;
     gap: 2em;
+    background-color: white;
+    transition: background-color 0.3s, border-radius 0.3s;
+    &:hover{
+      background-color: #eaeaea;
+      border-radius: 4px;
+    }
   }
   .publication-keep {
     display: flex;
@@ -140,6 +146,7 @@ body.index a{
     justify-content: space-between;
     align-items:flex-start;
     flex-direction: column;
+    padding-right: 2em;
   }
   .publication-picture{
     img {
@@ -160,8 +167,9 @@ body.index a{
   }
   .authors {
     color: #7e7e7e;
-    max-width: 45sem;
+    width: 45em;
     font-size:0.9em;
+    max-width: 90%;
   }
   .year {
       font-size: 24px;
@@ -195,3 +203,11 @@ body.index a{
   transform: translateY(2px);
 }
 
+#publication-popup {
+  position:relative;
+  margin:0 auto;
+  text-align:center;
+  top:4vh;
+  opacity:0.1;
+  transition: top 0.4s ease-out, opacity 0.4s ease-out;
+}

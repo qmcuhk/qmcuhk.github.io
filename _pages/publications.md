@@ -4,9 +4,9 @@ title: Publications
 permalink: /publications
 ---
 
-<div class="medium-divider"></div>
+<div class="large-divider"></div>
 <div class="medium-divider">
-<h1> Publications </h1>
+<h1 id="publication-popup"> Publications </h1>
 </div>
 <hr>
 <div class="medium-divider"></div>
@@ -20,7 +20,7 @@ permalink: /publications
         {% if publication.picture-path %}
             <img src="assets/publications_pictures/{{publication.picture-path}}" alt="Welcome Image">
         {% else %}
-            <img src="assets/publications_pictures/gray_square.png" alt="Welcome Image">
+            <div style="width: 176px; height: 127px; background-color:#eaeaea;"> </div>
         {% endif %}
         </div>
         <div class="publication-info">
