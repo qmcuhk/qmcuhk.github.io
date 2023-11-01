@@ -43,6 +43,8 @@ $ bundle exec jekyll serve
 > *There's a `fast_serve.sh` file in the folder... if you are too lazy to pull up a git bash and type in the not-so-short command, you can simply run this file...*
 
 > *But please don't click the `fast_push.sh`. It removes all the files and delet them permanently, like totally (for real).*
+> 
+> (●'◡'●)
 
 
 ### How to add more publication to the dataset?

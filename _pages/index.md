@@ -45,7 +45,6 @@ We are an experimental research group on condensed matter physics led by Prof. Q
   {% endfor %}
 </div>
 
-<div> Hello world </div>
 
 
 

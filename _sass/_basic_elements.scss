@@ -190,89 +190,6 @@ body {
   }
 }
 
-.welcome-section {
-  position: fixed;
-  overflow: hidden;
-  z-index: -1;
-  .logos {
-    display: flex;
-    justify-content: center; /* Horizontally center logos */
-    gap: 20px; /* Spacing between logos */
-  }
-  .logo {
-    width: 20vw; /* Adjust size if needed */
-    height: auto;
-  }
-}
-.welcome-image {
-  min-width: 100vw;
-  opacity: 1;
-  transition: opacity 0.5s;
-  object-fit: cover;
-  height: 100vh
-}
-
-
-
-/* hompage introduction */
-.hompage-introduction {
-  max-width: 40em;
-  margin: 0 auto 0 auto;
-  p {
-    font-size: 1.2rem;
-  }
-}
-
-
-/* hompage members */
-.hompage-members-container {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  width: 80%;
-  margin: 0 auto 0 auto;
-  gap: 3em;
-  .member-card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
-    max-width: 16.5em;
-    margin: auto;
-    text-align: center;
-    font-family: arial;
-    border-radius: $member-card-radius;
-    img {
-      border-top-left-radius: $member-card-radius;
-      border-top-right-radius: $member-card-radius;
-    }
-    i:hover, a:hover {
-      opacity: 0.7;
-    }
-    a {
-      text-decoration: none;
-      font-size: 22px;
-      color: black;
-    }
-    i {
-      color: #363636;
-      margin: 0.5em;
-    }
-    h1 {
-      margin: 0.35rem 0;
-      font-size: 1.5em;
-    }
-  }
-  .member-card-title {
-    color: rgb(153, 153, 153);
-    font-size: 1em;
-    margin: 0 0;
-  }
-  .member-card-logo {
-    margin: 0.5em 0 0.8em 0;
-  }
-  p {
-    margin: 0 0;
-    font-size:0.9rem;
-  }
-}
 
 
 
@@ -298,7 +215,29 @@ body {
     margin: 0 auto 0 auto;
   }
 }
-/* general item */
+
+
+.banner {
+  position: relative;
+  overflow: hidden;
+  .logos {
+    display: flex;
+    justify-content: center; /* Horizontally center logos */
+    gap: 20px; /* Spacing between logos */
+  }
+  .logo {
+    width: 20vw; /* Adjust size if needed */
+    height: auto;
+  }
+  .banner-picture {
+    min-width: 100vw;
+    opacity: 1;
+    transition: opacity 0.5s;
+    object-fit: cover;
+    height: 30vh;
+  }
+}
+
 
 
 
