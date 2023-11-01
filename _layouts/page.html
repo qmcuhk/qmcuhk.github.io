@@ -3,21 +3,19 @@
 {% include head.html %}
   
 <nav id="navbar">{% include nav.html %}</nav>
-{% if page.id == "home" %}
-{% include welcome_picture.html %}
-{% else %}
-  {% if page.banner-path %}
-    {% include banner.html %}
-  {% endif%}
-{% endif %}    
+
+{% if page.banner-path %}
+  {% include banner.html %}
+{% endif%}
+
 
 <body>
-
 <div class="wrapper">
 <main>
 {{ content }}
 </main>
 </div>
+
 
 {% include footer.html %}
 

@@ -170,24 +170,6 @@ body {
   .transparent-divider {
     height: 80vh;
   }
-  .homepage-group-name {
-    position: relative;
-    left: 50%;
-    transform: translate(-50%, -10%); /* Center the content */
-    text-align: center; /* Center text and images horizontally */
-    color: white; /* Assuming white text. Adjust if needed */
-    h1 {
-      font-size: 4rem;
-      margin-top: 5px;
-      margin-bottom: 0;
-    }
-    p {
-      transform: translate(0,-10px);
-      font-size: 1.5rem;
-      margin: 5px;
-    }
-
-  }
 }
 
 
@@ -217,26 +199,7 @@ body {
 }
 
 
-.banner {
-  position: relative;
-  overflow: hidden;
-  .logos {
-    display: flex;
-    justify-content: center; /* Horizontally center logos */
-    gap: 20px; /* Spacing between logos */
-  }
-  .logo {
-    width: 20vw; /* Adjust size if needed */
-    height: auto;
-  }
-  .banner-picture {
-    min-width: 100vw;
-    opacity: 1;
-    transition: opacity 0.5s;
-    object-fit: cover;
-    height: 30vh;
-  }
-}
+
 
 
 
