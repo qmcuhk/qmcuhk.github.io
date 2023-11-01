@@ -5,7 +5,9 @@ id: home
 permalink: /
 ---
 
-
+<p> 
+hello world
+</p>
 
 <div class="hompage-introduction">
 <p>
