@@ -99,15 +99,15 @@ body.index a{
 
 
 .publication-container {
-    width: 80vw;
+    margin: 0 5vw 0 5vw;
     .publications {
       max-width: 50em;
-      margin: 0 auto;
+      margin: 0 auto 0 5vw;
       padding-top: 50px;
       display: flex;
       flex-direction: column;
       align-items:flex-start;
-      align-content:flex-start;
+      align-content:start;
   }
   .header {
       font-size: 24px;
@@ -118,7 +118,7 @@ body.index a{
     align-items: start;
     justify-content: flex-start;
     border-bottom: 2px solid #e0e0e0;
-    padding: 15px 0;
+    padding: 15px 1em;
     flex-direction: row;
     gap: 2em;
     background-color: white;
@@ -167,7 +167,7 @@ body.index a{
   }
   .authors {
     color: #7e7e7e;
-    width: 45em;
+    width: 50em;
     font-size:0.9em;
     max-width: 90%;
   }
@@ -211,3 +211,7 @@ body.index a{
   opacity:0.1;
   transition: top 0.4s ease-out, opacity 0.4s ease-out;
 }
+
+
+
+

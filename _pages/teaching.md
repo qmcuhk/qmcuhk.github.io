@@ -4,4 +4,10 @@ title: Teaching
 permalink: /teaching
 ---
 
-This is a teaching page
+## Hello world
+- 1
+- another thing
+- shide
+
+
+

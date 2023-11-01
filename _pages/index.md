@@ -11,6 +11,14 @@ We are an experimental research group on condensed matter physics led by Prof. Q
 </p>
 </div>
 <div class="large-divider"></div>
+
+<!-- Sliding pictures section -->
+
+
+
+
+<!-- Members section -->
+
 <div class="medium-divider"></div>
 <div class="medium-divider">
 <h1> Members </h1>
@@ -36,6 +44,9 @@ We are an experimental research group on condensed matter physics led by Prof. Q
     </div>
   {% endfor %}
 </div>
+
+<div> Hello world </div>
+
 
 
 
