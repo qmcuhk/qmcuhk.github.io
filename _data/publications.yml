@@ -4,7 +4,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Kevin P. Kramer, Rina Tazai, Karin von Arx, Masafumi Horio, Julia Küspert, Qisi Wang, Yasmine Sassa, Timur K. Kim, Céphise Cacho, Julien E. Rault, Patrick Le Fèvre, François Bertran, Marc Janoschek, Nicolas Gauthier, Daniel Mazzone, Ramzy Daou, Johan Chang
   authors-short: Kevin P. Kramer et. al.
-  picture-path: 2023_Kramer_JPSJ.png
+  picture-path: 2023_kramer_jpsj.jpg
   description: 1
 
 - title: Exchange-renormalized crystal field excitations in the quantum Ising magnet KTmSe2
@@ -13,7 +13,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Shiyi Zheng, Hongliang Wo, Yiqing Gu, Rui Leonard Luo, Yimeng Gu, Yinghao Zhu, Paul Steffens, Martin Boehm, Qisi Wang, Gang Chen, Jun Zhao
   authors-short: Shiyi Zheng et. al.
-  picture-path:
+  picture-path: 2023_zheng_prb.jpg
   description: 1
 
 - title: Spin Fluctuations in Sr1.8La0.2RuO4
@@ -22,7 +22,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Zheng He, Qisi Wang*, Yu Feng, Chul Kim, Wonshik Kyung, Changyoung Kim, Hongliang Wo, Gaofeng Ding, Yiqing Hao, Feiyang Liu, Helen C. Walker, Devashibhai T. Adroja, Astrid Schneidewind, Wenbin Wang, Jun Zhao*
   authors-short: Zheng He et. al.
-  picture-path:
+  picture-path: 2023_he_prb.jpg
   description: 1
 
 - title: Fate of charge order in overdoped La-based cuprates
@@ -31,7 +31,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: K. von Arx, Qisi Wang, S. Mustafi, D. G. Mazzone, M. Horio, D. John Mukkattukavil, E. Pomjakushina, S. Pyon, T. Takayama, H. Takagi, T. Kurosawa, N. Momono, M. Oda, N. B. Brookes, D. Betto, W. Zhang, T. C. Asmara, Y. Tseng, T. Schmitt, Y. Sassa, J. Chang
   authors-short: K. von Arx et. al.
-  picture-path:
+  picture-path: 2023_vonarx_npjqm.jpg
   description: 1
 
 - title: In-situ uniaxial pressure cell for X-ray and neutron scattering experiments
@@ -40,7 +40,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: G. Simutis, A. Bollhalder, M. Zolliker, J. Küspert, Q. Wang, D. Das, F. Van Leeuwen, O. Ivashko, O. Gutowski, J. Philippe, T. Kracht, P. Glaevecke, T. Adachi, M. Von Zimmermann, S. Van Petegem, H. Luetkens, Z. Guguchia, J. Chang, Y. Sassa, M. Bartkowiak, M. Janoschek
   authors-short: G. Simutis et. al.
-  picture-path: 2022_Simutis_RSI.png
+  picture-path: 2023_simutis_rsi.jpg
   description: 1
 
 - title: Uniaxial pressure induced stripe order rotation in La1.88Sr0.12CuO4
@@ -49,7 +49,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Qisi Wang*, K. von Arx, D. G. Mazzone,S. Mustafi, M. Horio, J. Küspert, J. Choi, D. Bucher, H. Wo, J. Zhao, W. Zhang, T. C. Asmara, Y. Sassa, M. Månsson, N. B. Christensen, M. Janoschek, T. Kurosawa, N. Momono, M. Oda, M. H. Fischer, T. Schmitt, J. Chang*
   authors-short: Qisi Wang et. al.
-  picture-path:
+  picture-path: 2022_wang_nc.jpg
   description: 1
 
 - title: Low-energy spin fluctuations in FeSe0.95S0.05
@@ -58,7 +58,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Die Hu#, Qisi Wang#*, Hongliang Wo, Astrid Schneidewind, Jun Zhao*
   authors-short: Die Hu et. al.
-  picture-path:
+  picture-path: 2022_hu_prb.jpg
   description: 1
 
 - title: Anomalous contribution to the nematic electronic states from the structural transition in FeSe revealed by time- and angle-resolved photoemission spectroscopy
@@ -67,7 +67,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Yuanyuan Yang, Qisi Wang, Shaofeng Duan, Hongliang Wo, Chaozhi Huang, Shichong Wang, Lingxiao Gu, Dao Xiang, Dong Qian, Jun Zhao, Wentao Zhang
   authors-short: Yuanyuan Yang et. al.
-  picture-path:
+  picture-path: 2022_yang_prl.jpg
   description: 1
 
 - title: Unveiling Unequivocal Charge Stripe Order in a Prototypical Cuprate Superconductor
@@ -76,7 +76,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: J. Choi, Q. Wang, S. Jöhr, N. B. Christensen, J. Küspert, D. Bucher, D. Biscette, M. H. Fischer, M. Hücker, T. Kurosawa, N. Momono, M. Oda, O. Ivashko, M. v. Zimmermann, M. Janoschek, J. Chang
   authors-short: J. Choi et. al.
-  picture-path:
+  picture-path: 2022_choi_prl.jpg
   description: 1
 
 - title: Single-domain stripe order in a high-temperature superconductor
@@ -85,7 +85,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: G. Simutis, J. Küspert, Q. Wang, J. Choi, D. Bucher, M. Boehm, F. Bouradot, M. Bertelsen, Ch. N. Wang, T. Kurosawa, M. Momono, M. Oda, M. Månsson, Y. Sassa, M. Janoschek, N. B. Christensen, J. Chang, D. G. Mazzone
   authors-short: G. Simutis et. al.
-  picture-path: 2022_Simutis_CP.png
+  picture-path: 2022_simutis_cp.jpg
   description: 1
 
 - title: Frustrated magnetic interactions in FeSe
@@ -94,7 +94,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Yiqing Gu, Qisi Wang, Hongliang Wo, Zheng He, Helen C. Walker, Jitae T. Park, Mechthild Enderle, Andrew D. Christianson, Wenbin Wang, Jun Zhao
   authors-short: Yiqing Gu et. al.
-  picture-path:
+  picture-path: 2022_gu_prb.jpg
   description: 1
 
 - title: Pseudogap Suppression by Competition with Superconductivity in La-Based Cuprates
@@ -103,7 +103,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: J. Küspert, R. Cohn Wagner, C. Lin, K. von Arx, Q. Wang, K. Kramer, W. R. Pudelko, N. C. Plumb, C. E. Matt, C. G. Fatuzzo, D. Sutter, Y. Sassa, J. -Q. Yan, J. -S. Zhou, J. B. Goodenough, S. Pyon, T. Takayama, H. Takagi, T. Kurosawa, N. Momono, M. Oda, M. Hoesch, C. Cacho, T. K. Kim, M. Horio, J. Chang
   authors-short: J. Küspert et. al.
-  picture-path:
+  picture-path: 2022_kuespert_prr.jpg
   description: 1
 
 - title: Crystal symmetry of stripe-ordered La1.88Sr0.12CuO4
@@ -112,7 +112,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Ruggero Frison, Julia Kuespert, Qisi Wang, Oleh Ivashko, Martin von Zimmermann, Martin Meven, Damian Bucher, Jakob Larsen, Christof Niedermayer, Mark Janoschek, Tohru Kurosawa, Naoki Momono, Migaku Oda, Niels Bech Christensen, Johan Chang
   authors-short: Ruggero Frison et. al.
-  picture-path:
+  picture-path: 2022_frison_prb.jpg
   description: 1
 
 - title: Unusual Band Splitting and Superconducting Gap Evolution with Sulfur Substitution in FeSe
@@ -121,7 +121,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Yuanyuan Yang, Qisi Wang, Shaofeng Duan, Hongliang Wo, Chaozhi Huang, Shichong Wang, Lingxiao Gu, Dong Qian, Jun Zhao, Wentao Zhang
   authors-short: Yuanyuan Yang et. al.
-  picture-path:
+  picture-path: 2022_yang_cpl.jpg
   description: 1
 
 - title: Resonant Inelastic Soft X-Ray Scattering on LaPt2Si2
@@ -130,7 +130,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Deepak John Mukkattukavil, Johan Hellsvik, Anirudha Ghosh, Evanthia Chatzigeorgiou, Elisabetta Nocerino, Qisi Wang, Karin von Arx, Shih-Wen Huang, Victor Ekholm, Zakir Hossain, Arumugum Thamizhavel, Johan Chang, Martin Månsson, Lars Nordström, Conny Såthe, Marcus Agåker, Jan-Erik Rubensson, Yasmine Sassa
   authors-short: Deepak John Mukkattukavil et. al.
-  picture-path:
+  picture-path: 2022_mukkattukavil_jpcm.jpg
   description: 1
 
 - title: Field-Tuned Quantum Effects in a Triangular-Lattice Ising Magnet
@@ -139,7 +139,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Yayuan Qin, Yao Shen, Changle Liu, Hongliang Wo, Yonghao Gao, Yu Feng, Xiaowen Zhang, Gaofeng Ding, Yiqing Gu, Qisi Wang, Shoudong Shen, Helen C. Walker, Robert Bewley, Jianhui Xu, Martin Boehm, Paul Steffens, Seiko Ohira-Kawamura, Naoki Murai, Astrid Schneidewind, Xin Tong, Gang Chen, Jun Zhao
   authors-short: Yayuan Qin et. al.
-  picture-path:
+  picture-path: 2022_qin_sb.jpg
   description: 1
 
 - title: Polarized neutron scattering studies of magnetic excitations in iron-selenide superconductor (Li0.8Fe0.2)ODFeSe (Tc = 41 K)
@@ -148,7 +148,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Die Hu, Yu Feng, Jitae Park, Hongliang Wo, Qisi Wang, Frederic Bourdarot, Alexandre Ivanov, Jun Zhao
   authors-short: Die Hu et. al.
-  picture-path:
+  picture-path: 2021_hu_jpcm.jpg
   description: 1
 
 - title: Charge Order Lock-in by Electron-Phonon Coupling in La1.675Eu0.2Sr0.125CuO4
@@ -157,7 +157,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Qisi Wang#*, Karin von Arx#, Masafumi Horio, Deepak John Mukkattukavil, Julia Küspert, Yasmine Sassa, Thorsten Schmitt, Abhishek Nag, Sunseng Pyon, Tomohiro Takayama, Hidenori Takagi, Mirian Garcia-Fernandez, Ke-Jin Zhou, Johan Chang*
   authors-short: Qisi Wang et. al.
-  picture-path:
+  picture-path: 2021_wang_sa.jpg
   description: 1
 
 - title: Decoupling of lattice and orbital degrees of freedom in an iron-pnictide superconductor
@@ -166,7 +166,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: C. E. Matt, O. Ivashko, M. Horio, J. Choi, Q. Wang, D. Sutter, N. Dennler, M. H. Fischer, S. Katrych, L. Forro, J. Ma, B. Fu, B. Q. Lv, M. v. Zimmermann, T. K. Kim, N. C. Plumb, N. Xu, M. Shi, J. Chang
   authors-short: C. E. Matt et. al.
-  picture-path:
+  picture-path: 2021_matt_prr.jpg
   description: 1
 
 - title: Evolution of spin excitations from bulk to monolayer FeSe
@@ -175,7 +175,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Jonathan Pelliciari, Seher Karakuzu, Qi Song, Riccardo Arpaia, Abhishek Nag, Matteo Rossi, Jiemin Li, Tianlun Yu, Xiaoyang Chen, Rui Peng, Mirian García-Fernández, Andrew C. Walters, Qisi Wang, Jun Zhao, Giacomo Ghiringhelli, Donglai Feng, Thomas A. Maier, Ke-Jin Zhou, Steven Johnston, Riccardo Comin
   authors-short: Jonathan Pelliciari et. al.
-  picture-path:
+  picture-path: 2021_pelliciari_nc.jpg
   description: 1
 
 - title: Electronic reconstruction forming a C2-symmetric Dirac semimetal in Ca3Ru2O7
