@@ -73,6 +73,10 @@ nav {
   z-index: 1000; /* Keep on top of other elements */
   top: 0;
   transition: top 0.3s; /* Smooth transition for moving navbar */
+  a{
+    text-decoration:none !important;
+    color: black;
+  }
   .nav-container {
     display: flex;
     justify-content: space-between;
@@ -103,6 +107,9 @@ nav {
       font-size: 1.5rem;
       margin: 0 0;
       font-weight:100;
+      @media (max-width: 900px){
+        font-size: 0.9em;
+      }
     }
   }
   .nav-links {
@@ -160,6 +167,14 @@ nav {
 body {
   .wrapper {
     margin : $default-top-space $default-side-space;
+  }
+  .page-wrapper {
+    box-shadow: 0px -8px 16px 0px rgba(0,0,0,1);
+    padding : $default-top-space $default-side-space;
+    top: -20px;
+    position: relative;
+    z-index:1000;
+    background-color: white;
   }
   .home-wrapper {
     background-color: rgba(255, 255, 255, 1);

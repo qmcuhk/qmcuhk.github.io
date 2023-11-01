@@ -7,7 +7,7 @@ window.addEventListener('scroll', function() {
 
     if (scrollTop > lastScrollTop) {
         // Scrolling down
-        navbar.style.top = "-60px";  // Assumes navbar height is 60px. Adjust accordingly.
+        navbar.style.top = "-80px";  // Assumes navbar height is 60px. Adjust accordingly.
     } else {
         // Scrolling up
         navbar.style.top = "0";
@@ -27,7 +27,7 @@ window.addEventListener('scroll', function() {
     // publication popup effect
     var pubPop = document.getElementById("publication-popup");
     if (pubPop!= null){
-        if (document.documentElement.scrollTop > 20 || document.documentElement.scrollTop > 20){
+        if (document.documentElement.scrollTop > 450 || document.documentElement.scrollTop > 450){
           pubPop.style.top = "0";
           pubPop.style.opacity = "1";
         }
