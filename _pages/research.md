@@ -23,9 +23,11 @@ We perform x-ray and neutron scattering/spectroscopy experiments at large scale 
         </div>
         <div class="research-tech-info">
         RIXS employs x-rays that are tuned close to an absorption edge of the sample’s elements. It thus involves an intermediate transition from core levels to the unoccupied valence states. The resonance transition greatly enhances the sensitivity of RIXS to electronic correlations. In the presence of strong core-hole spin-orbit coupling, RIXS allows spin-flip (magnetic) scattering enabling the detection of magnetic correlations. In a RIXS process, the changes of photons’ energy, momentum, and polarization are transferred to the sample generating various elementary excitations such as phonon, magnon, charge excitations, dd-excitations, and plasmon. By measuring the changes of scattered photons, we can determine the dispersion relation of the generated excitations [1]. RIXS has been rapidly developing over the past decades. For soft-RIXS, the state-of-the-art energy resolution has reached ~40 meV with 1 keV x-rays.
-        [1] P. Ament, M. van Veenendaal, T. P. Devereaux, J. P. Hill & J. van den Brink. Rev. Mod. Phys. 83, 705 (2011).
-        [2] Q. Wang, K. von Arx, M. Horio et al., Sci. Adv. 7, eabg7394 (2021).
-        [3] H. Lu, M. Rossi, A. Nag et al., Science 373, 213 (2021).
+        <p><small>References</br>
+        [1] P. Ament et al., Rev. Mod. Phys. 83, 705 (2011).</br>
+        [2] Q. Wang et al., Sci. Adv. 7, eabg7394 (2021).</br>
+        [3] H. Lu et al., Science 373, 213 (2021).
+        </small></p>
         </div>
     </div>
 </div>
