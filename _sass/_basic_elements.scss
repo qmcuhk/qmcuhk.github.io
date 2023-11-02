@@ -169,16 +169,16 @@ body {
     margin : $default-top-space $default-side-space;
   }
   .page-wrapper {
-    box-shadow: 0px -8px 16px 0px rgba(0,0,0,1);
+    box-shadow: 0px -12px 8px 0px rgba(0,0,0,1);
     padding : $default-top-space $default-side-space;
     top: -20px;
     position: relative;
-    z-index:1000;
+    z-index: 1;
     background-color: white;
   }
   .home-wrapper {
     background-color: rgba(255, 255, 255, 1);
-    box-shadow: 0px -8px 16px 0px rgba(0,0,0,0.4);
+    box-shadow: 0px -12px 8px 0px rgba(0,0,0,0.4);
     padding : $default-top-space $default-side-space;
     position: relative;
   }

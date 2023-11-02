@@ -17,6 +17,7 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
 <div class="publication-container"> 
   <div class="publications">
     {% assign publications = site.data.publications | sort: "date" | reverse %}
+    {% assign counter = publications | size %}
     {% for publication in publications%}
     <div class="publication">
         <div class="publication-picture">
@@ -27,13 +28,14 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
         {% endif %}
         </div>
         <div class="publication-info">
-            <div class="title">{{publication.title}}</div>
+            <div class="title">{{counter}}.{{publication.title}}</div>
             <div class="authors">
                 {{publication.authors}}
             </div>
             <div class="journal">{{publication.journal}}</div>
         </div>
     </div>
+    {% assign counter = counter | minus: 1%}
     {% endfor %}
     <button id="show-more">Show More</button>
   </div>
