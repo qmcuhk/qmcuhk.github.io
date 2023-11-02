@@ -186,7 +186,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: M. Horio, Q. Wang, V. Granata, K. P. Kramer, Y. Sassa, S. Jöhr, D. Sutter, A. Bold, L. Das, Y. Xu, R. Frison, R. Fittipaldi, T. K. Kim, C. Cacho, J. E. Rault, P. Le Fèvre, F. Bertran, N. C. Plumb, M. Shi, A. Vecchione, M. H. Fischer, J. Chang
   authors-short: M. Horio et. al.
-  picture-path:
+  picture-path: 2021_horio_npjqm.jpg
   description: 1
 
 - title: Observation of an electronic order along [110] direction in FeSe
@@ -195,7 +195,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Kunliang Bu, Wenhao Zhang, Ying Fei, Yuan Zheng, Fangzhou Ai, Zongxiu Wu, Qisi Wang, Hongliang Wo, Jun Zhao, Yi Yin
   authors-short: Kunliang Bu et. al.
-  picture-path:
+  picture-path: 2021_bu_nc.jpg
   description: 1
 
 - title: Oxide Fermi liquid universality revealed by electron spectroscopy
@@ -204,7 +204,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: M. Horio, K. P. Kramer, Q. Wang, A. Zaidan, K. von Arx, D. Sutter, C. E. Matt, Y. Sassa, N. C. Plumb, M. Shi, A. Hanff, S. K. Mahatha, H. Bentmann, F. Reinert, S. Rohlf, F. K. Diekmann, J. Buck, M. Kalläne, K. Rossnagel, E. Rienks, V. Granata, R. Fittipaldi, A. Vecchione, T. Ohgi, T. Kawamata, T. Adachi, Y. Koike, A. Fujimori, M. Hoesch, J. Chang
   authors-short: M. Horio et. al.
-  picture-path:
+  picture-path: 2020_horio_prb.jpg
   description: 1
 
 - title: Resonant inelastic x-ray scattering study of Ca3Ru2O7
@@ -213,7 +213,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: K. von Arx, F. Forte, M. Horio, V. Granata, Q. Wang, L. Das, Y. Sassa, R. Fittipaldi, C. G. Fatuzzo, O. Ivashko, Y. Tseng, E. Paris, A. Vecchione, T. Schmitt, M. Cuoco, J. Chang
   authors-short: K. von Arx et. al.
-  picture-path:
+  picture-path: 2020_vonarx_prb.jpg
   description: 1
 
 - title: High-Temperature Charge-Stripe Correlations in La1.675Eu0.2Sr0.125CuO4
@@ -222,7 +222,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Qisi Wang*, M. Horio, K. von Arx, Y. Shen, D. John Mukkattukavil, Y. Sassa, O. Ivashko, C. E. Matt, S. Pyon, T. Takayama, H. Takagi, T. Kurosawa, N. Momono, M. Oda, T. Adachi, S. M. Haidar, Y. Koike, Y. Tseng, W. Zhang, J. Zhao, K. Kummer, M. Garcia-Fernandez, Ke-Jin Zhou, N. B. Christensen, H. M. Rønnow, T. Schmitt, J. Chang* 
   authors-short: Qisi Wang et. al.
-  picture-path:
+  picture-path: 2020_wang_prl.jpg
   description: 1
 
 - title: Neutron scattering studies on unconventional superconductors
@@ -231,7 +231,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Hongliang Wo, Qisi Wang, Yao Shen, Jun Zhao 
   authors-short: Hongliang Wo et. al.
-  picture-path:
+  picture-path: 2019_wo_wl.jpg
   description: 1
 
 - title: Study of intrinsic defect states of FeSe with scanning tunneling microscopy
