@@ -285,7 +285,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Long Wu, Lei Chen, Hao Wang, Qisi Wang, Hongliang Wo, Jun Zhao, Xiaoyu Liu, Xiaolei Wu, Zhen Wang
   authors-short: Long Wu et. al.
-  picture-path:
+  picture-path: 2017_wu_sst.jpg
   description: 1
 
 - title: Evidence for a spinon Fermi surface in a triangular-lattice quantum-spin-liquid candidate
@@ -294,7 +294,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Yao Shen, Yao-Dong Li, Hongliang Wo, Yuesheng Li, Shoudong Shen, Bingying Pan, Qisi Wang, H. C. Walker, P. Steffens, M. Boehm, Yiqing Hao, D. L. Quintero-Castro, L. W. Harriger, M. D. Frontzek, Lijie Hao, Siqin Meng, Qingming Zhang, Gang Chen, Jun Zhao
   authors-short: Yao Shen et. al.
-  picture-path:
+  picture-path: 2016_shen_nature.jpg
   description: 1
 
 - title: Highly anisotropic and twofold symmetric superconducting gap in nematically ordered FeSe0.93S0.07
@@ -303,7 +303,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: H. C. Xu, X. H. Niu, D. F. Xu, J. Jiang, Q. Yao, Q. Y. Chen, Q. Song, M. Abdel-Hafiez, D. A. Chareev, A. N. Vasiliev, Q. S. Wang, H. L. Wo, J. Zhao, R. Peng, D. L. Feng
   authors-short: H. C. Xu et. al.
-  picture-path:
+  picture-path: 2016_xu_prl.jpg
   description: 1
 
 - title: Strong interplay between stripe spin fluctuations, nematicity and superconductivity in FeSe
@@ -312,7 +312,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Qisi Wang, Yao Shen, Bingying Pan, Yiqing Hao, Mingwei Ma, Fang Zhou, P. Steffens, K. Schmalzl, T. R. Forrest, M. Abdel-Hafiez, Xiaojia Chen, D. A. Chareev, A. N. Vasiliev, P. Bourges, Y. Sidis, Huibo Cao, Jun Zhao
   authors-short: Qisi Wang et. al.
-  picture-path:
+  picture-path: 2016_wang_nm.jpg
   description: 1
 
 - title: Magnetic ground state of FeSe
@@ -321,7 +321,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Qisi Wang#, Yao Shen#, Bingying Pan#, Xiaowen Zhang, K. Ikeuchi, K. Iida, A. D. Christianson, H. C. Walker, D. T. Adroja, M. Abdel-Hafiez, Xiaojia Chen, D. A. Chareev, A. N. Vasiliev, Jun Zhao
   authors-short: Qisi Wang et. al.
-  picture-path:
+  picture-path: 2016_wang_nc.jpg
   description: 1
 
 - title: Transition from sign-reversed to sign-preserved Cooper-pairing symmetry in sulfur-doped iron selenide superconductors
@@ -330,7 +330,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Qisi Wang, J. T. Park, Yu Feng, Yao Shen, Yiqing Hao, Bingying Pan, J.W. Lynn, A. Ivanov, Songxue Chi, M. Matsuda, Huibo Cao, R. J. Birgeneau, D. V. Efremov, Jun Zhao
   authors-short: Qisi Wang et. al.
-  picture-path:
+  picture-path: 2016_wang_prl.jpg
   description: 1
 
 - title: Structural and magnetic phase diagram of CrAs and its relationship with pressure-induced superconductivity
@@ -339,7 +339,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Yao Shen#, Qisi Wang#, Yiqing Hao#, Bingying Pan, Yu Feng, Qingzhen Huang, L. W. Harriger, J. B. Leao, Yang Zhao, R. M. Chisnell, J. W. Lynn, Huibo Cao, Jiangping Hu, Jun Zhao
   authors-short: Yao Shen et. al.
-  picture-path:
+  picture-path: 2016_shen_prb.jpg
   description: 1
 
 - title: Electronic structure of YFe2Ge2 studied by angle-resolved photoemission spectroscopy
@@ -348,7 +348,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: D. F. Xu, D. W. Shen, D. Zhu, J. Jiang, B. P. Xie, Q. S. Wang, B. Y. Pan, P. Dudin, T. K. Kim, M. Hoesch, J. Zhao, X. G. Wan, D. L. Feng
   authors-short: D. F. Xu et. al.
-  picture-path:
+  picture-path: 2016_xu_prb.jpg
   description: 1
 
 - title: Unexpected low thermal conductivity and large power factor in Dirac semimetal Cd3As2
@@ -357,7 +357,7 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Cheng Zhang, Tong Zhou, Sihang Liang, Junzhi Cao, Xiang Yuan, Yanwen Liu, Yao Shen, Qisi Wang, Jun Zhao, Zhongqin Yang, Faxian Xiu
   authors-short: Cheng Zhang et. al.
-  picture-path:
+  picture-path: 2016_zhang_cpb.jpg
   description: 1
 
 - title: Landau level splitting in Cd3As2 under high magnetic fields
@@ -366,5 +366,5 @@
   arxiv: https://arxiv.org/pdf/1502.07544.pdf
   authors: Junzhi Cao, Sihang Liang, Cheng Zhang, Yanwen Liu, Junwei Huang, Zhao Jin, Zhi-Gang Chen, Zhijun Wang, Qisi Wang, Jun Zhao, Shiyan Li, Xi Dai, Jin Zou, Zhengcai Xia, Liang Li, Faxian Xiu
   authors-short: Junzhi Cao et. al.
-  picture-path:
+  picture-path: 2015_cao_nc.jpg
   description: 1
