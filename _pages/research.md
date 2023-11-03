@@ -37,7 +37,7 @@ We perform X-ray and neutron scattering/spectroscopy experiments at large-scale 
     <h1>Neutron Scattering</h1>
     <div class="research-tech-container-reverse">
         <div class="research-tech-info">
-        Neutron scattering can determine the crystalline and magnetic structures as well as their dynamics. This is becuase: (1) neutrons carry spin 1/2, and can thus interact with the dipole moments in the matter; (2) neutrons interact with the atoms via nuclear force; (3) neutrons are charge neutral and thus have deep penetration into most materials; (4) the wavelengths and energis of neutrons used for our experiments are comparable to the crystal lattice parameters and elementary excitations, leading to high momentum and energy resolutions. Neutron scattering is a bulk probe which can be combined with versatile sample environments like magnetic field, high pressure.
+        Neutron scattering can determine the crystalline and magnetic structures as well as their dynamics. This is becuase: (1) neutrons carry spin 1/2, and can thus interact with the dipole moments in the matter; (2) neutrons interact with the atoms via nuclear forces; (3) neutrons are charge neutral and thus have deep penetration into most materials; (4) the wavelengths and energies of neutrons used for our scattering experiments are comparable to the crystal lattice parameters and elementary excitations, respectively, leading to high momentum and energy resolutions. Due to the weak interaction with matter, neutron scattering is a bulk probe which can be combined with versatile sample environments like magnetic field, high pressure.
         </div>
         <div class="research-tech-pic">
             <img src="assets/web_pictures/temp_profile_pic.jpg">
