@@ -28,7 +28,7 @@ Graduate students:<br>
 <li>BSc in physics, material science, chemistry or related fields</li>
 <li>Excellent written and oral English communication skills</li>
 <li>A good understanding of condensed matter physics</li>
-Demonstrated skills in data analysis, programing
+<li>Demonstrated skills in data analysis, programing, and instrument development</li>
 </ul>
 </p>
 <p>
