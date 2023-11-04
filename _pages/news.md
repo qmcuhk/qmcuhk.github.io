@@ -3,8 +3,11 @@ layout: page
 title: News
 permalink: /news
 ---
-<div>
+
+<div Class="research-introduction">
 <p>
+<br>
+<br>
 The Quantum Matter Lab currently has opening for undergraduates, graduate students, and postdocs.
 <hr>
 </p>
@@ -14,7 +17,7 @@ Preferred Background, Knowledge, Skills, and Abilites:
 <p>
 Postdocs:<br>
 <ul>
-<li>PhD in Physics or related disciplines</li>
+<li>PhD in physics or related disciplines</li>
 <li>Experience in spectroscopy/scattering/diffraction experiments</li>
 <li>Expertise on crystal growth.</li>
 </ul>
@@ -22,7 +25,7 @@ Postdocs:<br>
 <p>
 Graduate students:<br>
 <ul>
-<li>BSc in Physics, Material Science, Chemistry or or related fields</li>
+<li>BSc in physics, material science, chemistry or related fields</li>
 <li>Excellent written and oral English communication skills</li>
 <li>A good understanding of condensed matter physics</li>
 Demonstrated skills in data analysis, programing
