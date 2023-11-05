@@ -71,4 +71,4 @@ $ bundle exec jekyll serve
 
 ### Fany web design
 - add highlighted publications in publication page, with the effect as on https://www.crbgroup.com/
-- member-card should be of the same size. We could change the design of the member card on the homepage to those on https://www.crbgroup.com/
+- We could change the design of the member card on the homepage to those on https://www.crbgroup.com/
