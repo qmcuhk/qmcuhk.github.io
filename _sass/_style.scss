@@ -108,17 +108,16 @@ body.index a{
 .publication-container {
     margin: 0 5vw 0 5vw;
     .publications {
-      max-width: 50em;
-      margin: 0 auto 0 5vw;
+      width: 100%;
+      margin: 0 auto 0 auto;
       padding-top: 50px;
       display: flex;
       flex-direction: column;
       align-items:flex-start;
       align-content:start;
-  }
-  .header {
-      font-size: 24px;
-      margin-bottom: 30px;
+      @media (max-width: 900px){
+        max-width: 95%;
+      }
   }
   .publication {
     display: flex;
@@ -126,27 +125,26 @@ body.index a{
     justify-content: flex-start;
     border-bottom: 2px solid #e0e0e0;
     padding: 15px 1em;
+    width: 100%;
     flex-direction: row;
     gap: 2em;
     background-color: white;
     transition: background-color 0.3s, border-radius 0.3s;
     &:hover{
-      background-color: #eaeaea;
+      background-color: #f3f3f3;
       border-radius: 4px;
     }
+    @media (max-width: 900px){
+      flex-direction: column;
+    }
   }
-  .publication-keep {
-    display: flex;
-    align-items: start;
-    justify-content: flex-start;
-    border-bottom: 2px solid #e0e0e0;
-    padding: 15px 0;
-    flex-direction: row;
-    gap: 2em;
-  }
-  .publication-transparent {
-    z-index:1000;
-    background-color: linear-gradient(to bottom, #000000, rgba(0, 87, 179, 0));
+  .publication-picture{
+    img {
+    width: 10em;
+    @media (max-width: 900px){
+      width: 80vw;
+    }
+    }
   }
   .publication-info {
     display: flex;
@@ -154,41 +152,51 @@ body.index a{
     align-items:flex-start;
     flex-direction: column;
     padding-right: 2em;
-  }
-  .publication-picture{
-    img {
-    width: 10em;
-    }
-  }
-  .publication:last-child {
+    .publication:last-child {
       border-bottom: none;
-  }
-  .title {
-      font-weight: bold;
-      color: #333;
-      max-width: 50em;
-      font-size: 1.1em;
-  }
-  .journal {
-      color: rgb(64, 64, 64);
-  }
-  .authors {
-    color: #7e7e7e;
-    width: 55em;
-    font-size:0.9em;
-    max-width: 95%;
-  }
-  .year {
-      font-size: 24px;
-      font-weight: bold;
-  }
-  .label {
-      background-color: #b5b5b5;
-      padding: 3px 7px;
-      color: white;
-      border-radius: 3px;
-      font-size: 12px;
-      text-align: center;
+    }
+    .publication-button {
+      display: inline-block;
+      padding: 1px 10px;
+      margin-left: 10px;
+      background-color: #f7f7f7;
+      color: rgb(119, 119, 119);
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 0.8em;
+      transition: background-color 0.3s;
+      font-weight:400;
+      &:hover {
+        background-color: #b6b6b6;
+        color: white;
+      }
+    }
+    .title {
+        font-weight: bold;
+        color: #333;
+        width: 100%;
+        font-size: 1.1em;
+    }
+    .journal {
+        color: rgb(64, 64, 64);
+    }
+    .authors {
+      color: #7e7e7e;
+      font-size:0.9em;
+      max-width: 95%;
+    }
+    .year {
+        font-size: 24px;
+        font-weight: bold;
+    }
+    .label {
+        background-color: #b5b5b5;
+        padding: 3px 7px;
+        color: white;
+        border-radius: 3px;
+        font-size: 12px;
+        text-align: center;
+    }
   }
 }
 
@@ -324,19 +332,11 @@ p {
   font-size:0.9rem;
 }
 
-// research page
+// banner
 .banner {
   position: relative;
   overflow: hidden;
-  .logos {
-    display: flex;
-    justify-content: center; /* Horizontally center logos */
-    gap: 20px; /* Spacing between logos */
-  }
-  .logo {
-    width: 20vw; /* Adjust size if needed */
-    height: auto;
-  }
+  min-height: 50vh;
   .banner-picture {
     min-width: 100vw;
     opacity: 1;
@@ -347,7 +347,7 @@ p {
 .banner-title {
   position: absolute;
   left: 50%;
-  top: 35vh;
+  top: 50%;
   transform: translate(-50%, -50%); /* Center the content */
   text-align: center; /* Center text and images horizontally */
   color: white; /* Assuming white text. Adjust if needed */
@@ -428,10 +428,17 @@ p {
   align-content: center;
   align-items: start;
   margin: 0 auto 0 auto;
-  gap: 1.5em;
+  gap: 2em;
   @media (max-width: 900px){
     flex-direction: column;
     align-items: center;
+  }
+  .contact-pic {
+      width: 30%;
+      margin-top: 20px;
+      img {
+        width: 100%;
+      }
   }
   .contact-info-container {
     display: flex;

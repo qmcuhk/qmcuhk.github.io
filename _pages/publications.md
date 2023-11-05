@@ -28,7 +28,24 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
         {% endif %}
         </div>
         <div class="publication-info">
-            <div class="title">{{counter}}.{{publication.title}}</div>
+            <div class="title">
+              {{counter}}.{{publication.title}}
+              {% if publication.pdf-name %}
+                <a class = "publication-button" href="assets/pdfs/{{publication.pdf-name}}" target="_blank" rel="noopener noreferrer"> 
+                PDF
+                </a>
+              {% endif %}
+              {% if publication.arxiv %}
+                <a class = "publication-button" href="{{publication.arxiv}}" target="_blank" rel="noopener noreferrer"> 
+                arXiv
+                </a>
+              {% endif %}
+              {% if publication.doi %}
+                <a class = "publication-button" href="{{publication.doi}}" target="_blank" rel="noopener noreferrer"> 
+                DOI
+                </a>
+              {% endif %}
+            </div>
             <div class="authors">
                 {{publication.authors}}
             </div>

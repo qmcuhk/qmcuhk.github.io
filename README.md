@@ -60,6 +60,10 @@ $ bundle exec jekyll serve
 - Ordering matters here
 
 
+# miscellaneous
+
+
+
 # To-do List
 
 ### Content filling

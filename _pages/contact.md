@@ -7,17 +7,9 @@ line:
 ---
 
 <div class="contact-container">
-  <div class="member-card">
-        <img src="assets/web_pictures/qisi.jpg" alt="qisi.jpg" style="width:100%">
-        <h1>Prof. Qisi Wang</h1>
-        <p class="member-card-title">Group Leader</p>
-        <p>The Chinese University of HK</p>
-        <div class="member-card-logo">
-            <a href="mailto:qwang@cuhk.edu.hk" target="blank"><i class="fa-solid fa-envelope"></i></a> 
-            <a href="mailto:" target="blank"><i class="fa-brands fa-twitter"></i></a>  
-            <a href="mailto:" target="blank"><i class="fa-brands fa-github"></i></a>  
-        </div>
-  </div>
+    <div class = "contact-pic">
+    <img src="assets/web_pictures/gray_square.png">
+    </div>
     <div class="contact-info">
         <h2>
             Prof. Qisi Wang | Group Leader

@@ -27,7 +27,7 @@ window.addEventListener('scroll', function() {
     // publication popup effect
     var pubPop = document.getElementById("publication-popup");
     if (pubPop!= null){
-        if (document.documentElement.scrollTop > 450 || document.documentElement.scrollTop > 450){
+        if (document.documentElement.scrollTop > 300 || document.documentElement.scrollTop > 300){
           pubPop.style.top = "0";
           pubPop.style.opacity = "1";
         }

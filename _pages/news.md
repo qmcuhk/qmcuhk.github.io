@@ -2,6 +2,7 @@
 layout: page
 title: News
 permalink: /news
+banner-path: banner-campus.jpg
 ---
 
 <div Class="research-introduction">
