@@ -28,7 +28,9 @@ We are an experimental research group on condensed matter physics led by Prof. Q
   {% assign members = site.data.members %}
   {% for member in members%}
     <div class="member-card">
-        <img src="assets/web_pictures/{{member.photo-path}}" alt="{{member.photo-path}}" style="width:100%">
+        <div class="member-image-container">
+          <img src="assets/web_pictures/{{member.photo-path}}" alt="{{member.photo-path}}" style="width:100%">
+        </div>
         <h1>{{member.name}}</h1>
         <p class="member-card-title">{{member.title}}</p>
         <p>{{member.affiliation-1}}</p>

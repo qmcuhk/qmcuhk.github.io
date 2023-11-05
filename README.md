@@ -67,7 +67,7 @@ $ bundle exec jekyll serve
 # To-do List
 
 ### Content filling
-- Equipments introduction in Research page, as in https://kondo1215.issp.u-tokyo.ac.jp/research.php
+- Teaching page
 
 ### Fany web design
 - add highlighted publications in publication page, with the effect as on https://www.crbgroup.com/
