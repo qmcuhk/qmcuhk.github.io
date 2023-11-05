@@ -429,49 +429,65 @@ p {
 
 // contact
 .contact-container {
+  width: 85%;
+  height: 80vh; /* Adjust the height as you see fit */
+  margin: auto; /* This centers the block on the page */
   display: flex;
-  width: 80%;
-  max-width: 70em;
-  flex-direction: row;
-  align-content: center;
-  align-items: start;
-  margin: 0 auto 0 auto;
-  gap: 2em;
-  @media (max-width: 900px){
-    flex-direction: column;
-    align-items: center;
-  }
-  .contact-pic {
-      width: 30%;
-      margin-top: 20px;
-      img {
-        width: 100%;
-      }
-  }
-  .contact-info-container {
+  justify-content: space-between;
+  border: 1px solid #ccc; /* Optional border */
+  .contact-section {
+    width: 50%; /* or the width you prefer */
+    background-color: #333; /* or any color you prefer */
+    color: white;
+    padding: 20px;
     display: flex;
     flex-direction: row;
-    align-items: start;
-    align-content: flex-start;
-    font-size: 1.1em;
-    gap: 0.7em;
-    margin-bottom: 0.3em;
+    gap: 5%;
+    align-content: space-evenly;
+    flex-wrap:wrap;
+  }
+  .contact-item {
+    text-align: center;
+    width: 45%;
+    a {
+      text-decoration: none;
+      font-size: 2em;
+      color: white;
+
+    }
+  }
+  .icon-container {
+    font-size: 2em; /* Size of the icon */
+    margin-bottom: 10px;
+  }
+  h3 {
+    margin: 0;
+    font-size: 1.4em;
+    font-weight: normal;
+    color:#b5b5b5;
+  }
+  p {
+    margin: 5px 0 0 0;
+    font-size: 0.9em;
+  }
+  /* If using Font Awesome, ensure icons are centered and sized appropriately */
+  .fas {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+  .map {
+    width: 50%; /* Adjust the width as needed */
+    border: none;
   }
 }
 
-.map {
-  margin: 0 auto;
-  iframe{
-    position: relative;
-    width:70%; 
-    height:80vh; 
-    overflow:hidden;
-    left: 50%;
-    border-style:none;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-    transform: translate(-50%,0);
-    @media (max-width: 900px){
-      width: 100%;
-    }
+
+@media (max-width: 768px) {
+  .contact-container {
+    flex-direction: column;
+  }
+  .contact-info, .map {
+    width: 100%;
   }
 }
