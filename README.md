@@ -94,6 +94,11 @@ $ bundle exec jekyll serve
     - `_style.scss`: the main playground. The design of all the other elements go here.
 - `_site/`: don't touch this folder.
 - `assets/`: all the pictures, figures, codes, pdf files, go here. 
+- `myscript.js`: javascript file. 
+- `style.scss`: directs Jekyll to the `_sass/` folder for more SCSS files.
+- `fast_pull.sh`: for lazy ppl like me to `git pull`
+- `fast_serve.sh`: for lazy ppl like me to `Jekyll serve`
+- `config.yml`: config settings of Jekyll.
 
 
 
