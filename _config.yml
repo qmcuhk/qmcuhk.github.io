@@ -32,7 +32,8 @@ sass:
 collections:
   notes:
     output: true
-    permalink: /:slug
+    permalink: /posts/:slug
+    
 
 
 defaults:
@@ -44,5 +45,4 @@ defaults:
 #      path: "_diaries/**/*.md"
 #    values:
 #      layout: "diary"
-
 

@@ -344,7 +344,7 @@ body.index a{
 }
 p {
   margin: 0 0;
-  font-size:0.9rem;
+  font-size:1em;
 }
 
 // banner
@@ -496,5 +496,70 @@ p {
   }
   .contact-info, .map {
     width: 100%;
+  }
+}
+
+
+// News page
+$font-stack: Arial, sans-serif;
+$primary-color: #333;
+
+.news-container {
+  display: flex;
+  flex-direction: row;
+  margin: 3em 5vw;
+  align-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: start;
+  justify-content: center;
+  gap: 5%;
+  .news-item {
+    width: 45%;
+    height: 35em;
+    background: #fff;
+    margin-bottom: 4em;
+    overflow: hidden;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    .news-img-container {
+      width: 100%;
+      max-height:60%;
+      overflow: hidden;
+    }
+    img {
+      min-width: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
+    .news-content {
+      padding: 12px 0;
+      height: 40%;
+      h2 {
+        margin: 0.2em 0.5em;
+      }
+      p {
+        color:#606060;
+        font-size: 1em;
+        font-weight: 500;
+        margin: 0 0.5em;
+      }
+    }
+  }
+  .news-item:first-child {
+    width: 75%;
+    height: 70em;
+    max-height: 90vh;
+    margin-bottom: 6em;
+    .news-img-container {
+      width: 100%;
+      max-height:72.5%;
+      overflow: hidden;
+    }
+  }
+  // Responsive layout adjustments
+  @media (max-width: 900px) {
+    flex-direction: column;
+    .news-item {
+      width: 90%;
+    }
   }
 }
