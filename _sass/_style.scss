@@ -132,13 +132,17 @@ body.index a{
     }
     @media (max-width: 900px){
       flex-direction: column;
+      margin-top: 3.5em;
     }
   }
   .publication-picture{
+    @media (max-width: 900px){
+      margin: 0 auto;
+    }
     img {
     width: 10em;
     @media (max-width: 900px){
-      width: 80vw;
+      max-width: 80vw;
     }
     }
   }
@@ -148,6 +152,9 @@ body.index a{
     align-items:flex-start;
     flex-direction: column;
     padding-right: 2em;
+    @media (max-width: 900px){
+      padding-right: 0;
+    }
     .publication:last-child {
       border-bottom: none;
     }
