@@ -65,11 +65,12 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
   const publications = document.querySelectorAll('.publication');
   const showMoreBtn = document.getElementById('show-more');
   let currentMax = 15;
+  let moreLoad = 15;
 
   // Function to initially hide all publications except the first 10
   const initialHide = () => {
     publications.forEach((pub, index) => {
-      if (index >= 10) {
+      if (index >= currentMax) {
         pub.style.display = 'none';
       }
     });
@@ -80,7 +81,7 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
 
   // Function to show more publications
   const showMore = () => {
-    let newMax = currentMax + 10;
+    let newMax = currentMax + moreLoad;
     publications.forEach((pub, index) => {
       if (index < newMax && index >= currentMax) {
         pub.style.display = 'flex';
