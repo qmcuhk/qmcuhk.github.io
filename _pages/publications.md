@@ -64,7 +64,7 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
   // Get all the publications and the 'Show More' button
   const publications = document.querySelectorAll('.publication');
   const showMoreBtn = document.getElementById('show-more');
-  let currentMax = 10;
+  let currentMax = 15;
 
   // Function to initially hide all publications except the first 10
   const initialHide = () => {
