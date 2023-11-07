@@ -544,16 +544,6 @@ $primary-color: #333;
       }
     }
   }
-  .news-item:first-child {
-    width: 75%;
-    height: 70em;
-    max-height: 90vh;
-    margin-bottom: 6em;
-    .news-img-container {
-      width: 100%;
-      max-height:72.5%;
-      overflow: hidden;
-    }
   }
   // Responsive layout adjustments
   @media (max-width: 900px) {
