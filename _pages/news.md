@@ -19,7 +19,7 @@ banner-path: banner-campus.jpg
         </a>
         </div>
         <div class="news-content">
-            <h2>{{new.title}}</h2>
+            <h3>{{new.title}}</h3>
             <p>{{new.excerpt}}</p>
         </div>
     </div>
