@@ -1,0 +1,11 @@
+---
+title: Visit of Dr. Gediminas Simutis
+picture-path: news_pictures/2023_11_07_gediminas_visit.jpg
+date: 2023-11-07
+tag: news
+layout: page
+---
+
+Today, Dr. Gediminas Simutis from Paul Scherrer Institute, Switzerland visited our group and gave a seminar talk in our department. Dr. Simutis is an expert in neutron scattering, μSR and X-ray experiments under extreme conditions. Thanks Gediminas for the excellent talk and discussions!
+
+
