@@ -135,6 +135,12 @@ body.index a{
       margin-top: 3.5em;
     }
   }
+  .publication-preprint {
+    @extend .publication;
+    &:last-child {
+      border-bottom: none;
+    }
+  }
   .publication-picture{
     @media (max-width: 900px){
       margin: 0 auto;
@@ -154,9 +160,6 @@ body.index a{
     padding-right: 2em;
     @media (max-width: 900px){
       padding-right: 0;
-    }
-    .publication:last-child {
-      border-bottom: none;
     }
     .publication-button {
       display: inline-block;

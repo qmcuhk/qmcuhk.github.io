@@ -113,12 +113,8 @@ $ bundle exec jekyll serve
 
 ### 🧀
 1. 加一个page，Openings，把现在news里面的内容放到那里面去
-2. 在News那一页能不能弄一个模板，类似于publication，一个图片对应一段话，然后我去编辑里面的内容
-3. publication里面的doi和arxiv的按键能不能放在刊物年份后面空两三个格，这样省一点空间
 4. （写在shared doc里面了）publications那页开头写一段“For citation statistics and additional information, please see:”， 然后下面加Google scholar， ResearchGate和arXiv的图标，link如下：
 google scholar link: https://scholar.google.com/citations?user=f73__XkAAAAJ&hl=en&oi=ao
 ResearchGate link: https://www.researchgate.net/profile/Qisi-Wang
 arXiv link: https://arxiv.org/a/wang_q_9.html
 5. 空一点后面再加一句“#: equal contribution; *: corresponding author”
-6. 现在的Publications之上再加一块儿“Preprints”
-7. 最后publication一页比现在多显示一点

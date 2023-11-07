@@ -6,23 +6,76 @@ banner-path: banner-campus.jpg
 line: RIXS, XAS, XRD, Neutron Scattering, and more...
 ---
 
-
-<div class="medium-divider"></div>
 <div class="medium-divider">
-<h1 id="publication-popup"> Publications </h1>
+<h1> Preprints </h1>
 </div>
 <hr>
-<div class="medium-divider"></div>
+<div class="publication-container"> 
+  <div class="publications">
+    {% assign publications = site.data.publications | sort: "date" | reverse %}
+    {% assign preprints = publications | where: "preprint", "true" %}
+    {% assign counter = preprints | size %}
+    {% for preprint in preprints%}
+    <div class="publication-preprint">
+        <div class="publication-picture">
+        {% if preprint.picture-path %}
+            <img src="../assets/publications_pictures/{{preprint.picture-path}}" alt="Welcome Image">
+        {% else %}
+            <div style="width: 176px; height: 127px; background-color:#eaeaea;"> </div>
+        {% endif %}
+        </div>
+        <div class="publication-info">
+            <div class="title">
+              {{counter}}.{{preprint.title}}
+            </div>
+            <div class="authors">
+                {{preprint.authors}}
+            </div>
+            <div class="journal">{{publication.journal}}
+              {% if publication.pdf-name %}
+                <a class = "publication-button" href="../assets/pdfs/{{preprint.pdf-name}}" target="_blank" rel="noopener noreferrer"> 
+                PDF
+                </a>
+              {% endif %}
+              {% if preprint.arxiv %}
+                <a class = "publication-button" href="{{preprint.arxiv}}" target="_blank" rel="noopener noreferrer"> 
+                arXiv
+                </a>
+              {% endif %}
+            </div>
+        </div>
+    </div>
+    {% assign counter = counter | minus: 1%}
+    {% endfor %}
+  </div>
+</div>
+
+
+
+
+<div class="large-divider"></div>
+<div class="medium-divider">
+<h1> Publications </h1>
+</div>
+<hr>
 
 <div class="publication-container"> 
   <div class="publications">
     {% assign publications = site.data.publications | sort: "date" | reverse %}
-    {% assign counter = publications | size %}
-    {% for publication in publications%}
+    <!-- set counter -->
+    {% assign counter = 0 %}
+    {% for publication in publications %}
+      {% unless publication.preprint == "true" %}
+        {% assign counter = counter | plus: 1 %}
+      {% endunless %}
+    {% endfor %}
+    <!--set counter -->
+    {% for publication in publications %}
+    {% unless publication.preprint  %}
     <div class="publication">
         <div class="publication-picture">
         {% if publication.picture-path %}
-            <img src="assets/publications_pictures/{{publication.picture-path}}" alt="Welcome Image">
+            <img src="../assets/publications_pictures/{{publication.picture-path}}" alt="Welcome Image">
         {% else %}
             <div style="width: 176px; height: 127px; background-color:#eaeaea;"> </div>
         {% endif %}
@@ -36,7 +89,7 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
             </div>
             <div class="journal">{{publication.journal}}
               {% if publication.pdf-name %}
-                <a class = "publication-button" href="assets/pdfs/{{publication.pdf-name}}" target="_blank" rel="noopener noreferrer"> 
+                <a class = "publication-button" href="../assets/pdfs/{{publication.pdf-name}}" target="_blank" rel="noopener noreferrer"> 
                 PDF
                 </a>
               {% endif %}
@@ -54,6 +107,7 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
         </div>
     </div>
     {% assign counter = counter | minus: 1%}
+    {%endunless%}
     {% endfor %}
     <button id="show-more">Show More</button>
   </div>
