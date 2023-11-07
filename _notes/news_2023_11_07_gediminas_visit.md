@@ -6,6 +6,6 @@ tag: news
 layout: page
 ---
 
-Today, Dr. Gediminas Simutis from Paul Scherrer Institute, Switzerland visited our group and gave a seminar talk in our department. Dr. Simutis is an expert in neutron scattering, μSR and X-ray experiments under extreme conditions. Thanks Gediminas for the excellent talk and discussions!
+Today, Dr. Gediminas Simutis from Paul Scherrer Institute visited our group and gave a seminar talk in our department. Dr. Simutis is an expert in neutron scattering, μSR and X-ray experiments under extreme conditions. Thanks Gediminas for the excellent talk and discussions!
 
 
