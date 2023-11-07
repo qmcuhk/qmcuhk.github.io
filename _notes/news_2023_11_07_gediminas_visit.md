@@ -1,6 +1,6 @@
 ---
 title: 07 Nov 2023 - Visit of Dr. Gediminas Simutis
-picture-path: news_pictures/2023_11_07_gediminas_visit.jpg
+picture-path: news_pictures/news_2023_11_07_gediminas_visit.jpg
 date: 2023-11-07
 tag: news
 layout: page

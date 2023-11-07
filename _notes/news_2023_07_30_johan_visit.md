@@ -1,6 +1,6 @@
 ---
 title: 30 Jul 2023 - Visit of Prof. Johan Chang
-picture-path: news_pictures/2023_07_30_johan_visit.jpg
+picture-path: news_pictures/news_2023_07_30_johan_visit.jpg
 date: 2023-11-07
 tag: news
 layout: page
