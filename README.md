@@ -61,44 +61,43 @@ $ bundle exec jekyll serve
 
 # miscellaneous
 ### 🗃️ Files structure
-- `_data/`: dataset of the website 
-    - `members.yml`: from here you can update the member information. The member will be updated on both *home page* and *member page*. The `photo-path` entry is the name of the photo that is stored in `assets/web_pictures/` 
-    - `publcation.yml`: you can update the publication information on *publications page*. Ordering does not matter.
-- `_includes/`: some basic elements/snippets on each page.
-    - `banner.html`: the banner atop. Including the picture and the title of each page. By default, all sites from `_pages` folder, except for the `index.md`, should have the banner on the top.
-    - `footer.html`
-    - `head.html`: basic `<head>` tag
-    - `nav.html`: navigation bar on the very top. By default, it's included in every site. 
-    - `script.html`: javscript can go here, other than `/myscript.js`. Currently it's empty.
-    - `welcome_picture.html`: the huge welcome banner on *homepage*. 
-- `_layouts/`: Our website is catagorized into: homepage, page, note, and others. Each one of them has their own layout design. For example, whether they have banner, navigation, and how the content and footer are organized.
-    - `default.html`: default layout if the layout is not claimed.
-    - `homepage.html`: homepage layout only for *home page*
-    - `note.html`: a layout design for future blogging page, for example, news or update of the group.
-    - `page.html`: a layout for all files in the `_pages/` folder. It's applied to *contact, equipment, internal, members, news, publications, research, and teaching*.
-- `_notes/`: all files inside use the `note.html` layout. It's designed (currently) for future blogging page (news, new group member, research update, etc.)
-    - currently empty
-- `_pages/`: All the main pages are stored here. On the top of each file there stores the meta data of the file. `layout` is the layout it picks in `_layouts/` folder; `title` is the title it shows in the middle of the banner; `banner-path` is the name of the picture of the banner of this page. The picture is again stored in `assets/web_pictures`. `line` is extra sentences that will be displayed under the title.  
-    - `contact.md`
-    - `index.md`
-    - `internal.md`
-    - `members.md`
-    - `news.md`
-    - `publications.md`
-    - `research.md`
-    - `teaching.md`
-- `_sass/`: CSS/SCSS files are stored here.
-    - `_basic_element.scss`: the design of the basic elements that are used in almost every pages, such as navigation bar and footers.
-    - `_code.scss`: the design of code block.
-    - `_normalize.scss`: it normalizes those most fundamental elements like `<p>` and `<h1>`.
-    - `_style.scss`: the main playground. The design of all the other elements go here.
-- `_site/`: don't touch this folder.
-- `assets/`: all the pictures, figures, codes, pdf files, go here. 
-- `myscript.js`: javascript file. 
-- `style.scss`: directs Jekyll to the `_sass/` folder for more SCSS files.
-- `fast_pull.sh`: for lazy ppl like me to `git pull`
-- `fast_serve.sh`: for lazy ppl like me to `Jekyll serve`
-- `config.yml`: config settings of Jekyll.
+- **_data/**: dataset of the website 
+    - **members.yml**: from here you can update the member information. The member will be updated on both *home page* and *member page*. The `photo-path` entry is the name of the photo that is stored in `assets/web_pictures/` 
+    - **publcation.yml**: you can update the publication information on *publications page*. Ordering does not matter.
+- **_includes/**: some basic elements/snippets on each page.
+    - **banner.html**: the banner atop. Including the picture and the title of each page. By default, all sites from `_pages` folder, except for the `index.md`, should have the banner on the top.
+    - **footer.html**
+    - **head.html**: basic `<head>` tag
+    - **nav.html**: navigation bar on the very top. By default, it's included in every site. 
+    - **script.html**: javscript can go here, other than `/myscript.js`. Currently it's empty.
+    - **welcome_picture.html**: the huge welcome banner on *homepage*. 
+- **_layouts/**: Our website is catagorized into: homepage, page, note, and others. Each one of them has their own layout design. For example, whether they have banner, navigation, and how the content and footer are organized.
+    - **default.html**: default layout if the layout is not claimed.
+    - **homepage.html**: homepage layout only for *home page*
+    - **note.html**: a layout design for future blogging page, for example, news or update of the group.
+    - **page.html**: a layout for all files in the `_pages/` folder. It's applied to *contact, equipment, internal, members, news, publications, research, and teaching*.
+- **_notes/**: It's designed (currently) for blogging page (news, new group member, research update, etc.) Add `tag: news` to the front matter if it's a news.
+- **_pages/**: All the main pages are stored here. On the top of each file there stores the meta data of the file. `layout` is the layout it picks in `_layouts/` folder; `title` is the title it shows in the middle of the banner; `banner-path` is the name of the picture of the banner of this page. The picture is again stored in `assets/web_pictures`. `line` is extra sentences that will be displayed under the title.  
+    - **contact.md**
+    - **index.md**
+    - **internal.md**
+    - **members.md**
+    - **news.md**
+    - **publications.md**
+    - **research.md**
+    - **teaching.md**
+- **_sass/**: CSS/SCSS files are stored here.
+    - **_basic_element.scss**: the design of the basic elements that are used in almost every pages, such as navigation bar and footers.
+    - **_code.scss**: the design of code block.
+    - **_normalize.scss**: it normalizes those most fundamental elements like `<p>` and `<h1>`.
+    - **_style.scss**: the main playground. The design of all the other elements go here.
+- **_site/**: don't touch this folder.
+- **assets/**: all the pictures, figures, codes, pdf files, go here. 
+- **myscript.js**: javascript file. 
+- **style.scss**: directs Jekyll to the `_sass/` folder for more SCSS files.
+- **fast_pull.sh**: for lazy ppl like me to `git pull`
+- **fast_serve.sh**: for lazy ppl like me to `Jekyll serve`
+- **config.yml**: config settings of Jekyll.
 
 
 

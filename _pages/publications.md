@@ -30,6 +30,11 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
         <div class="publication-info">
             <div class="title">
               {{counter}}.{{publication.title}}
+            </div>
+            <div class="authors">
+                {{publication.authors}}
+            </div>
+            <div class="journal">{{publication.journal}}
               {% if publication.pdf-name %}
                 <a class = "publication-button" href="assets/pdfs/{{publication.pdf-name}}" target="_blank" rel="noopener noreferrer"> 
                 PDF
@@ -46,10 +51,6 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
                 </a>
               {% endif %}
             </div>
-            <div class="authors">
-                {{publication.authors}}
-            </div>
-            <div class="journal">{{publication.journal}}</div>
         </div>
     </div>
     {% assign counter = counter | minus: 1%}
