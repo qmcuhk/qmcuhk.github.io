@@ -31,7 +31,7 @@ banner-path: banner-campus.jpg
 
 <div Class="research-introduction">
 <h3>
-The Quantum Matter Lab currently has opening for undergraduates, graduate students, and notedocs.
+The Quantum Matter Lab currently has opening for undergraduates, graduate students, and postdocs.
 </h3>
 <hr>
 <p>
