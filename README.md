@@ -83,6 +83,7 @@ $ bundle exec jekyll serve
     - **internal.md**
     - **members.md**
     - **news.md**
+    - **openings.md**
     - **publications.md**
     - **research.md**
     - **teaching.md**
@@ -111,8 +112,7 @@ $ bundle exec jekyll serve
 - add highlighted publications in publication page, with the effect as on https://www.crbgroup.com/
 - We could change the design of the member card on the homepage to those on https://www.crbgroup.com/
 
-### 🧀
-1. 加一个page，Openings，把现在news里面的内容放到那里面去
+### 🧀 Extra to-do list
 4. （写在shared doc里面了）publications那页开头写一段“For citation statistics and additional information, please see:”， 然后下面加Google scholar， ResearchGate和arXiv的图标，link如下：
 google scholar link: https://scholar.google.com/citations?user=f73__XkAAAAJ&hl=en&oi=ao
 ResearchGate link: https://www.researchgate.net/profile/Qisi-Wang
