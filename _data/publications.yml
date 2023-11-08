@@ -10,7 +10,7 @@
   picture-path: 2023_bialo.jpg
   description: 1
 
-  - title: Weak-signal extraction enabled by deep-neural-network denoising of diffraction data
+- title: Weak-signal extraction enabled by deep-neural-network denoising of diffraction data
   date: 2022-09
   journal: arXiv
   arxiv: https://arxiv.org/abs/2209.09247
@@ -22,7 +22,7 @@
   picture-path: 2022_oppliger.jpg
   description: 1
 
-  - title: Symmetry of Charge Order in Infinite-layer Nickelates
+- title: Symmetry of Charge Order in Infinite-layer Nickelates
   date: 2023-03
   journal: arXiv
   arxiv: https://arxiv.org/abs/2303.02865
@@ -34,7 +34,7 @@
   picture-path: 2023_ren.jpg
   description: 1
 
-  - title: Magnetic Excitations in Strained Infinite-layer Nickelate PrNiO2
+- title: Magnetic Excitations in Strained Infinite-layer Nickelate PrNiO2
   date: 2022-08
   journal: arXiv
   arxiv: https://arxiv.org/abs/2208.05614
