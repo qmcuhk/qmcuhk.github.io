@@ -1,13 +1,49 @@
-- title: Revealing the Orbital Composition of Heavy Fermion Quasiparticles in CeRu2Si2
-  date: 2023-10
-  journal: Journal of the Physical Society of Japan 92, 104701 (2023)
-  arxiv:
+- title: Strain-Tuned Magnetic Frustration in a Square Lattice J1-J2 Material
+  date: 2023-06
+  journal: arXiv
+  arxiv: https://arxiv.org/abs/2306.05828
   preprint: true
-  doi: https://doi.org/10.7566/JPSJ.92.104701
+  doi: https://doi.org/10.48550/arXiv.2306.05828
   pdf-name:
-  authors: Kevin P. Kramer, Rina Tazai, Karin von Arx, Masafumi Horio, Julia Küspert, Qisi Wang, Yasmine Sassa, Timur K. Kim, Céphise Cacho, Julien E. Rault, Patrick Le Fèvre, François Bertran, Marc Janoschek, Nicolas Gauthier, Daniel Mazzone, Ramzy Daou, Johan Chang
-  authors-short: Kevin P. Kramer et. al.
-  picture-path: 2023_kramer_jpsj.jpg
+  authors: I. Biało, L. Martinelli, G. De Luca, P. Worm, A. Drewanowski, J. Choi, M. Garcia-Fernandez, S. Agrestini, K.-J. Zhou, L. Guo, C. B. Eom, J. M. Tomczak, K. Held, M. Gibert, Qisi Wang, J. Chang
+  authors-short: I. Biało et. al.
+  picture-path: 2023_bialo.jpg
+  description: 1
+
+  - title: Weak-signal extraction enabled by deep-neural-network denoising of diffraction data
+  date: 2022-09
+  journal: arXiv
+  arxiv: https://arxiv.org/abs/2209.09247
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2209.09247
+  pdf-name:
+  authors: Jens Oppliger, Michael M. Denner, Julia Küspert, Ruggero Frison, Qisi Wang, Alexander Morawietz, Oleh Ivashko, Ann-Christin Dippel, Martin von Zimmermann, Izabela Biało, Leonardo Martinelli, Benoît Fauqué, Jaewon Choi, Mirian Garcia-Fernandez, Kejin Zhou, Niels B. Christensen, Tohru Kurosawa, Naoki Momono, Migaku Oda, Fabian D. Natterer, Mark H. Fischer, Titus Neupert, Johan Chang
+  authors-short: Jens Oppliger et. al.
+  picture-path: 2022_oppliger.jpg
+  description: 1
+
+  - title: Symmetry of Charge Order in Infinite-layer Nickelates
+  date: 2023-03
+  journal: arXiv
+  arxiv: https://arxiv.org/abs/2303.02865
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2303.02865
+  pdf-name:
+  authors: Xiaolin Ren, Ronny Sutarto, Qiang Gao, Qisi Wang, Jiarui Li, Yao Wang, Tao Xiang, Jiangping Hu, Fu-Chun Zhang, J. Chang, Riccardo Comin, X. J. Zhou, Zhihai Zhu
+  authors-short: Xiaolin Ren et. al.
+  picture-path: 2023_ren.jpg
+  description: 1
+
+  - title: Magnetic Excitations in Strained Infinite-layer Nickelate PrNiO2
+  date: 2022-08
+  journal: arXiv
+  arxiv: https://arxiv.org/abs/2208.05614
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2208.05614
+  pdf-name:
+  authors: Qiang Gao#, Shiyu Fan#, Qisi Wang#, Jiarui Li, Xiaolin Ren, Izabela Biało, Annabella Drewanowski, Pascal Rothenbühler, Jaewon Choi, Yao Wang, Tao Xiang, Jiangping Hu, Ke-Jin Zhou, Valentina Bisogni, Riccardo Comin, J. Chang, Jonathan Pelliciari, X. J. Zhou, Zhihai Zhu
+  authors-short: Qiang Gao et. al.
+  picture-path: 2022_gao.jpg
   description: 1
 
 - title: Revealing the Orbital Composition of Heavy Fermion Quasiparticles in CeRu2Si2
