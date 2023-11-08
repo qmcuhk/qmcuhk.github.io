@@ -32,8 +32,8 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
                 {{preprint.authors}}
             </div>
             <div class="journal">{{publication.journal}}
-              {% if publication.pdf-name %}
-                <a class = "publication-button" href="../assets/pdfs/{{preprint.pdf-name}}" target="_blank" rel="noopener noreferrer"> 
+              {% if publication.pdf-path %}
+                <a class = "publication-button" href="../assets/{{preprint.pdf-path}}" target="_blank" rel="noopener noreferrer"> 
                 PDF
                 </a>
               {% endif %}
@@ -88,8 +88,8 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
                 {{publication.authors}}
             </div>
             <div class="journal">{{publication.journal}}
-              {% if publication.pdf-name %}
-                <a class = "publication-button" href="../assets/pdfs/{{publication.pdf-name}}" target="_blank" rel="noopener noreferrer"> 
+              {% if publication.pdf-path %}
+                <a class = "publication-button" href="../assets/{{publication.pdf-path}}" target="_blank" rel="noopener noreferrer"> 
                 PDF
                 </a>
               {% endif %}
