@@ -4,7 +4,6 @@ const navbar = document.getElementById('navbar');
 
 window.addEventListener('scroll', function() {
     let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-
     if (scrollTop > lastScrollTop) {
         // Scrolling down
         navbar.style.top = "-80px";  // Assumes navbar height is 60px. Adjust accordingly.

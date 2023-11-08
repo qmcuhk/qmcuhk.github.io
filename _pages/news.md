@@ -2,7 +2,7 @@
 layout: page
 title: News
 permalink: /news
-banner-path: banner-campus.jpg
+banner-path: dalle_news_image.png
 ---
 
 <div class="medium-divider"></div>

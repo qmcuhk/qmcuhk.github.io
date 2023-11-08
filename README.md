@@ -100,7 +100,13 @@ $ bundle exec jekyll serve
 - **fast_serve.sh**: for lazy ppl like me to `Jekyll serve`
 - **config.yml**: config settings of Jekyll.
 
+### Website design principle
+- ![#ffc5b0](https://placehold.co/15x15/ffc5b0/ffc5b0.png) `#ffc5b0`
+- ![#f6cdb4](https://placehold.co/15x15/f6cdb4/f6cdb4.png) `#f6cdb4`
+- ![#e88b52](https://placehold.co/15x15/e88b52/e88b52.png) `#e88b52`
+- ![#9f577d](https://placehold.co/15x15/9f577d/9f577d.png) `#9f577d`
 
+- **Vintage travel style**
 
 # To-do List
 

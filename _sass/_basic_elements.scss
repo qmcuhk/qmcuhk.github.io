@@ -3,9 +3,13 @@ $default-top-space: 12vh;
 $footer-top-padding: 10vh;
 $footer-side-padding: 5vh;
 $member-card-radius: 4px;
+$color1: #ffc5b0;
+$color2: #f6cdb4;
+$color3: #e88b52;
+$color4: #9f577d;
 
 footer {
-  background: rgba(183, 1, 183, 0.545);
+  background: rgba(159, 87, 125, 0.694);
   color: #fff;
   padding: $footer-top_padding $footer-side-padding;
   
@@ -104,7 +108,7 @@ nav {
       margin: 0 20px 0 10px;
     }
     p {
-      font-size: 1.5rem;
+      font-size: 1.3rem;
       margin: 0 0;
       font-weight:100;
       @media (max-width: 900px){

@@ -2,6 +2,7 @@
 layout: page
 title: Members
 permalink: /members
+banner-path: dalle_members_image.png
 ---
 
 <div class="medium-divider"></div>
