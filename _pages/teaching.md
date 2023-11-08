@@ -5,8 +5,10 @@ permalink: /teaching
 banner-path: dalle_teaching_image.png
 ---
 
-# Courses taught by Qisi Wang:
-
+<div class="medium-divider">
+<h1>Courses taught by Qisi Wang</h1>
+</div>
+<hr>
 ## 2023-24 Academic year
 
 ### PHYS1003A General Physics for Engineers (Term 1) 

@@ -101,10 +101,10 @@ $ bundle exec jekyll serve
 - **config.yml**: config settings of Jekyll.
 
 ### Website design principle
-- ![#ffc5b0](https://placehold.co/15x15/ffc5b0/ffc5b0.png) `#ffc5b0`
-- ![#f6cdb4](https://placehold.co/15x15/f6cdb4/f6cdb4.png) `#f6cdb4`
-- ![#e88b52](https://placehold.co/15x15/e88b52/e88b52.png) `#e88b52`
-- ![#9f577d](https://placehold.co/15x15/9f577d/9f577d.png) `#9f577d`
+- ![#f5cab3](https://placehold.co/15x15/f5cab3/f5cab3.png) `#f5cab3`
+- ![#ef9b64](https://placehold.co/15x15/ef9b64/ef9b64.png) `#ef9b64`
+- ![#ae6496](https://placehold.co/15x15/ae6496/ae6496.png) `#ae6496`
+- ![#b9636d](https://placehold.co/15x15/b9636d/b9636d.png) `#b9636d`
 
 - **Vintage travel style**
 
