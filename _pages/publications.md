@@ -31,7 +31,7 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
             <div class="authors">
                 {{preprint.authors}}
             </div>
-            <div class="journal">{{publication.journal}}
+            <div class="journal">{{preprint.journal}}
               {% if publication.pdf-path %}
                 <a class = "publication-button" href="../assets/{{preprint.pdf-path}}" target="_blank" rel="noopener noreferrer"> 
                 PDF
@@ -74,11 +74,11 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
     {% unless publication.preprint  %}
     <div class="publication">
         <div class="publication-picture">
-        {% if publication.picture-path %}
-            <img src="../assets/publications_pictures/{{publication.picture-path}}" alt="Welcome Image">
-        {% else %}
-            <div style="width: 176px; height: 127px; background-color:#eaeaea;"> </div>
-        {% endif %}
+          {% if publication.picture-path %}
+              <img src="../assets/publications_pictures/{{publication.picture-path}}" alt="Welcome Image">
+          {% else %}
+              <div style="width: 176px; height: 127px; background-color:#eaeaea;"> </div>
+          {% endif %}
         </div>
         <div class="publication-info">
             <div class="title">
