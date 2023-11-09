@@ -5,7 +5,7 @@
   preprint: true
   doi: https://doi.org/10.48550/arXiv.2306.05828
   pdf-name:
-  authors: I. Biało, L. Martinelli, G. De Luca, P. Worm, A. Drewanowski, J. Choi, M. Garcia-Fernandez, S. Agrestini, K.-J. Zhou, L. Guo, C. B. Eom, J. M. Tomczak, K. Held, M. Gibert, Qisi Wang, J. Chang
+  authors: I. Biało<sup>#</sup>*, L. Martinelli<sup>#</sup>, G. De Luca, P. Worm, A. Drewanowski, J. Choi, M. Garcia-Fernandez, S. Agrestini, K.-J. Zhou, L. Guo, C. B. Eom, J. M. Tomczak, K. Held, M. Gibert, Qisi Wang*, J. Chang
   authors-short: I. Biało et. al.
   picture-path: 2023_bialo.jpg
   description: 1
@@ -41,7 +41,7 @@
   preprint: true
   doi: https://doi.org/10.48550/arXiv.2208.05614
   pdf-name:
-  authors: Qiang Gao#, Shiyu Fan#, Qisi Wang#, Jiarui Li, Xiaolin Ren, Izabela Biało, Annabella Drewanowski, Pascal Rothenbühler, Jaewon Choi, Yao Wang, Tao Xiang, Jiangping Hu, Ke-Jin Zhou, Valentina Bisogni, Riccardo Comin, J. Chang, Jonathan Pelliciari, X. J. Zhou, Zhihai Zhu
+  authors: Qiang Gao<sup>#</sup>, Shiyu Fan<sup>#</sup>, Qisi Wang<sup>#</sup>, Jiarui Li, Xiaolin Ren, Izabela Biało, Annabella Drewanowski, Pascal Rothenbühler, Jaewon Choi, Yao Wang, Tao Xiang, Jiangping Hu, Ke-Jin Zhou, Valentina Bisogni, Riccardo Comin, J. Chang, Jonathan Pelliciari, X. J. Zhou, Zhihai Zhu
   authors-short: Qiang Gao et. al.
   picture-path: 2022_gao.jpg
   description: 1
@@ -112,7 +112,7 @@
   journal: Physical Review B 106, 214522 (2022)
   arxiv:
   doi: https://doi.org/10.1103/PhysRevB.106.214522
-  authors: Die Hu#, Qisi Wang#*, Hongliang Wo, Astrid Schneidewind, Jun Zhao*
+  authors: Die Hu<sup>#</sup>, Qisi Wang<sup>#</sup>*, Hongliang Wo, Astrid Schneidewind, Jun Zhao*
   authors-short: Die Hu et. al.
   picture-path: 2022_hu_prb.jpg
   description: 1
@@ -222,7 +222,7 @@
   journal: Science Advances 7, eabg7394 (2021)
   arxiv: https://arxiv.org/abs/2012.10503
   doi: http://doi.org/10.1126/sciadv.abg7394
-  authors: Qisi Wang#*, Karin von Arx#, Masafumi Horio, Deepak John Mukkattukavil, Julia Küspert, Yasmine Sassa, Thorsten Schmitt, Abhishek Nag, Sunseng Pyon, Tomohiro Takayama, Hidenori Takagi, Mirian Garcia-Fernandez, Ke-Jin Zhou, Johan Chang*
+  authors: Qisi Wang<sup>#</sup>*, Karin von Arx<sup>#</sup>, Masafumi Horio, Deepak John Mukkattukavil, Julia Küspert, Yasmine Sassa, Thorsten Schmitt, Abhishek Nag, Sunseng Pyon, Tomohiro Takayama, Hidenori Takagi, Mirian Garcia-Fernandez, Ke-Jin Zhou, Johan Chang*
   authors-short: Qisi Wang et. al.
   picture-path: 2021_wang_sa.jpg
   description: 1
@@ -332,7 +332,7 @@
   journal: Physical Review Letters 122, 217003 (2019)
   arxiv: https://arxiv.org/abs/1808.07262
   doi: https://doi.org/10.1103/PhysRevLett.122.217003
-  authors: Hongliang Wo#, Qisi Wang#, Yao Shen#, Xiaowen Zhang, Yiqing Hao, Yu Feng, Shoudong Shen, Zheng He, Bingying Pan, Wenbin Wang, K. Nakajima, S. Ohira-Kawamura, P. Steffens, M. Boehm, K. Schmalzl, T. R. Forrest, M. Matsuda, Yang Zhao, J. W. Lynn, Zhiping Yin, Jun Zhao
+  authors: Hongliang Wo<sup>#</sup>, Qisi Wang<sup>#</sup>, Yao Shen<sup>#</sup>, Xiaowen Zhang, Yiqing Hao, Yu Feng, Shoudong Shen, Zheng He, Bingying Pan, Wenbin Wang, K. Nakajima, S. Ohira-Kawamura, P. Steffens, M. Boehm, K. Schmalzl, T. R. Forrest, M. Matsuda, Yang Zhao, J. W. Lynn, Zhiping Yin, Jun Zhao
   authors-short: Hongliang Wo et. al.
   picture-path: 2019_wo_prl.jpg
   description: 1
@@ -402,7 +402,7 @@
   journal: Nature Communications 7, 12182 (2016)
   arxiv: https://arxiv.org/abs/1511.02485
   doi: http://doi.org/10.1038/ncomms12182
-  authors: Qisi Wang#, Yao Shen#, Bingying Pan#, Xiaowen Zhang, K. Ikeuchi, K. Iida, A. D. Christianson, H. C. Walker, D. T. Adroja, M. Abdel-Hafiez, Xiaojia Chen, D. A. Chareev, A. N. Vasiliev, Jun Zhao
+  authors: Qisi Wang<sup>#</sup>, Yao Shen<sup>#</sup>, Bingying Pan<sup>#</sup>, Xiaowen Zhang, K. Ikeuchi, K. Iida, A. D. Christianson, H. C. Walker, D. T. Adroja, M. Abdel-Hafiez, Xiaojia Chen, D. A. Chareev, A. N. Vasiliev, Jun Zhao
   authors-short: Qisi Wang et. al.
   picture-path: 2016_wang_nc.jpg
   description: 1
@@ -422,7 +422,7 @@
   journal: Physical Review B 93, 060503(R) (2016)
   arxiv: https://arxiv.org/abs/1409.6615
   doi: http://doi.org/10.1103/PhysRevB.93.060503
-  authors: Yao Shen#, Qisi Wang#, Yiqing Hao#, Bingying Pan, Yu Feng, Qingzhen Huang, L. W. Harriger, J. B. Leao, Yang Zhao, R. M. Chisnell, J. W. Lynn, Huibo Cao, Jiangping Hu, Jun Zhao
+  authors: Yao Shen<sup>#</sup>, Qisi Wang<sup>#</sup>, Yiqing Hao<sup>#</sup>, Bingying Pan, Yu Feng, Qingzhen Huang, L. W. Harriger, J. B. Leao, Yang Zhao, R. M. Chisnell, J. W. Lynn, Huibo Cao, Jiangping Hu, Jun Zhao
   authors-short: Yao Shen et. al.
   picture-path: 2016_shen_prb.jpg
   description: 1

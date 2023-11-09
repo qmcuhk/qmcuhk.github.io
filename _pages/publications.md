@@ -6,18 +6,19 @@ banner-path: dalle_publications_image.png
 line: RIXS, XAS, XRD, Neutron Scattering, and more...
 ---
 
+<div class="medium-divider">
 For citation statistics and additional information, please see:
 <a class = "publication-button" href="https://scholar.google.com/citations?user=f73__XkAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"> 
 Google Scholar
 </a>
-
 <a class = "publication-button" href="https://www.researchgate.net/profile/Qisi-Wang" target="_blank" rel="noopener noreferrer"> 
 ResearchGate
 </a>
-
 <a class = "publication-button" href="https://arxiv.org/a/wang_q_9.html" target="_blank" rel="noopener noreferrer"> 
 arXiv
-</a>
+</a><br>
+# equal contribution; * corresponding author
+</div>
 
 
 <div class="medium-divider">
