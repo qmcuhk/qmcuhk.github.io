@@ -6,6 +6,20 @@ banner-path: dalle_publications_image.png
 line: RIXS, XAS, XRD, Neutron Scattering, and more...
 ---
 
+For citation statistics and additional information, please see:
+<a class = "publication-button" href="https://scholar.google.com/citations?user=f73__XkAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"> 
+Google Scholar
+</a>
+
+<a class = "publication-button" href="https://www.researchgate.net/profile/Qisi-Wang" target="_blank" rel="noopener noreferrer"> 
+ResearchGate
+</a>
+
+<a class = "publication-button" href="https://arxiv.org/a/wang_q_9.html" target="_blank" rel="noopener noreferrer"> 
+arXiv
+</a>
+
+
 <div class="medium-divider">
 <h1> Preprints </h1>
 </div>
@@ -26,7 +40,7 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
         </div>
         <div class="publication-info">
             <div class="title">
-              {{counter}}.{{preprint.title}}
+              {{counter}}. {{preprint.title}}
             </div>
             <div class="authors">
                 {{preprint.authors}}
@@ -82,7 +96,7 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
         </div>
         <div class="publication-info">
             <div class="title">
-              {{counter}}.{{publication.title}}
+              {{counter}}. {{publication.title}}
             </div>
             <div class="authors">
                 {{publication.authors}}
