@@ -7,13 +7,13 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
 ---
 
 <div class="medium-divider">
-For citation statistics and additional information, please see:
+For citation statistics and additional information, please see:&nbsp;&nbsp;
 <a class = "publication-button" href="https://scholar.google.com/citations?user=f73__XkAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"> 
 Google Scholar
-</a>
+</a>&nbsp;&nbsp;
 <a class = "publication-button" href="https://www.researchgate.net/profile/Qisi-Wang" target="_blank" rel="noopener noreferrer"> 
 ResearchGate
-</a>
+</a>&nbsp;&nbsp;
 <a class = "publication-button" href="https://arxiv.org/a/wang_q_9.html" target="_blank" rel="noopener noreferrer"> 
 arXiv
 </a><br>
@@ -134,8 +134,8 @@ arXiv
   // Get all the publications and the 'Show More' button
   const publications = document.querySelectorAll('.publication');
   const showMoreBtn = document.getElementById('show-more');
-  let currentMax = 15;
-  let moreLoad = 15;
+  let currentMax = 20;
+  let moreLoad = 20;
 
   // Function to initially hide all publications except the first 10
   const initialHide = () => {
