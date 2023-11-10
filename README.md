@@ -119,8 +119,4 @@ $ bundle exec jekyll serve
 - We could change the design of the member card on the homepage to those on https://www.crbgroup.com/
 
 ### 🧀 Extra to-do list
-4. （写在shared doc里面了）publications那页开头写一段“For citation statistics and additional information, please see:”， 然后下面加Google scholar， ResearchGate和arXiv的图标，link如下：
-google scholar link: https://scholar.google.com/citations?user=f73__XkAAAAJ&hl=en&oi=ao
-ResearchGate link: https://www.researchgate.net/profile/Qisi-Wang
-arXiv link: https://arxiv.org/a/wang_q_9.html
-5. 空一点后面再加一句“#: equal contribution; *: corresponding author”
+- Add logo for Google Scholar, ResearchGate, and arXiv link
