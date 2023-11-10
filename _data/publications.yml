@@ -1,6 +1,6 @@
 - title: Strain-Tuned Magnetic Frustration in a Square Lattice J1-J2 Material
   date: 2023-06
-  journal: arXiv
+  journal: arXiv:2306.05828
   arxiv: https://arxiv.org/abs/2306.05828
   preprint: true
   doi: https://doi.org/10.48550/arXiv.2306.05828
@@ -12,7 +12,7 @@
 
 - title: Weak-signal extraction enabled by deep-neural-network denoising of diffraction data
   date: 2022-09
-  journal: arXiv
+  journal: arXiv:2209.09247
   arxiv: https://arxiv.org/abs/2209.09247
   preprint: true
   doi: https://doi.org/10.48550/arXiv.2209.09247
@@ -20,11 +20,11 @@
   authors: Jens Oppliger, Michael M. Denner, Julia Küspert, Ruggero Frison, Qisi Wang, Alexander Morawietz, Oleh Ivashko, Ann-Christin Dippel, Martin von Zimmermann, Izabela Biało, Leonardo Martinelli, Benoît Fauqué, Jaewon Choi, Mirian Garcia-Fernandez, Kejin Zhou, Niels B. Christensen, Tohru Kurosawa, Naoki Momono, Migaku Oda, Fabian D. Natterer, Mark H. Fischer, Titus Neupert, Johan Chang
   authors-short: Jens Oppliger et. al.
   picture-path: 2022_oppliger.png
-  description: 1.
+  description: 1
 
 - title: Symmetry of Charge Order in Infinite-layer Nickelates
   date: 2023-03
-  journal: arXiv
+  journal: arXiv:2303.02865
   arxiv: https://arxiv.org/abs/2303.02865
   preprint: true
   doi: https://doi.org/10.48550/arXiv.2303.02865
@@ -36,7 +36,7 @@
 
 - title: Magnetic Excitations in Strained Infinite-layer Nickelate PrNiO2
   date: 2022-08
-  journal: arXiv
+  journal: arXiv:2208.05614
   arxiv: https://arxiv.org/abs/2208.05614
   preprint: true
   doi: https://doi.org/10.48550/arXiv.2208.05614
