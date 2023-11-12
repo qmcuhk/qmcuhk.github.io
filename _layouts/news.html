@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+  
+<nav id="navbar">{% include nav.html %}</nav>
+
+{% if page.banner-path %}
+  {% include banner.html %}
+{% endif%}
+
+
+<body>
+<div class="note-wrapper">
+  <main>
+  <div class="large-divider"></div>
+  <img  src="../assets/{{page.picture-path}}">
+  <div class="note-title">
+  <h1>{{page.title}}</h1>
+  <h3>{{ page.date | date: "%d %b %Y" }}</h3>
+  </div>
+  {{ content }}
+  <div class="large-divider"></div>
+  </main>
+</div>
+
+
+{% include footer.html %}
+
+<script src="/myscript.js"></script>
+</body>
+</html>

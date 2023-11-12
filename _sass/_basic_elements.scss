@@ -169,8 +169,29 @@ nav {
 }
 
 body {
+  a {
+    text-decoration-color:$color4;
+    color: inherit;
+    &:hover {
+      color: $color4;
+    }
+    &:visited {
+      color: $color4;
+    }
+  }
   .wrapper {
     margin : $default-top-space $default-side-space;
+  }
+  .note-wrapper {
+    max-width: 60em;
+    width: 80%;
+    margin: 0 auto;
+    img {
+      width: 100%;
+    }
+    p {
+      font-size: 1.2em;
+    }
   }
   .page-wrapper {
     box-shadow: 0px -12px 8px 0px rgba(0,0,0,1);

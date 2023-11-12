@@ -379,19 +379,20 @@ body.index a{
     margin: 0.35rem 0;
     font-size: 1.5em;
   }
+  .member-card-title {
+    color: rgb(153, 153, 153);
+    font-size: 1em;
+    margin: 0 0;
+  }
+  .member-card-logo {
+    margin: auto 0 0.8em 0;
+  }
+  p {
+    margin: 0 0;
+    font-size:1em;
+  }
 }
-.member-card-title {
-  color: rgb(153, 153, 153);
-  font-size: 1em;
-  margin: 0 0;
-}
-.member-card-logo {
-  margin: auto 0 0.8em 0;
-}
-p {
-  margin: 0 0;
-  font-size:1em;
-}
+
 
 // banner
 .banner {
@@ -588,6 +589,9 @@ $primary-color: #333;
         font-weight: 500;
         margin: 0 0.3em;
       }
+      .news-date {
+        color: $color4;
+      }
     }
   }
   // Responsive layout adjustments
@@ -596,5 +600,16 @@ $primary-color: #333;
     .news-item {
       width: 90%;
     }
+  }
+}
+
+.note-title {
+  h1 {
+    display: block;
+    margin-bottom: 0;
+  }
+  h3 {
+    color:$color4;
+    margin-top: 0;
   }
 }
