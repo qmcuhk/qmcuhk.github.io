@@ -57,8 +57,8 @@ $ bundle exec jekyll serve
 - Ordering matters here
 
 ### 📺 How to add news item on the "news page"?
-- create a markdown file in the `notes/` folder.
-- one example of the front matter is as follows
+- Create a markdown file in the `notes/` folder, with the extension `.md`
+- An example of the front matter is as follows
 ```markdown
 ---
 title: Visit of Prof. Johan Chang
@@ -68,9 +68,9 @@ tag: news
 layout: news
 ---
 ```
-- the corresponding picture for this news is stored in `../assets/`, and the relative path is the front matter entry `picture-path`
+- The corresponding picture for this news is stored in `../assets/`, and the relative path is the front matter entry `picture-path`
 - Only when the value of `tag` is news will this news item be published, otherwise it will not be displayed in "news page". The `layout` entry controls the layout design of this news page. 
-- the collection of news is published on `/news`, and each news item is published on `/posts/`. The news items in the "news page" will be arranged chronologically according to the `date` entry in the front matter.
+- The collection of news is published on `/news`, and each news item is published on `/posts/`. The news items in the "news page" will be arranged chronologically according to the `date` entry in the front matter.
 - The first paragraph of this markdown file is considered as the excerption of this news item, and will be displayed on the "news page" `/news`. The 2nd, 3rd paragraph and all the rest will only be shown inside the news item published on `/posts/`
 
 

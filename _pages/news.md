@@ -20,7 +20,7 @@ banner-path: dalle_news_image.png
         </div>
         <div class="news-content">
             <h3>{{new.title}}</h3>
-            <p class="news-date">{{ new.date | date: "%d %b %Y" }}</p>
+            <p class="news-date">- {{ new.date | date: "%d %b %Y" }} -</p>
             <p>{{new.excerpt}}</p>
         </div>
     </div>
