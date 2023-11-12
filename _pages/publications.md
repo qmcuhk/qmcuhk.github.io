@@ -6,23 +6,31 @@ banner-path: dalle_publications_image.png
 line: RIXS, XAS, XRD, Neutron Scattering, and more...
 ---
 
-<div class="medium-divider">
-For citation statistics and additional information, please see:&nbsp;&nbsp;
-<a class = "publication-button" href="https://scholar.google.com/citations?user=f73__XkAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"> 
-Google Scholar
-</a>&nbsp;&nbsp;
-<a class = "publication-button" href="https://www.researchgate.net/profile/Qisi-Wang" target="_blank" rel="noopener noreferrer"> 
-ResearchGate
-</a>&nbsp;&nbsp;
-<a class = "publication-button" href="https://arxiv.org/a/wang_q_9.html" target="_blank" rel="noopener noreferrer"> 
-arXiv
-</a><br>
-# equal contribution; * corresponding author
+
+
+<!--More information logos-->
+<div class="publications-additional-info">
+  <p>For citation statistics and additional information, please see:</p>
+  <div class="publications-logos">
+    <a href="https://scholar.google.com/citations?user=f73__XkAAAAJ&hl=en&oi=ao" class="logo-link" target="_blank" rel="noopener noreferrer">
+      <img src="assets/icons/google_logo.png" alt="Google Scholar Logo" class="logo">
+      <span class="logo-name">Google Scholar</span>
+    </a>
+    <a href="https://www.researchgate.net/profile/Qisi-Wang" class="logo-link" target="_blank" rel="noopener noreferrer">
+      <img src="assets/icons/researchgate_logo.png" alt="ResearchGate Logo" class="logo">
+      <span class="logo-name">ResearchGate</span>
+    </a>
+    <a href="https://arxiv.org/a/wang_q_9.html" class="logo-link" target="_blank" rel="noopener noreferrer">
+      <img src="assets/icons/arxiv_logo.png" alt="arXiv Logo" class="logo">
+      <span class="logo-name">arXiv</span>
+    </a>
+  </div>
 </div>
-
-
+<!---->
+<div class="medium-divider"></div>
 <div class="medium-divider">
 <h1> Preprints </h1>
+<p># equal contribution; * corresponding author</p>
 </div>
 <hr>
 <div class="publication-container"> 
@@ -71,6 +79,7 @@ arXiv
 <div class="large-divider"></div>
 <div class="medium-divider">
 <h1> Publications </h1>
+<p># equal contribution; * corresponding author</p>
 </div>
 <hr>
 
