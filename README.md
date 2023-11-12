@@ -56,7 +56,22 @@ $ bundle exec jekyll serve
 - the `photo-path` entry is the name of the photo. The photos should be stored in `assets/web_pictures`. Please verify that the extension is correct (.jpg or .png).
 - Ordering matters here
 
-
+### 📺 How to add news item on the "news page"?
+- create a markdown file in the `notes/` folder.
+- one example of the front matter is as follows
+```markdown
+---
+title: Visit of Prof. Johan Chang
+picture-path: news_pictures/news_2023_07_30_johan_visit.jpg
+date: 2023-07-30
+tag: news
+layout: news
+---
+```
+- the corresponding picture for this news is stored in `../assets/`, and the relative path is the front matter entry `picture-path`
+- Only when the value of `tag` is news will this news item be published, otherwise it will not be displayed in "news page". The `layout` entry controls the layout design of this news page. 
+- the collection of news is published on `/news`, and each news item is published on `/posts/`. The news items in the "news page" will be arranged chronologically according to the `date` entry in the front matter.
+- The first paragraph of this markdown file is considered as the excerption of this news item, and will be displayed on the "news page" `/news`. The 2nd, 3rd paragraph and all the rest will only be shown inside the news item published on `/posts/`
 
 
 # miscellaneous
@@ -109,14 +124,13 @@ $ bundle exec jekyll serve
 - **Vintage travel style**
 
 # To-do List
-
 ### 🍉 Content filling
-- Teaching page
 - News and group photo on home page
 ### 🌟 Fany web design
 - interactive design for all pages. 
 - add highlighted publications in publication page, with the effect as on https://www.crbgroup.com/
 - We could change the design of the member card on the homepage to those on https://www.crbgroup.com/
+- redesign `teachinig` page.
 
-### 🧀 Extra to-do list
-- Add logo for Google Scholar, ResearchGate, and arXiv link
+### 🧀 extra to-dos
+- currently empty
