@@ -133,4 +133,7 @@ layout: news
 - redesign `teachinig` page.
 
 ### 🧀 extra to-dos
-- currently empty
+- Change banner design: pastel color scheme. Light purple, pink, and orange
+- Three news item each row on the news page
+- colaborator on members page.
+- external links on research page
