@@ -1,3 +1,15 @@
+- title: Quantum Fluctuations in a Weakly Correlated Mott Insulator
+  date: 2023-11
+  journal: arXiv:2311.16553
+  arxiv: https://arxiv.org/abs/2311.16553
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2311.16553
+  pdf-name:
+  authors: Qisi Wang*, S. Mustafi, E. Fogh, N. Astrakhantsev, Z. He, I. Biało, M. Horio, O. Ivashko, N. E. Shaik, K. von Arx, Y. Sassa, E. Paris, M. H. Fischer, Y. Tseng, N. B. Christensen, A. Galdi, D. G. Schlom, K. M. Shen, T. Schmitt, H. M. Rønnow, J. Chang*
+  authors-short: Q. Wang et. al.
+  picture-path: 2023_wang.jpg
+  description: 1
+
 - title: Strain-Tuned Magnetic Frustration in a Square Lattice J1-J2 Material
   date: 2023-06
   journal: arXiv:2306.05828
@@ -369,7 +381,7 @@
 
 - title: Evidence for a spinon Fermi surface in a triangular-lattice quantum-spin-liquid candidate
   date: 2016-12
-  journal: Nature 540, 559–562 (2016)
+  journal: Nature 540, 559 (2016)
   arxiv: https://arxiv.org/abs/1607.02615
   doi: http://doi.org/10.1038/nature20614
   authors: Yao Shen, Yao-Dong Li, Hongliang Wo, Yuesheng Li, Shoudong Shen, Bingying Pan, Qisi Wang, H. C. Walker, P. Steffens, M. Boehm, Yiqing Hao, D. L. Quintero-Castro, L. W. Harriger, M. D. Frontzek, Lijie Hao, Siqin Meng, Qingming Zhang, Gang Chen, Jun Zhao
