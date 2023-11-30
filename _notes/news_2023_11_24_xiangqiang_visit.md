@@ -1,7 +1,7 @@
 ---
 title: Visit of Prof. Xiangqiang Chu
 picture-path: news_pictures/news_2023_11_24_xiangqiang_visit.jpg
-date: 2023-12-24
+date: 2023-11-24
 tag: news
 layout: news
 ---
