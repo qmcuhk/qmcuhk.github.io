@@ -10,6 +10,7 @@ permalink: /
 We are an experimental research group on condensed matter physics led by Prof. Qisi Wang. Our main research interests are electronic, magnetic, and structural properties of quantum matter including high-temperature superconductors, quantum magnets, and correlated electron systems. We use multiple X-ray and neutron scattering/spectroscopy techniques to study elementary excitations and phase transitions in these quantum materials. 
 </p>
 <p style="color:white;font-size:0.1em;"> Qisi Wang Qisi Wang Qisi Wang Qisi Wang Qisi Wang Qisi Wang 王奇思 王奇思 王奇思 王奇思</p>
+<p> 王奇思</p>
 </div>
 <div class="medium-divider"></div>
 <div class="medium-divider"></div>
