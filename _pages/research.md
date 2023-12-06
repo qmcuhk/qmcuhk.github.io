@@ -41,8 +41,10 @@ We perform X-ray and neutron scattering/spectroscopy experiments at large-scale 
         <hr>
         <p><small>References<br>
         [4] N. S. Headings et al., Phys. Rev. Lett. 105, 247001 (2010).<br>
-        [5] O. Delaire et al., Nat. Matter. 10, 614 (2011).<br>
-        [6] I. Bustinduy et al., Rev. Sci. Instrum. 78, 043901 (2007).
+        [5] M. Mourigal et al., Nat. Phys. 9, 435 (2013).<br>
+        [6] O. Delaire et al., Nat. Matter. 10, 614 (2011).<br>
+        [7] I. Bustinduy et al., Rev. Sci. Instrum. 78, 043901 (2007).<br>
+        [8] R. I. Bewley et al., Nucl. Instrum. Methods Phys. Res. A 637, 128 (2011).
         </small></p>
         </div>
         <div class="research-tech-pic">
