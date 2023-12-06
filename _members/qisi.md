@@ -14,8 +14,18 @@ ordering: 1
 layout: members
 ---
 
-Hello my name is Qisi. Before becoming a assistant professor at Chinese University of Hongkong, I was a senior researcher at University of Zurich. 
+<pre>
+<b>Education</b>
+PhD in Physics, Fudan University, China (2018)
+BS in Physics, Fudan University, China (2012)
 
-I am interested in Resonant inelastic X-ray scattering blah blah blah
+<b>Position</b>
+2023-now, Assistant Professor, Department of Physics, The Chinese University of Hong Kong
+2022-2023, Senior Scientist, Department of Physics, University of Zurich, Switzerland
+2018-2022, Postdoctoral Fellow, Department of Physics, University of Zurich, Switzerland
 
-I am currently recuirting students.
+<b>Research Interests</b>
+Unconventional superconductivity, quantum magnetism and correlated electron physics
+X-ray and neutron scattering of elementary excitations and phase transitions in quantum matter
+Crystal growth of novel materials
+</pre>

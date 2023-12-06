@@ -9,8 +9,10 @@ permalink: /
 <p>
 We are an experimental research group on condensed matter physics led by Prof. Qisi Wang. Our main research interests are electronic, magnetic, and structural properties of quantum matter including high-temperature superconductors, quantum magnets, and correlated electron systems. We use multiple X-ray and neutron scattering/spectroscopy techniques to study elementary excitations and phase transitions in these quantum materials. 
 </p>
+<p style="color:white;font-size:0.1em;"> Qisi Wang Qisi Wang Qisi Wang Qisi Wang Qisi Wang Qisi Wang 王奇思 王奇思 王奇思 王奇思</p>
 </div>
-<div class="large-divider"></div>
+<div class="medium-divider"></div>
+<div class="medium-divider"></div>
 
 <!-- Sliding pictures section -->
 
@@ -30,13 +32,13 @@ We are an experimental research group on condensed matter physics led by Prof. Q
     <div class="member-card">
         <div class="member-image-container hover-effect">
             <a href="{{member.url}}">
-                <img src="assets/web_pictures/{{member.photo-path}}" alt="{{member.photo-path}}" style="width:100%">
+                <img src="/assets/web_pictures/{{member.photo-path}}" alt="{{member.photo-path}}" style="width:100%">
                 <div class="overlay">
                     <div class="overlay-text">
                     <h2> Learn More</h2>
-                    {% if member.bachelor %}
+                    {% if member.phd %}
                     <p>
-                    {{member.bachelor}}
+                    {{member.phd}}
                     </p>
                     {% endif %}                    
                     {% if member.master %}
@@ -44,9 +46,9 @@ We are an experimental research group on condensed matter physics led by Prof. Q
                     {{member.master}}
                     </p>
                     {% endif %}   
-                    {% if member.phd %}
+                    {% if member.bachelor %}
                     <p>
-                    {{member.phd}}
+                    {{member.bachelor}}
                     </p>
                     {% endif %} 
                     </div>

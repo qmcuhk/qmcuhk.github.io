@@ -22,9 +22,9 @@ banner-path: dalle_members_image.png
                 <div class="overlay">
                     <div class="overlay-text">
                     <h2> Learn More</h2>
-                    {% if member.bachelor %}
+                    {% if member.phd %}
                     <p>
-                    {{member.bachelor}}
+                    {{member.phd}}
                     </p>
                     {% endif %}                    
                     {% if member.master %}
@@ -32,9 +32,9 @@ banner-path: dalle_members_image.png
                     {{member.master}}
                     </p>
                     {% endif %}   
-                    {% if member.phd %}
+                    {% if member.bachelor %}
                     <p>
-                    {{member.phd}}
+                    {{member.bachelor}}
                     </p>
                     {% endif %} 
                     </div>
