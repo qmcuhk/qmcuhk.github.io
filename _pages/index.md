@@ -25,11 +25,11 @@ We are an experimental research group on condensed matter physics led by Prof. Q
 <hr>
 <div class="medium-divider"></div>
 <div class="hompage-members-container">
-  {% assign members = site.data.members %}
+  {% assign members = site.members |sort: "ordering" | reverse %}
   {% for member in members%}
     <div class="member-card">
         <div class="member-image-container hover-effect">
-            <a href="/">
+            <a href="{{member.url}}">
                 <img src="assets/web_pictures/{{member.photo-path}}" alt="{{member.photo-path}}" style="width:100%">
                 <div class="overlay">
                     <div class="overlay-text">

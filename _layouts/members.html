@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+  
+<nav id="navbar">{% include nav.html %}</nav>
+
+{% if page.banner-path %}
+  {% include banner.html %}
+{% endif%}
+
+
+<body>
+<div class="page-wrapper">
+<main>
+<div class = "large-divider"> </div>
+<div class="medium-divider"> <h1>{{page.name}}</h1></div>
+
+<div class="member-details-page-container">
+  <div class="member-details-page-sidebar">
+      <img class="member-details-page-image" src="/assets/web_pictures/{{page.photo-path}}" alt="Your Photo">
+      <div></div>
+      <a href="mailto:{{page.email}}"><i class="fa-solid fa-envelope"></i>   {{page.email}}</a> 
+  </div>
+  <div class="member-details-page-description">
+      {{content}}
+  </div>
+</div>
+
+
+
+
+<div class = "large-divider"> </div>
+<div class = "large-divider"> </div>
+</main>
+</div>
+{% include footer.html %}
+<script src="/myscript.js"></script>
+</body>
+</html>

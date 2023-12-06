@@ -33,6 +33,10 @@ collections:
   notes:
     output: true
     permalink: /posts/:slug
+  members:
+    output: true
+    permalink: /members/:slug
+    layout: members
     
 
 
@@ -41,8 +45,8 @@ defaults:
       path: "**/*"
     values:
       layout: "default"
-#  - scope:
-#      path: "_diaries/**/*.md"
-#    values:
-#      layout: "diary"
+  - scope:
+      path: "_members/*.md"
+    values:
+      layout: "members"
 
