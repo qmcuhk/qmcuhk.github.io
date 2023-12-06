@@ -23,9 +23,3 @@ BS in Physics, Fudan University, China (2012)
 2023-now, Assistant Professor, Department of Physics, The Chinese University of Hong Kong
 2022-2023, Senior Scientist, Department of Physics, University of Zurich, Switzerland
 2018-2022, Postdoctoral Fellow, Department of Physics, University of Zurich, Switzerland
-
-<b>Research Interests</b>
-Unconventional superconductivity, quantum magnetism and correlated electron physics
-X-ray and neutron scattering of elementary excitations and phase transitions in quantum matter
-Crystal growth of novel materials
-</pre>
