@@ -28,8 +28,30 @@ We are an experimental research group on condensed matter physics led by Prof. Q
   {% assign members = site.data.members %}
   {% for member in members%}
     <div class="member-card">
-        <div class="member-image-container">
-          <img src="assets/web_pictures/{{member.photo-path}}" alt="{{member.photo-path}}" style="width:100%">
+        <div class="member-image-container hover-effect">
+            <a href="/">
+                <img src="assets/web_pictures/{{member.photo-path}}" alt="{{member.photo-path}}" style="width:100%">
+                <div class="overlay">
+                    <div class="overlay-text">
+                    <h2> Learn More</h2>
+                    {% if member.bachelor %}
+                    <p>
+                    {{member.bachelor}}
+                    </p>
+                    {% endif %}                    
+                    {% if member.master %}
+                    <p>
+                    {{member.master}}
+                    </p>
+                    {% endif %}   
+                    {% if member.phd %}
+                    <p>
+                    {{member.phd}}
+                    </p>
+                    {% endif %} 
+                    </div>
+                </div>
+            </a> 
         </div>
         <h1>{{member.name}}</h1>
         <p class="member-card-title">{{member.title}}</p>
