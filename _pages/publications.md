@@ -20,6 +20,10 @@ line: RIXS, XAS, XRD, Neutron Scattering, and more...
       <img src="assets/icons/researchgate_logo.png" alt="ResearchGate Logo" class="logo">
       <span class="logo-name">ResearchGate</span>
     </a>
+    <a href="https://orcid.org/0000-0002-8741-7559" class="logo-link" target="_blank" rel="noopener noreferrer">
+      <img src="assets/icons/orcid_logo.png" alt="ORCID Logo" class="logo">
+      <span class="logo-name">ORCID</span>
+    </a>
     <a href="https://arxiv.org/a/wang_q_9.html" class="logo-link" target="_blank" rel="noopener noreferrer">
       <img src="assets/icons/arxiv_logo.png" alt="arXiv Logo" class="logo">
       <span class="logo-name">arXiv</span>
