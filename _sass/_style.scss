@@ -562,16 +562,26 @@ $primary-color: #333;
   justify-content: center;
   gap: 5%;
   .news-item {
-    width: 45%;
-    height: 35em;
+    width: 30%;
+    height: 23em;
     background: #fff;
     margin-bottom: 4em;
     overflow: hidden;
     box-shadow: 2px -4px 4px rgba(0, 0, 0, 0);
+    @media (max-width: 900px) {
+      width: 90%;
+    }
+    @media (max-width: 1300px) {
+      width: 45%;
+    }
     .news-img-container {
       width: 100%;
       max-height:60%;
       overflow: hidden;
+      transition: transform 0.3s ease-in-out;
+      &:hover {  
+        transform: scale(1.1);
+      }
     }
     img {
       min-width: 100%;
