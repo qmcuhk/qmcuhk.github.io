@@ -685,7 +685,35 @@ $primary-color: #333;
   gap: 6px;
   /* Add more styling as needed */
 }
-
 .member-details-page-image {
   width: 80%;
+}
+
+
+// buy me a coffee
+.coffee-button {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  background-color: rgba(160, 160, 160, 0.464);
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.3);
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+.coffee-button img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.coffee-button a {
+  color: white;
+  text-decoration: none;
+}
+.coffee-button:hover {
+  background-color: #9a9a9a;
 }
