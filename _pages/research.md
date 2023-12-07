@@ -81,9 +81,3 @@ We perform X-ray and neutron scattering/spectroscopy experiments at large-scale 
     </a>
   </div>
 </div>
-
-- [TPS](https://userportal.nsrrc.org.tw/APNSR/page/2160)
-- [DLS](https://uas.diamond.ac.uk/uas/)
-- [ESRF](https://smis.esrf.fr/misapps/SMISWebClient/protected/welcome.do)
-- [PSI](https://duo.psi.ch/duo/)
-- [DESY](https://door.desy.de/door/index.php)
