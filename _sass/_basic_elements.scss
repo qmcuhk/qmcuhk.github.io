@@ -27,6 +27,16 @@ footer {
       margin-bottom:auto;
     }
   }
+  .footer-logo {
+    height: 50px; // Set the height of the logos
+    width: auto;
+    margin-bottom: 5px; // Space between the logo and the text label
+    transition: all 0.3s ease-in-out;
+    &:hover{
+      // transform: scale(1.1);
+      opacity: 0.6;
+    }
+  }
   .footer-info {
     display: flex;
     flex-direction: row;
