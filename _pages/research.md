@@ -53,31 +53,3 @@ We perform X-ray and neutron scattering/spectroscopy experiments at large-scale 
     </div>
 </div>
 <div class="large-divider"></div>
-
-
-## External links
-<div class="publications-additional-info">
-  <p><b>User Portals</b></p>
-  <div class="publications-logos">
-    <a href="https://userportal.nsrrc.org.tw/APNSR/page/2160" class="logo-link" target="_blank" rel="noopener noreferrer">
-      <img src="assets/icons/nsrrc_logo.png" alt="NSRRC Logo" class="logo">
-      <span class="logo-name">NSRRC</span>
-    </a>
-    <a href="https://uas.diamond.ac.uk/uas/" class="logo-link" target="_blank" rel="noopener noreferrer">
-      <img src="assets/icons/nsrrc_logo.png" alt="DLS Logo" class="logo">
-      <span class="logo-name">DLS</span>
-    </a>
-    <a href="https://smis.esrf.fr/misapps/SMISWebClient/protected/welcome.do" class="logo-link" target="_blank" rel="noopener noreferrer">
-      <img src="assets/icons/nsrrc_logo.png" alt="ESRF Logo" class="logo">
-      <span class="logo-name">ESRF</span>
-    </a>
-    <a href="https://duo.psi.ch/duo/" class="logo-link" target="_blank" rel="noopener noreferrer">
-      <img src="assets/icons/nsrrc_logo.png" alt="PSI Logo" class="logo">
-      <span class="logo-name">PSI</span>
-    </a>
-    <a href="https://door.desy.de/door/index.php" class="logo-link" target="_blank" rel="noopener noreferrer">
-      <img src="assets/icons/nsrrc_logo.png" alt="DESY Logo" class="logo">
-      <span class="logo-name">DESY</span>
-    </a>
-  </div>
-</div>
