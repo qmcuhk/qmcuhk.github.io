@@ -50,7 +50,7 @@ banner-path: dalle_members_image.png
         <div class="member-card-logo">
         <a href="mailto:{{member.email}}"><i class="fa-solid fa-envelope"></i></a> 
         <a href="mailto:{{member.twitter}}"><i class="fa-brands fa-twitter"></i></a>  
-        <a href="mailto:{{member.github}}"><i class="fa-brands fa-github"></i></a>  
+        <a href="{{member.github}}"><i class="fa-brands fa-github"></i></a>  
         </div>
     </div>
   {% endfor %}
@@ -58,6 +58,7 @@ banner-path: dalle_members_image.png
 
 
 
-## Colaborator
-- [Johan Chang]()
-- [Jun Zhao]()
+## Collaborators
+- <a href="https://www.physik.uzh.ch/groups/chang/index.php" target="_blank">Prof. Johan Chang</a>
+- <a href="http://www.physics.fudan.edu.cn/tps/people/jzhao/" target="_blank">Prof. Jun Zhao</a>
+- <a href="https://laser-arpes.iphy.ac.cn/CN/Personnel/Personnel_ZZH.html" target="_blank">Prof. Zhihai Zhu</a>
