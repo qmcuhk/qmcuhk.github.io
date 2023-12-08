@@ -1,3 +1,15 @@
+- title: Engineering Phase Competition Between Stripe Order and Superconductivity in La1.88Sr0.12CuO4
+  date: 2023-12
+  journal: arXiv:2312.03650
+  arxiv: https://arxiv.org/abs/2312.03650
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2312.03650
+  pdf-name:
+  authors: J. Küspert*, I. Biało, R. Frison, A. Morawietz, L. Martinelli, J. Choi, D. Bucher, O. Ivashko, M. v. Zimmermann, N. B. Christensen, D. G. Mazzone, G. Simutis, A. A. Turrini, L. Thomarat, D. W. Tam, M. Janoschek, T. Kurosawa, N. Momono, M. Oda, Qisi Wang*, J. Chang
+  authors-short: J. Küspert et. al.
+  picture-path: 2023_kuespert.jpg
+  description: 1
+
 - title: Quantum Fluctuations in a Weakly Correlated Mott Insulator
   date: 2023-11
   journal: arXiv:2311.16553
