@@ -49,8 +49,12 @@ banner-path: dalle_members_image.png
         {% endif%}
         <div class="member-card-logo">
         <a href="mailto:{{member.email}}"><i class="fa-solid fa-envelope"></i></a> 
-        <a href="mailto:{{member.twitter}}"><i class="fa-brands fa-twitter"></i></a>  
         <a href="{{member.github}}"><i class="fa-brands fa-github"></i></a>  
+        {% if member.name == "Prof. Qisi Wang" %}
+            <a href="{{member.linkedin}}"><i class="fa-brands fa-linkedin"></i></a>
+        {% else %}
+            <a href="{{member.twitter}}"><i class="fa-brands fa-twitter"></i></a>  
+        {% endif %}
         </div>
     </div>
   {% endfor %}

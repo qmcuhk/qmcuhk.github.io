@@ -9,7 +9,8 @@ master:
 phd: PhD Fudan University
 email: qwang@cuhk.edu.hk
 twitter: 
-github: 
+github: https://github.com/qmcuhk
+linkedin: https://www.linkedin.com/in/qisi-wang/
 ordering: 1
 layout: members
 ---
