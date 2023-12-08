@@ -1,3 +1,15 @@
+- title: Resolving the Orbital Character of Low-energy Excitations in Mott Insulator with Intermediate Spin-orbit Coupling
+  date: 2023-12
+  journal: arXiv:2312.04406
+  arxiv: https://arxiv.org/abs/2312.04406
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2312.04406
+  pdf-name:
+  authors: K. von Arx, P. Rothenbühler, Qisi Wang, J. Choi, M. Garcia-Fernandez, S. Agrestini, Ke-Jin Zhou, A. Vecchione, R. Fittipaldi, Y. Sassa, M. Cuoco, F. Forte, J. Chang
+  authors-short: K. von Arx et. al.
+  picture-path: 2023_vonarx.jpg
+  description: 1
+
 - title: Engineering Phase Competition Between Stripe Order and Superconductivity in La1.88Sr0.12CuO4
   date: 2023-12
   journal: arXiv:2312.03650
