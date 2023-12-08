@@ -83,7 +83,6 @@ body.index {
   font-family: $font-family;
   margin: 0 auto;
   line-height: 1.7;
-  padding-left: 4vh 6vh;
   overflow-x: hidden;
   color: $color-text;
   font-size: 1rem;
@@ -436,7 +435,7 @@ body.index a{
 }
 
 .research-wrapper{
-  width:85%;
+  padding-left: 4vh 6vh;
   max-width:70em;
   margin: 0 auto;
   h1 {

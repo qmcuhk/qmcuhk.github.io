@@ -3,8 +3,9 @@ layout: homepage
 title: Home
 id: home
 permalink: /
+layout: homepage
 ---
-
+<div class="home-wrapper">
 <div class="hompage-introduction">
 <p>
 We are an experimental research group on condensed matter physics led by Prof. Qisi Wang. Our main research interests are electronic, magnetic, and structural properties of quantum matter including high-temperature superconductors, quantum magnets, and correlated electron systems. We use multiple X-ray and neutron scattering/spectroscopy techniques to study elementary excitations and phase transitions in these quantum materials. 
@@ -16,11 +17,11 @@ We are an experimental research group on condensed matter physics led by Prof. Q
 
 <!-- Sliding pictures section -->
 
-
-
+<div style="height: 15em; background-color:rgba(92, 92, 92, 1); padding: 0.5em 4em 0.5em 2em;"><hr style="width:100%;"><div style="color:white; font-size: 4.2em; font-family:'Garamond'; font-weight: 100;">RIXS: Rabbit Intellegent X-ray Scientists</div></div>
 
 <!-- Members section -->
-
+<div class="medium-divider">
+</div>
 <div class="medium-divider">
 <h1> Members </h1>
 </div>
@@ -73,6 +74,8 @@ We are an experimental research group on condensed matter physics led by Prof. Q
     </div>
   {% endfor %}
 </div>
+</div>
+
 
 
 <div class="coffee-button">
