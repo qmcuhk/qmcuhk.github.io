@@ -20,7 +20,6 @@ This non-calculus-based course covers some essential concepts in mechanics, heat
 The course provides student-centred learning experience in a small-group setting. Students are required to study physics problems on selected topics relevant to introductory physics courses, present the solutions in class, and engage in discussion with classmates and the instructor. Emphasis is put on skills in self-study, problem solving, and especially presentation and communication skills.
 
 <div class="medium-divider"></div>
-
 <hr>
 <h4>Useful Links</h4>
 <a class="teaching-link"  href="https://blackboard.cuhk.edu.hk/ultra/stream" target="_blank">[Blackboard]</a>

@@ -44,3 +44,14 @@ line:
     src="https://www.cuhk.edu.hk/chinese/campus/cuhk-campus-map.html"
     height="100%"  allowfullscreen="" loading="lazy" scrolling="no"></iframe>
 </div>
+
+
+
+<div class="medium-divider"></div>
+<hr>
+<h4>Useful Links</h4>
+<a class="teaching-link"  href="https://cerg1.ugc.edu.hk/" target="_blank">[GRF]</a>
+<a class="teaching-link"  href="https://services.veriguide.org/academic/" target="_blank">[VeriGuide]</a>
+<a class="teaching-link" href="https://webapp.itsc.cuhk.edu.hk/ras/restricted/OrganizerList" target="_blank">[RAS]</a>
+<a class="teaching-link" href="https://culink.cuhk.edu.hk/cn/" target="_blank">[CULink]</a>
+<a class="teaching-link" href="https://www.itsc.cuhk.edu.hk/" target="_blank">[ITSC]</a>
