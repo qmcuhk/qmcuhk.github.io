@@ -52,6 +52,8 @@ line:
 <h4>Useful Links</h4>
 <a class="teaching-link"  href="https://cerg1.ugc.edu.hk/" target="_blank">[GRF]</a>
 <a class="teaching-link"  href="https://services.veriguide.org/academic/" target="_blank">[VeriGuide]</a>
+<a class="teaching-link"  href="https://portal.cuhk.edu.hk/" target="_blank">[MyCUHK]</a>
+<a class="teaching-link"  href="https://gocuhk.sharepoint.com/_layouts/15/sharepoint.aspx" target="_blank">[SharePoint]</a>
 <a class="teaching-link" href="https://webapp.itsc.cuhk.edu.hk/ras/restricted/OrganizerList" target="_blank">[RAS]</a>
 <a class="teaching-link" href="https://culink.cuhk.edu.hk/cn/" target="_blank">[CULink]</a>
 <a class="teaching-link" href="https://www.itsc.cuhk.edu.hk/" target="_blank">[ITSC]</a>
