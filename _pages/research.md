@@ -52,4 +52,14 @@ We perform X-ray and neutron scattering/spectroscopy experiments at large-scale 
         </div>
     </div>
 </div>
-<div class="large-divider"></div>
+
+<div class="medium-divider"></div>
+<hr>
+<h4>Useful Links</h4>
+<a class="teaching-link"  href="https://spinw.org/spinw" target="_blank">[SpinW]</a>
+<a class="teaching-link" href="https://mcphase.github.io/webpage/" target="_blank">[McPhase]</a>
+<a class="teaching-link" href="https://www.ill.eu/sites/fullprof/" target="_blank">[FullProf]</a>
+<a class="teaching-link" href="https://www.aqs.cuhk.edu.hk/" target="_blank">[TobyFit]</a>
+<a class="teaching-link" href="https://mjolnir.readthedocs.io/en/latest/" target="_blank">[MJOLNIR]</a>
+<a class="teaching-link" href="https://anorg.chem.uu.nl/CTM4XAS/" target="_blank">[CTM4XAS]</a>
+<a class="teaching-link" href="https://github.com/kkummer/RixsToolBox" target="_blank">[RIXSToolBox]</a>
