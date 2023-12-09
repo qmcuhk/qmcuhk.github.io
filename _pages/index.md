@@ -15,9 +15,9 @@ We are an experimental research group on condensed matter physics led by Prof. Q
 <div class="medium-divider"></div>
 <div class="medium-divider"></div>
 
-<!-- Sliding pictures section -->
-
+<!-- Sliding pictures section 
 <div style="height: 15em; background-color:rgba(92, 92, 92, 1); padding: 0.5em 4em 0.5em 2em;"><hr style="width:100%;"><div style="color:white; font-size: 4.2em; font-family:'Garamond'; font-weight: 100;">RIXS: Rabbit Intellegent X-ray Scientists</div><p style="color:white">We are RIXS scientists. We are performing</p></div>
+-->
 
 <!-- Members section -->
 <div class="medium-divider">
