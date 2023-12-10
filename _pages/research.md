@@ -56,10 +56,19 @@ We perform X-ray and neutron scattering/spectroscopy experiments at large-scale 
 <div class="medium-divider"></div>
 <hr>
 <h4>Useful Links</h4>
+<a class="teaching-link" href="https://dawnsci.org/" target="_blank">[DAWN]</a>
+<a class="teaching-link" href="https://github.com/kkummer/RixsToolBox" target="_blank">[RIXSToolBox]</a>
 <a class="teaching-link"  href="https://spinw.org/spinw" target="_blank">[SpinW]</a>
 <a class="teaching-link" href="https://mcphase.github.io/webpage/" target="_blank">[McPhase]</a>
+<a class="teaching-link" href="https://www.mcstas.org/" target="_blank">[McStas]</a>
 <a class="teaching-link" href="https://www.ill.eu/sites/fullprof/" target="_blank">[FullProf]</a>
-<a class="teaching-link" href="https://www.aqs.cuhk.edu.hk/" target="_blank">[TobyFit]</a>
+<a class="teaching-link" href="https://pace-neutrons.github.io/Horace/v3.6.3/" target="_blank">[HORACE]</a>
+<a class="teaching-link" href="https://pace-neutrons.github.io/Horace/v3.6.3/manual/Tobyfit.html" target="_blank">[TobyFit]</a>
+<a class="teaching-link" href="http://mslice.isis.rl.ac.uk/Main_Page" target="_blank">[MSLICE]</a>
+<a class="teaching-link" href="https://www.isis.stfc.ac.uk/Pages/Proper-analysis-of-coherent-excitations.aspx" target="_blank">[PACE]</a>
+<a class="teaching-link" href="https://archive.mantidproject.org/Main_Page" target="_blank">[MANTID]</a>
+<a class="teaching-link" href="https://www.ncnr.nist.gov/dave/" target="_blank">[DAVE]</a>
 <a class="teaching-link" href="https://mjolnir.readthedocs.io/en/latest/" target="_blank">[MJOLNIR]</a>
+<a class="teaching-link" href="https://github.com/kuadrat/data-slicer" target="_blank">[Data-Slicer]</a>
 <a class="teaching-link" href="https://anorg.chem.uu.nl/CTM4XAS/" target="_blank">[CTM4XAS]</a>
-<a class="teaching-link" href="https://github.com/kkummer/RixsToolBox" target="_blank">[RIXSToolBox]</a>
+<a class="teaching-link" href="https://next-gen.materialsproject.org/" target="_blank">[The Materials]</a>
