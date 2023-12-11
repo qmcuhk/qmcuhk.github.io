@@ -49,7 +49,6 @@ line:
 
 <div class="medium-divider"></div>
 <hr>
-flex-wrap: wrap;
 <h4>Useful Links</h4>
 <a class="teaching-link"  href="https://cerg1.ugc.edu.hk/" target="_blank">[GRF]</a>
 <a class="teaching-link"  href="https://services.veriguide.org/academic/" target="_blank">[VeriGuide]</a>
