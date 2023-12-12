@@ -7,5 +7,3 @@ layout: news
 ---
 
 Today, we had the pleasure to host <a href="https://chuxq01.wixsite.com/chugroup">Prof. Xiangqiang Chu</a> from <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a> as the speaker at our department colloquium. It was great to learn about applications of neturon scattering in biophysics.
-
-
