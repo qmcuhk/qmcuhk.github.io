@@ -63,6 +63,6 @@ banner-path: member_rabbit.jpg
 
 
 ## Collaborators
-- <a href="https://www.physik.uzh.ch/groups/chang/index.php" target="_blank">Prof. Johan Chang</a>
-- <a href="http://www.physics.fudan.edu.cn/tps/people/jzhao/" target="_blank">Prof. Jun Zhao</a>
-- <a href="https://laser-arpes.iphy.ac.cn/CN/Personnel/Personnel_ZZH.html" target="_blank">Prof. Zhihai Zhu</a>
+- <a href="https://www.physik.uzh.ch/groups/chang/index.php" target="_blank">Prof. Johan Chang</a> (University of Zurich)
+- <a href="http://www.physics.fudan.edu.cn/tps/people/jzhao/" target="_blank">Prof. Jun Zhao</a> (Fudan University)
+- <a href="https://laser-arpes.iphy.ac.cn/CN/Personnel/Personnel_ZZH.html" target="_blank">Prof. Zhihai Zhu</a> (Institute of Physics, CAS)
