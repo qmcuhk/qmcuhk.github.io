@@ -1,3 +1,15 @@
+- title: Spin fluctuations sufficient to mediate superconductivity in nickelates
+  date: 2023-12
+  journal: arXiv:2312.08260
+  arxiv: https://arxiv.org/abs/2312.08260
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2312.08260
+  pdf-name:
+  authors: Paul Worm, Qisi Wang, Motoharu Kitatani, Izabela Biało, Qiang Gao, Xiaolin Ren, Jaewon Choi, Diana Csontosová, Ke-Jin Zhou, Xingjiang Zhou, Zhihai Zhu, Liang Si, Johan Chang, Jan M. Tomczak, Karsten Held
+  authors-short: P. Worm et. al.
+  picture-path: 2023_worm.png
+  description: 1
+
 - title: Resolving the Orbital Character of Low-energy Excitations in Mott Insulator with Intermediate Spin-orbit Coupling
   date: 2023-12
   journal: arXiv:2312.04406
