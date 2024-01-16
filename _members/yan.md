@@ -7,7 +7,7 @@ affiliation-2:
 bachelor:
 master:
 phd:  
-email: 
+email: k.space.infinity@gamil.com
 twitter: 
 github: 
 ording: 4

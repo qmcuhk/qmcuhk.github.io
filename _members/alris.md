@@ -1,7 +1,7 @@
 ---
 name: Alris Dai
 title: Undergraduate Student
-photo-path: alris.jpg
+photo-path: alris.JPG
 affiliation-1: The Chinese University of HK
 affiliation-2: 
 bachelor:
