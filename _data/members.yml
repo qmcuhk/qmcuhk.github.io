@@ -8,7 +8,7 @@
   phd: PhD Fudan University
   email: qwang@cuhk.edu.hk
   twitter: 
-  github: 
+  github: https://github.com/qmcuhk
 
 - name: Yujie Yan
   title: PhD Student
@@ -35,11 +35,11 @@
   github: 
 
 - name: Ying Chan
-  title: Undergraduate Student
+  title: Research Assistant
   photo-path: yingchan.jpg
   affiliation-1: The Chinese University of HK
   affiliation-2: 
-  bachelor:
+  bachelor: BSc. CUHK
   master:
   phd:  
   email: 
