@@ -1,4 +1,16 @@
-- title: Spin fluctuations sufficient to mediate superconductivity in nickelates
+- title: Two-Dimensional Phase-Fluctuating Superconductivity in Bulk-Crystalline NdO0.5F0.5BiS2
+  date: 2024-01
+  journal: arXiv:2401.16980
+  arxiv: https://arxiv.org/abs/2401.16980
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2401.16980
+  pdf-name:
+  authors: C. S. Chen, J. Küspert, I. Biało, J. Mueller, K. W. Chen, M. Y. Zou, D. G. Mazzone, D.Bucher, K. Tanaka, O. Ivashko, M. v. Zimmermann, Qisi Wang, Lei Shu, J. Chang
+  authors-short: C. S. Chen et. al.
+  picture-path: 2024_chen.jpg
+  description: 1
+
+  - title: Spin fluctuations sufficient to mediate superconductivity in nickelates
   date: 2023-12
   journal: arXiv:2312.08260
   arxiv: https://arxiv.org/abs/2312.08260
