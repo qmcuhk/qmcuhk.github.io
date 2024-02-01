@@ -376,6 +376,9 @@ body.index a{
     text-decoration: none;
     font-size: 22px;
     color: black;
+    &:hover {
+      text-decoration: none !important;
+    }
   }
   i {
     color: #363636;
