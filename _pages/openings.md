@@ -10,7 +10,7 @@ The Quantum Matter Lab currently has opening for undergraduates, graduate studen
 </h3>
 <hr>
 <p>
-Preferred Background, Knowledge, Skills, and Abilites:
+Preferred Background, Knowledge, Skills, and Abilities:
 
 <p>
 <h4>
