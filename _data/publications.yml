@@ -96,12 +96,12 @@
 
 - title: Weak-signal extraction enabled by deep-neural-network denoising of diffraction data
   date: 2024-02
-  journal: Nature Machine Intelligence
+  journal: Nature Machine Intelligence (2024)
   arxiv: https://arxiv.org/abs/2209.09247
   preprint:
   doi: https://doi.org/10.1038/s42256-024-00790-1
   pdf-name:
-  authors: Jens Oppliger, Michael M. Denner, Julia Küspert, Ruggero Frison, Qisi Wang, Alexander Morawietz, Oleh Ivashko, Ann-Christin Dippel, Martin von Zimmermann, Izabela Biało, Leonardo Martinelli, Benoît Fauqué, Jaewon Choi, Mirian Garcia-Fernandez, Kejin Zhou, Niels B. Christensen, Tohru Kurosawa, Naoki Momono, Migaku Oda, Fabian D. Natterer, Mark H. Fischer, Titus Neupert, Johan Chang
+  authors: Jens Oppliger, M. Michael Denner, Julia Küspert, Ruggero Frison, Qisi Wang, Alexander Morawietz, Oleh Ivashko, Ann-Christin Dippel, Martin von Zimmermann, Izabela Biało, Leonardo Martinelli, Benoît Fauqué, Jaewon Choi, Mirian Garcia-Fernandez, Ke-Jin Zhou, Niels Bech Christensen, Tohru Kurosawa, Naoki Momono, Migaku Oda, Fabian D. Natterer, Mark H. Fischer, Titus Neupert, Johan Chang
   authors-short: Jens Oppliger et. al.
   picture-path: 2024_oppliger_nmi.png
   description: 1
