@@ -70,19 +70,7 @@
   picture-path: 2023_bialo.jpg
   description: 1
 
-- title: Weak-signal extraction enabled by deep-neural-network denoising of diffraction data
-  date: 2022-09
-  journal: arXiv:2209.09247
-  arxiv: https://arxiv.org/abs/2209.09247
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2209.09247
-  pdf-name:
-  authors: Jens Oppliger, Michael M. Denner, Julia Küspert, Ruggero Frison, Qisi Wang, Alexander Morawietz, Oleh Ivashko, Ann-Christin Dippel, Martin von Zimmermann, Izabela Biało, Leonardo Martinelli, Benoît Fauqué, Jaewon Choi, Mirian Garcia-Fernandez, Kejin Zhou, Niels B. Christensen, Tohru Kurosawa, Naoki Momono, Migaku Oda, Fabian D. Natterer, Mark H. Fischer, Titus Neupert, Johan Chang
-  authors-short: Jens Oppliger et. al.
-  picture-path: 2022_oppliger.png
-  description: 1
-
-- title: Symmetry of Charge Order in Infinite-layer Nickelates
+- title: Two Distinct Charge Orders in Infinite-layer PrNiO2+δ revealed by Resonant X-ray Diffraction
   date: 2023-03
   journal: arXiv:2303.02865
   arxiv: https://arxiv.org/abs/2303.02865
@@ -104,6 +92,18 @@
   authors: Qiang Gao<sup>#</sup>, Shiyu Fan<sup>#</sup>, Qisi Wang<sup>#</sup>, Jiarui Li, Xiaolin Ren, Izabela Biało, Annabella Drewanowski, Pascal Rothenbühler, Jaewon Choi, Yao Wang, Tao Xiang, Jiangping Hu, Ke-Jin Zhou, Valentina Bisogni, Riccardo Comin, J. Chang, Jonathan Pelliciari, X. J. Zhou, Zhihai Zhu
   authors-short: Qiang Gao et. al.
   picture-path: 2022_gao.jpg
+  description: 1
+
+- title: Weak-signal extraction enabled by deep-neural-network denoising of diffraction data
+  date: 2024-02
+  journal: Nature Machine Intelligence
+  arxiv: https://arxiv.org/abs/2209.09247
+  preprint:
+  doi: https://doi.org/10.1038/s42256-024-00790-1
+  pdf-name:
+  authors: Jens Oppliger, Michael M. Denner, Julia Küspert, Ruggero Frison, Qisi Wang, Alexander Morawietz, Oleh Ivashko, Ann-Christin Dippel, Martin von Zimmermann, Izabela Biało, Leonardo Martinelli, Benoît Fauqué, Jaewon Choi, Mirian Garcia-Fernandez, Kejin Zhou, Niels B. Christensen, Tohru Kurosawa, Naoki Momono, Migaku Oda, Fabian D. Natterer, Mark H. Fischer, Titus Neupert, Johan Chang
+  authors-short: Jens Oppliger et. al.
+  picture-path: 2024_oppliger_nmi.png
   description: 1
 
 - title: Revealing the Orbital Composition of Heavy Fermion Quasiparticles in CeRu2Si2
