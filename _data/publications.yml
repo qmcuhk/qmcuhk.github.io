@@ -82,6 +82,18 @@
   picture-path: 2022_gao.jpg
   description: 1
 
+- title: Interplay between crystal field and magnetic anisotropy in the triangular-lattice antiferromagnet NaTmTe2
+  date: 2024-02
+  journal: Physical Review B 109, 075159 (2024)
+  arxiv:
+  preprint:
+  doi: https://doi.org/10.1103/PhysRevB.109.075159
+  pdf-name:
+  authors: Shiyi Zheng, Yiqing Gu, Yimeng Gu, Zeyu Kao, Qisi Wang, Hongliang Wo, Yinghao Zhu, Feiyang Liu, Liusuo Wu, Jieming Sheng, Johan Chang, Seiko Ohira-Kawamura, Naoki Murai, Christof Niedermayer, Daniel Gabriel Mazzone, Gang Chen, Jun Zhao
+  authors-short: S. Zheng et. al.
+  picture-path: 2024_zheng_prb.jpg
+  description: 1
+
 - title: Two-dimensional phase-fluctuating superconductivity in bulk crystalline NdO0.5F0.5BiS2
   date: 2024-02
   journal: Physical Review B 109, 054516 (2024)
@@ -103,7 +115,7 @@
   pdf-name:
   authors: Jens Oppliger, M. Michael Denner, Julia Küspert, Ruggero Frison, Qisi Wang, Alexander Morawietz, Oleh Ivashko, Ann-Christin Dippel, Martin von Zimmermann, Izabela Biało, Leonardo Martinelli, Benoît Fauqué, Jaewon Choi, Mirian Garcia-Fernandez, Ke-Jin Zhou, Niels Bech Christensen, Tohru Kurosawa, Naoki Momono, Migaku Oda, Fabian D. Natterer, Mark H. Fischer, Titus Neupert, Johan Chang
   authors-short: Jens Oppliger et. al.
-  picture-path: 2024_oppliger_nmi.png
+  picture-path: 2024_oppliger_nmi.jpg
   description: 1
 
 - title: Revealing the Orbital Composition of Heavy Fermion Quasiparticles in CeRu2Si2
