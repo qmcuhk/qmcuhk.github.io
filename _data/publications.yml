@@ -189,6 +189,16 @@
   picture-path: 2022_hu_prb.jpg
   description: 1
 
+- title: Editorial<p>:</p> Nematicity in iron-based superconductors
+  date: 2022-09
+  journal: Frontiers in Physics 10, 1038127 (2022)
+  arxiv:
+  doi: https://doi.org/10.3389/fphy.2022.1038127
+  authors: Qisi Wang*, Lara Fanfarillo*, Anna E. Böhmer*
+  authors-short: Qisi Wang et. al.
+  picture-path: 2022_wang_fp.png
+  description: 1
+
 - title: Anomalous contribution to the nematic electronic states from the structural transition in FeSe revealed by time- and angle-resolved photoemission spectroscopy
   date: 2022-06
   journal: Physical Review Letters 128, 246401 (2022)
