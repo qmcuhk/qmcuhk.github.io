@@ -58,4 +58,4 @@ line:
 <a class="teaching-link" href="https://webapp.itsc.cuhk.edu.hk/ras/restricted/OrganizerList" target="_blank">[RAS]</a>
 <a class="teaching-link" href="https://culink.cuhk.edu.hk/cn/" target="_blank">[CULink]</a>
 <a class="teaching-link" href="https://www.itsc.cuhk.edu.hk/" target="_blank">[ITSC]</a>
-<a class="teaching-link" href="https://www.cuhk.edu.hk/english/campus/accommodation.html/" target="_blank">[Campus]</a>
+<a class="teaching-link" href="https://www.cuhk.edu.hk/english/campus/accommodation.html" target="_blank">[Campus]</a>
