@@ -1,7 +1,7 @@
 ---
 name: Samson Li
 title: Undergraduate Student
-photo-path: samson.JPG
+photo-path: samson.jpg
 affiliation-1: The Chinese University of HK
 affiliation-2: 
 bachelor:
