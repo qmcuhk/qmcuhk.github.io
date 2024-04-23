@@ -72,7 +72,9 @@ We perform X-ray and neutron scattering/spectroscopy experiments at large-scale 
 <a class="teaching-link" href="https://mjolnir.readthedocs.io/en/latest/" target="_blank">[MJOLNIR]</a>
 <a class="teaching-link" href="https://github.com/kuadrat/data-slicer" target="_blank">[Data-Slicer]</a>
 <a class="teaching-link" href="https://iso.byu.edu/iso/isotropy.php" target="_blank">[ISOTROPY]</a>
+<a class="teaching-link" href="https://nsls-ii.github.io/edrixs/" target="_blank">[EDRIXS]</a>
 <a class="teaching-link" href="https://anorg.chem.uu.nl/CTM4XAS/" target="_blank">[CTM4XAS]</a>
+<a class="teaching-link" href="https://icsd.fiz-karlsruhe.de/" target="_blank">[ICSD]</a>
 <a class="teaching-link" href="https://next-gen.materialsproject.org/" target="_blank">[The Materials]</a>
 <a class="teaching-link" href="https://authors.aps.org/Submissions/login/new" target="_blank">[APS]</a>
 <a class="teaching-link" href="https://mts-ncomms.nature.com/cgi-bin/main.plex" target="_blank">[NC]</a>
