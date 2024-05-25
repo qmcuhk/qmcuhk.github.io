@@ -59,6 +59,7 @@ We perform X-ray and neutron scattering/spectroscopy experiments at large-scale 
 <a class="teaching-link" href="https://dawnsci.org/" target="_blank">[DAWN]</a>
 <a class="teaching-link" href="https://github.com/kkummer/RixsToolBox" target="_blank">[RIXSToolBox]</a>
 <a class="teaching-link"  href="https://spinw.org/spinw" target="_blank">[SpinW]</a>
+<a class="teaching-link"  href="https://github.com/SunnySuite" target="_blank">[Sunny]</a>
 <a class="teaching-link"  href="https://www-llb.cea.fr/logicielsllb/SpinWave/SW.html" target="_blank">[SpinWave]</a>
 <a class="teaching-link" href="https://mcphase.github.io/webpage/" target="_blank">[McPhase]</a>
 <a class="teaching-link" href="https://www.mcstas.org/" target="_blank">[McStas]</a>
