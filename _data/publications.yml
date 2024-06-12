@@ -10,18 +10,6 @@
   picture-path: 2024_oppliger.jpg
   description: 1
 
-- title: Spin fluctuations sufficient to mediate superconductivity in nickelates
-  date: 2023-12
-  journal: arXiv:2312.08260
-  arxiv: https://arxiv.org/abs/2312.08260
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2312.08260
-  pdf-name:
-  authors: Paul Worm, Qisi Wang, Motoharu Kitatani, Izabela Biało, Qiang Gao, Xiaolin Ren, Jaewon Choi, Diana Csontosová, Ke-Jin Zhou, Xingjiang Zhou, Zhihai Zhu, Liang Si, Johan Chang, Jan M. Tomczak, Karsten Held
-  authors-short: P. Worm et. al.
-  picture-path: 2023_worm.png
-  description: 1
-
 - title: Resolving the Orbital Character of Low-energy Excitations in Mott Insulator with Intermediate Spin-orbit Coupling
   date: 2023-12
   journal: arXiv:2312.04406
@@ -94,9 +82,21 @@
   picture-path: 2022_gao.jpg
   description: 1
 
+- title: Spin fluctuations sufficient to mediate superconductivity in nickelates
+  date: 2024-06
+  journal: Physical Review B 109, 235126 (2024) _Editor's suggestion_
+  arxiv: https://arxiv.org/abs/2312.08260
+  preprint:
+  doi: https://doi.org/10.1103/PhysRevB.109.235126
+  pdf-name:
+  authors: Paul Worm, Qisi Wang, Motoharu Kitatani, Izabela Biało, Qiang Gao, Xiaolin Ren, Jaewon Choi, Diana Csontosová, Ke-Jin Zhou, Xingjiang Zhou, Zhihai Zhu, Liang Si, Johan Chang, Jan M. Tomczak, Karsten Held
+  authors-short: P. Worm et. al.
+  picture-path: 2024_worm_prb.png
+  description: 1
+
 - title: Interplay between crystal field and magnetic anisotropy in the triangular-lattice antiferromagnet NaTmTe2
   date: 2024-02
-  journal: Physical Review B 109, 075159 (2024)
+  journal: Physical Review B 109, 075159 (2024) _Editor's suggestion_
   arxiv:
   preprint:
   doi: https://doi.org/10.1103/PhysRevB.109.075159
