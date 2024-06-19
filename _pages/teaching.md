@@ -9,11 +9,23 @@ banner-path: dalle_teaching_image.png
 <h1>Courses taught by Qisi Wang</h1>
 </div>
 <hr>
+## 2024-25 Academic year
+
+### PHYS1003A General Physics for Engineers (Term 1) 
+
+This non-calculus-based course covers some essential concepts in mechanics, heat, and electricity.  It is designed for engineering students to get an overview on what physics is about.  Selected topics include: Newton’s laws of motion including one-dimensional and two-dimensional motions, temperature and heat, laws of thermodynamics, electric field and potential, current and circuits.  The course is suitable for Engineering students without HKDSE physics or Combined Science with a physics component, or with permission of instructor. [See [Blackboard system](https://blackboard.cuhk.edu.hk) for more details and resources].
+
+### GEUC4011 Senior Seminar (Term 1)
+
+This is a small-group student-orientated teaching course for the final year students of United College, with teaching staff serving as supervisors, the emphasis will be on student participation. It aims at: (1) arousing the interest of the students in the exploration of current issues and general academic problems; (2) sharpening their research, problem-solving and thesis-writing skills; and (3) enhancing their overall ability in conducting group research projects and seminars requiring collective efforts. [See [Blackboard system](https://blackboard.cuhk.edu.hk) for more details and resources].
+#### Class Time: Friday 3:30 pm - 6:15 pm
+
+<hr>
 ## 2023-24 Academic year
 
 ### PHYS1003A General Physics for Engineers (Term 1) 
 
-This non-calculus-based course covers some essential concepts in mechanics, heat, and electricity.  It is designed for engineering students to get an overview on what physics is about.  Selected topics include: Newton’s laws of motion including one-dimensional and two-dimensional motions, temperature and heat, laws of thermodynamics, electric field and potential, current and circuits.  The course is suitable for Engineering students without HKDSE physics or Combined Science with a physics component, or with permission of instructor. [See [Blackboard system](https://blackboard.cuhk.edu.hk/ultra/stream) for more details and resources].
+This non-calculus-based course covers some essential concepts in mechanics, heat, and electricity.  It is designed for engineering students to get an overview on what physics is about.  Selected topics include: Newton’s laws of motion including one-dimensional and two-dimensional motions, temperature and heat, laws of thermodynamics, electric field and potential, current and circuits.  The course is suitable for Engineering students without HKDSE physics or Combined Science with a physics component, or with permission of instructor. [See [Blackboard system](https://blackboard.cuhk.edu.hk) for more details and resources].
 
 ### PHYS2510D Student Centred Learning I (Term 1)
 
@@ -27,5 +39,3 @@ The course provides student-centred learning experience in a small-group setting
 <a class="teaching-link" href="http://www.res.cuhk.edu.hk/en-gb/" target="_blank">[RES]</a>
 <a class="teaching-link" href="https://www.aqs.cuhk.edu.hk/" target="_blank">[AQS]</a>
 <a class="teaching-link" href="https://www.gs.cuhk.edu.hk/" target="_blank">[GS]</a>
-
-
