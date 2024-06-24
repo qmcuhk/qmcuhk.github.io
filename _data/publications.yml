@@ -46,18 +46,6 @@
   picture-path: 2023_kuespert.jpg
   description: 1
 
-- title: Quantum Fluctuations in a Weakly Correlated Mott Insulator
-  date: 2023-11
-  journal: arXiv:2311.16553
-  arxiv: https://arxiv.org/abs/2311.16553
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2311.16553
-  pdf-name:
-  authors: Qisi Wang*, S. Mustafi, E. Fogh, N. Astrakhantsev, Z. He, I. Biało, M. Horio, O. Ivashko, N. E. Shaik, K. von Arx, Y. Sassa, E. Paris, M. H. Fischer, Y. Tseng, N. B. Christensen, A. Galdi, D. G. Schlom, K. M. Shen, T. Schmitt, H. M. Rønnow, J. Chang*
-  authors-short: Qisi Wang et al.
-  picture-path: 2023_wang.jpg
-  description: 1
-
 - title: Strain-Tuned Magnetic Frustration in a Square Lattice J1-J2 Material
   date: 2023-06
   journal: arXiv:2306.05828
@@ -92,6 +80,18 @@
   authors: Qiang Gao<sup>#</sup>, Shiyu Fan<sup>#</sup>, Qisi Wang<sup>#</sup>, Jiarui Li, Xiaolin Ren, Izabela Biało, Annabella Drewanowski, Pascal Rothenbühler, Jaewon Choi, Yao Wang, Tao Xiang, Jiangping Hu, Ke-Jin Zhou, Valentina Bisogni, Riccardo Comin, J. Chang*, Jonathan Pelliciari*, X. J. Zhou*, Zhihai Zhu*
   authors-short: Qiang Gao et al.
   picture-path: 2022_gao.jpg
+  description: 1
+
+- title: Magnon interactions in a moderately correlated Mott insulator
+  date: 2024-06
+  journal: Nature Communications 15, 5348 (2024)
+  arxiv: https://arxiv.org/abs/2311.16553
+  preprint:
+  doi: https://doi.org/10.1038/s41467-024-49714-y
+  pdf-name:
+  authors: Qisi Wang*, S. Mustafi, E. Fogh, N. Astrakhantsev, Z. He, I. Biało, Ying Chan, L. Martinelli, M. Horio, O. Ivashko, N. E. Shaik, K. von Arx, Y. Sassa, E. Paris, M. H. Fischer, Y. Tseng, N. B. Christensen, A. Galdi, D. G. Schlom, K. M. Shen, T. Schmitt, H. M. Rønnow, J. Chang*
+  authors-short: Qisi Wang et al.
+  picture-path: 2024_wang_nc.jpg
   description: 1
 
 - title: Spin fluctuations sufficient to mediate superconductivity in nickelates
