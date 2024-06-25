@@ -7,7 +7,7 @@ affiliation-2:
 bachelor:
 master: 
 phd:  
-email:
+email: alris.dai@link.cuhk.edu.hk
 twitter: 
 github: 
 ording: 6

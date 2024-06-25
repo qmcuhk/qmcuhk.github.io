@@ -7,7 +7,7 @@ affiliation-2:
 bachelor:
 master: 
 phd:  
-email:
+email: 1155193195@link.cuhk.edu.hk
 twitter: 
 github: 
 ording: 7

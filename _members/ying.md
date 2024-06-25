@@ -1,7 +1,7 @@
 ---
 name: Ying Chan
 title: Research Assistant
-photo-path: yingchan.jpg
+photo-path: ying.jpg
 affiliation-1: The Chinese University of HK
 affiliation-2: 
 bachelor:

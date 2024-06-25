@@ -36,15 +36,27 @@
 
 - name: Ying Chan
   title: Research Assistant
-  photo-path: yingchan.jpg
+  photo-path: ying.jpg
   affiliation-1: The Chinese University of HK
   affiliation-2: 
   bachelor: BSc. CUHK
   master:
   phd:  
-  email: 
+  email: k.space.infinity@gamil.com
   twitter: 
-  github: 
+  github:
+
+- name: Yuehong Li
+  title: PhD Student
+  photo-path: yuehong.jpg
+  affiliation-1: The Chinese University of HK
+  affiliation-2: 
+  bachelor: BSc. Sun Yat-sen University
+  master:
+  phd:  
+  email: liyh369@link.cuhk.edu.hk
+  twitter: 
+  github:
 
 - name: Alris Dai
   title: Undergraduate Student
@@ -54,7 +66,7 @@
   bachelor:
   master:
   phd:  
-  email: 
+  email: alris.dai@link.cuhk.edu.hk
   twitter: 
   github: 
 
@@ -66,6 +78,18 @@
   bachelor:
   master:
   phd:  
-  email: 
+  email: 1155193195@link.cuhk.edu.hk
   twitter: 
-  github: 
+  github:
+
+- name: Feiyang Shen
+  title: Visiting Undergraduate Student
+  photo-path: feiyang.jpg
+  affiliation-1: Shanghai Jiao Tong University
+  affiliation-2: 
+  bachelor:
+  master:
+  phd:  
+  email: 3467579090@sjtu.edu.cn
+  twitter: 
+  github:
