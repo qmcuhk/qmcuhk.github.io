@@ -1,5 +1,5 @@
 - title: Decoupled static and dynamical charge correlations in La2−xSrxCuO4
-  date: 2024-06-21 00:00:00 +0000
+  date: "2024-06-21 00:00:00 +0000"
   journal: arXiv:2406.15062
   arxiv: https://arxiv.org/abs/2406.15062
   preprint: true
@@ -11,7 +11,7 @@
   description: 1
 
 - title: Discovery of Giant Unit-Cell Super-Structure in the Infinite-Layer Nickelate PrNiO2
-  date: 2024-04-27 00:00:00 +0000
+  date: "2024-04-27 00:00:00 +0000"
   journal: arXiv:2404.17795
   arxiv: https://arxiv.org/abs/2404.17795
   preprint: true
@@ -23,7 +23,7 @@
   description: 1
 
 - title: Resolving the Orbital Character of Low-energy Excitations in Mott Insulator with Intermediate Spin-orbit Coupling
-  date: 2023-12-07 00:00:00 +0000
+  date: "2023-12-07 00:00:00 +0000"
   journal: arXiv:2312.04406
   arxiv: https://arxiv.org/abs/2312.04406
   preprint: true
@@ -35,7 +35,7 @@
   description: 1
 
 - title: Engineering Phase Competition Between Stripe Order and Superconductivity in La1.88Sr0.12CuO4
-  date: 2023-12-06 00:00:00 +0000
+  date: "2023-12-06 00:00:00 +0000"
   journal: arXiv:2312.03650
   arxiv: https://arxiv.org/abs/2312.03650
   preprint: true
@@ -47,7 +47,7 @@
   description: 1
 
 - title: Strain-Tuned Magnetic Frustration in a Square Lattice J1-J2 Material
-  date: 2023-06-09 00:00:00 +0000
+  date: "2023-06-09 00:00:00 +0000"
   journal: arXiv:2306.05828
   arxiv: https://arxiv.org/abs/2306.05828
   preprint: true
@@ -59,7 +59,7 @@
   description: 1
 
 - title: Two Distinct Charge Orders in Infinite-layer PrNiO2+δ revealed by Resonant X-ray Diffraction
-  date: 2023-03-06 00:00:00 +0000
+  date: "2023-03-06 00:00:00 +0000"
   journal: arXiv:2303.02865
   arxiv: https://arxiv.org/abs/2303.02865
   preprint: true
@@ -71,7 +71,7 @@
   description: 1
 
 - title: Magnetic Excitations in Strained Infinite-layer Nickelate PrNiO2
-  date: 2022-08-11 00:00:00 +0000
+  date: "2022-08-11 00:00:00 +0000"
   journal: arXiv:2208.05614
   arxiv: https://arxiv.org/abs/2208.05614
   preprint: true
@@ -83,7 +83,7 @@
   description: 1
 
 - title: Magnon interactions in a moderately correlated Mott insulator
-  date: 2024-06-24 00:00:00 +0000
+  date: "2024-06-24 00:00:00 +0000"
   journal: Nature Communications 15, 5348 (2024)
   arxiv: https://arxiv.org/abs/2311.16553
   preprint:
@@ -95,7 +95,7 @@
   description: 1
 
 - title: Spin fluctuations sufficient to mediate superconductivity in nickelates
-  date: 2024-06-12 00:00:00 +0000
+  date: "2024-06-12 00:00:00 +0000"
   journal: Physical Review B 109, 235126 (2024) <i>Editor's suggestion</i>
   arxiv: https://arxiv.org/abs/2312.08260
   preprint:
@@ -107,7 +107,7 @@
   description: 1
 
 - title: Interplay between crystal field and magnetic anisotropy in the triangular-lattice antiferromagnet NaTmTe2
-  date: 2024-02-26 00:00:00 +0000
+  date: "2024-02-26 00:00:00 +0000"
   journal: Physical Review B 109, 075159 (2024)
   arxiv:
   preprint:
@@ -119,7 +119,7 @@
   description: 1
 
 - title: Two-dimensional phase-fluctuating superconductivity in bulk crystalline NdO0.5F0.5BiS2
-  date: 2024-02-20 00:00:00 +0000
+  date: "2024-02-20 00:00:00 +0000"
   journal: Physical Review B 109, 054516 (2024)
   arxiv: https://arxiv.org/abs/2401.16980
   preprint:
@@ -131,7 +131,7 @@
   description: 1
 
 - title: Weak-signal extraction enabled by deep-neural-network denoising of diffraction data
-  date: 2024-02-13 00:00:00 +0000
+  date: "2024-02-13 00:00:00 +0000"
   journal: Nature Machine Intelligence 6, 180 (2024)
   arxiv: https://arxiv.org/abs/2209.09247
   preprint:
@@ -143,7 +143,7 @@
   description: 1
 
 - title: Revealing the Orbital Composition of Heavy Fermion Quasiparticles in CeRu2Si2
-  date: 2023-09-05 00:00:00 +0000
+  date: "2023-09-05 00:00:00 +0000"
   journal: Journal of the Physical Society of Japan 92, 104701 (2023)
   arxiv:
   doi: https://doi.org/10.7566/JPSJ.92.104701
@@ -154,7 +154,7 @@
   description: 1
 
 - title: Exchange-renormalized crystal field excitations in the quantum Ising magnet KTmSe2
-  date: 2023-08-23 00:00:00 +0000
+  date: "2023-08-23 00:00:00 +0000"
   journal: Physical Review B 108, 054435 (2023) <i>Editor's suggestion</i>
   arxiv: https://arxiv.org/abs/2306.03544
   doi: https://doi.org/10.1103/PhysRevB.108.054435
@@ -164,7 +164,7 @@
   description: 1
 
 - title: Spin Fluctuations in Sr1.8La0.2RuO4
-  date: 2023-05-09 00:00:00 +0000
+  date: "2023-05-09 00:00:00 +0000"
   journal: Physical Review B 107, L201107 (2023)
   arxiv: https://arxiv.org/abs/2304.08214
   doi: https://doi.org/10.1103/PhysRevB.107.L201107
@@ -174,7 +174,7 @@
   description: 1
 
 - title: In-situ uniaxial pressure cell for X-ray and neutron scattering experiments
-  date: 2023-01-24 00:00:00 +0000
+  date: "2023-01-24 00:00:00 +0000"
   journal: Review of Scientific Instruments 94, 013906 (2023)
   arxiv: https://arxiv.org/abs/2207.13194
   doi: https://doi.org/10.1063/5.0114892
@@ -184,7 +184,7 @@
   description: 1
 
 - title: Fate of charge order in overdoped La-based cuprates
-  date: 2023-01-19 00:00:00 +0000
+  date: "2023-01-19 00:00:00 +0000"
   journal: npj Quantum Materials 8, 7 (2023)
   arxiv: https://arxiv.org/abs/2206.06695
   doi: https://doi.org/10.1038/s41535-023-00539-w
@@ -194,7 +194,7 @@
   description: 1
 
 - title: Low-energy spin fluctuations in FeSe0.95S0.05
-  date: 2022-12-22 00:00:00 +0000
+  date: "2022-12-22 00:00:00 +0000"
   journal: Physical Review B 106, 214522 (2022)
   arxiv:
   doi: https://doi.org/10.1103/PhysRevB.106.214522
@@ -204,7 +204,7 @@
   description: 1
 
 - title: Single-domain stripe order in a high-temperature superconductor
-  date: 2022-11-21 00:00:00 +0000
+  date: "2022-11-21 00:00:00 +0000"
   journal: Communications Physics 5, 296 (2022)
   arxiv: https://arxiv.org/abs/2204.02304
   doi: https://doi.org/10.1038/s42005-022-01061-4
@@ -214,7 +214,7 @@
   description: 1
 
 - title: Pseudogap Suppression by Competition with Superconductivity in La-Based Cuprates
-  date: 2022-10-10 00:00:00 +0000
+  date: "2022-10-10 00:00:00 +0000"
   journal: Physical Review Research 4, 043015 (2022)
   arxiv: https://arxiv.org/abs/2207.07424
   doi: https://doi.org/10.1103/PhysRevResearch.4.043015
@@ -224,7 +224,7 @@
   description: 1
 
 - title: Editorial&colon; Nematicity in iron-based superconductors
-  date: 2022-09-27 00:00:00 +0000
+  date: "2022-09-27 00:00:00 +0000"
   journal: Frontiers in Physics 10, 1038127 (2022)
   arxiv:
   doi: https://doi.org/10.3389/fphy.2022.1038127
@@ -234,7 +234,7 @@
   description: 1
 
 - title: Frustrated magnetic interactions in FeSe
-  date: 2022-08-18 00:00:00 +0000
+  date: "2022-08-18 00:00:00 +0000"
   journal: Physical Review B 106, L060504 (2022)
   arxiv: https://arxiv.org/abs/2207.10981
   doi: https://doi.org/10.1103/PhysRevB.106.L060504
@@ -244,7 +244,7 @@
   description: 1
 
 - title: Crystal symmetry of stripe-ordered La1.88Sr0.12CuO4
-  date: 2022-06-27 00:00:00 +0000
+  date: "2022-06-27 00:00:00 +0000"
   journal: Physical Review B 105, 224113 (2022)
   arxiv: https://arxiv.org/abs/2201.04858
   doi: https://doi.org/10.1103/PhysRevB.105.224113
@@ -254,7 +254,7 @@
   description: 1
 
 - title: Resonant Inelastic Soft X-Ray Scattering on LaPt2Si2
-  date: 2022-06-15 00:00:00 +0000
+  date: "2022-06-15 00:00:00 +0000"
   journal: "Journal of Physics: Condensed Matter 34, 324003 (2022)"
   arxiv: https://arxiv.org/abs/2202.11587
   doi: http://doi.org/10.1088/1361-648X/ac7500
@@ -264,7 +264,7 @@
   description: 1
 
 - title: Anomalous contribution to the nematic electronic states from the structural transition in FeSe revealed by time- and angle-resolved photoemission spectroscopy
-  date: 2022-06-13 00:00:00 +0000
+  date: "2022-06-13 00:00:00 +0000"
   journal: Physical Review Letters 128, 246401 (2022)
   arxiv: https://arxiv.org/abs/2206.06781
   doi: https://doi.org/10.1103/PhysRevLett.128.246401
@@ -274,7 +274,7 @@
   description: 1
 
 - title: Unveiling Unequivocal Charge Stripe Order in a Prototypical Cuprate Superconductor
-  date: 2022-05-20 00:00:00 +0000
+  date: "2022-05-20 00:00:00 +0000"
   journal: Physical Review Letters 128, 207002 (2022)
   arxiv: https://arxiv.org/abs/2009.06967
   doi: https://doi.org/10.1103/PhysRevLett.128.207002
@@ -284,7 +284,7 @@
   description: 1
 
 - title: Unusual Band Splitting and Superconducting Gap Evolution with Sulfur Substitution in FeSe
-  date: 2022-04-23 00:00:00 +0000
+  date: "2022-04-23 00:00:00 +0000"
   journal: Chinese Physics Letters 39, 057302 (2022)
   arxiv: https://arxiv.org/abs/2204.08258
   doi: https://doi.org/10.1088/0256-307X/39/5/057302
@@ -294,7 +294,7 @@
   description: 1
 
 - title: Uniaxial pressure induced stripe order rotation in La1.88Sr0.12CuO4
-  date: 2022-04-04 00:00:00 +0000
+  date: "2022-04-04 00:00:00 +0000"
   journal: Nature Communications 13, 1795 (2022)
   arxiv: https://arxiv.org/abs/2203.09987
   doi: https://doi.org/10.1038/s41467-022-29465-4
@@ -314,7 +314,7 @@
   description: 1
 
 - title: Polarized neutron scattering studies of magnetic excitations in iron-selenide superconductor (Li0.8Fe0.2)ODFeSe (Tc = 41 K)
-  date: 2021-09-01 00:00:00 +0000
+  date: "2021-09-01 00:00:00 +0000"
   journal: "Journal of Physics: Condensed Matter 33, 45LT01 (2021)"
   arxiv: https://arxiv.org/abs/2108.05832
   doi: http://doi.org/10.1088/1361-648X/ac1d16
@@ -324,7 +324,7 @@
   description: 1
 
 - title: Charge order lock-in by electron-phonon coupling in La1.675Eu0.2Sr0.125CuO4
-  date: 2021-06-30 00:00:00 +0000
+  date: "2021-06-30 00:00:00 +0000"
   journal: Science Advances 7, eabg7394 (2021)
   arxiv: https://arxiv.org/abs/2012.10503
   doi: http://doi.org/10.1126/sciadv.abg7394
@@ -334,7 +334,7 @@
   description: 1
 
 - title: Decoupling of lattice and orbital degrees of freedom in an iron-pnictide superconductor
-  date: 2021-06-21 00:00:00 +0000
+  date: "2021-06-21 00:00:00 +0000"
   journal: Physical Review Research 3, 023220 (2021)
   arxiv: https://arxiv.org/abs/1910.01639
   doi: http://doi.org/10.1103/PhysRevResearch.3.023220
@@ -344,7 +344,7 @@
   description: 1
 
 - title: Evolution of spin excitations from bulk to monolayer FeSe
-  date: 2021-05-25 00:00:00 +0000
+  date: "2021-05-25 00:00:00 +0000"
   journal: Nature Communications 12, 3122 (2021)
   arxiv: https://arxiv.org/abs/2008.09618
   doi: https://doi.org/10.1038/s41467-021-23317-3
@@ -354,7 +354,7 @@
   description: 1
 
 - title: Electronic reconstruction forming a C2-symmetric Dirac semimetal in Ca3Ru2O7
-  date: 2021-03-19 00:00:00 +0000
+  date: "2021-03-19 00:00:00 +0000"
   journal: npj Quantum Materials 6, 29 (2021)
   arxiv: https://arxiv.org/abs/1911.12163
   doi: https://doi.org/10.1038/s41535-021-00328-3
@@ -364,7 +364,7 @@
   description: 1
 
 - title: Observation of an electronic order along [110] direction in FeSe
-  date: 2021-03-02 00:00:00 +0000
+  date: "2021-03-02 00:00:00 +0000"
   journal: Nature Communications 12, 1385 (2021)
   arxiv:
   doi: https://doi.org/10.1038/s41467-021-21318-w
@@ -374,7 +374,7 @@
   description: 1
 
 - title: Oxide Fermi liquid universality revealed by electron spectroscopy
-  date: 2020-12-31 00:00:00 +0000
+  date: "2020-12-31 00:00:00 +0000"
   journal: Physical Review B 102, 245153 (2020)
   arxiv: https://arxiv.org/abs/2006.13119
   doi: https://doi.org/10.1103/PhysRevB.102.245153
