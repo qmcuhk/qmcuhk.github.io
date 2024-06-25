@@ -1,6 +1,6 @@
 ---
 name: Feiyang Shen
-title: Undergraduate Student
+title: Visiting Undergraduate Student
 photo-path: feiyang.jpg
 affiliation-1: Shanghai Jiao Tong University
 affiliation-2: 
