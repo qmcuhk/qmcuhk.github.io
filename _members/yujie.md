@@ -10,7 +10,7 @@ phd:
 email: yujieyan@link.cuhk.edu.hk
 twitter: 
 github: 
-ording: 2
+ordering: 2
 layout: members
 ---
 

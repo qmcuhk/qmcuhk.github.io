@@ -10,6 +10,6 @@ phd:
 email: liyh369@link.cuhk.edu.hk
 twitter: 
 github: 
-ording: 5
+ordering: 5
 layout: members
 ---

@@ -10,7 +10,7 @@ phd:
 email: 3467579090@sjtu.edu.cn
 twitter: 
 github: 
-ording: 8
+ordering: 8
 layout: members
 ---
 

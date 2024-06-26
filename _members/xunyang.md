@@ -10,7 +10,7 @@ phd:
 email: xunyang.hong@physik.uzh.ch
 twitter: 
 github: 
-ording: 3
+ordering: 3
 layout: members
 ---
 

@@ -10,6 +10,6 @@ phd:
 email: k.space.infinity@gamil.com
 twitter: 
 github: 
-ording: 4
+ordering: 4
 layout: members
 ---

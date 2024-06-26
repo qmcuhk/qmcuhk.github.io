@@ -10,7 +10,7 @@ phd:
 email: 1155193195@link.cuhk.edu.hk
 twitter: 
 github: 
-ording: 7
+ordering: 7
 layout: members
 ---
 
