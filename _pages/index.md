@@ -28,7 +28,7 @@ We are an experimental research group on condensed matter physics led by Prof. Q
 <hr>
 <div class="medium-divider"></div>
 <div class="hompage-members-container">
-  {% assign members = site.members |sort: "ordering" | reverse %}
+  {% assign members = site.members |sort: "ordering" %}
   {% for member in members%}
     <div class="member-card">
         <div class="member-image-container hover-effect">
