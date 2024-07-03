@@ -1,4 +1,4 @@
-- title: Decoupled static and dynamical charge correlations in La2−xSrxCuO4
+- title: Decoupled static and dynamical charge correlations in La<sub>2−x</sub>Sr<sub>x</sub>CuO<sub>4</sub>
   date: "2024-06-21"
   journal: arXiv:2406.15062
   arxiv: https://arxiv.org/abs/2406.15062
@@ -10,7 +10,7 @@
   picture-path: 2024_martinelli.jpg
   description: 1
 
-- title: Discovery of Giant Unit-Cell Super-Structure in the Infinite-Layer Nickelate PrNiO2
+- title: Discovery of Giant Unit-Cell Super-Structure in the Infinite-Layer Nickelate PrNiO<sub>2</sub>
   date: "2024-04-27"
   journal: arXiv:2404.17795
   arxiv: https://arxiv.org/abs/2404.17795
@@ -34,7 +34,7 @@
   picture-path: 2023_vonarx.jpg
   description: 1
 
-- title: Engineering Phase Competition Between Stripe Order and Superconductivity in La1.88Sr0.12CuO4
+- title: Engineering Phase Competition Between Stripe Order and Superconductivity in La<sub>1.88</sub>Sr<sub>0.12</sub>CuO<sub>4</sub>
   date: "2023-12-06"
   journal: arXiv:2312.03650
   arxiv: https://arxiv.org/abs/2312.03650
@@ -58,7 +58,7 @@
   picture-path: 2023_bialo.jpg
   description: 1
 
-- title: Two Distinct Charge Orders in Infinite-layer PrNiO2+δ revealed by Resonant X-ray Diffraction
+- title: Two Distinct Charge Orders in Infinite-layer PrNiO<sub>2+δ</sub> revealed by Resonant X-ray Diffraction
   date: "2023-03-06"
   journal: arXiv:2303.02865
   arxiv: https://arxiv.org/abs/2303.02865
@@ -70,16 +70,16 @@
   picture-path: 2023_ren.jpg
   description: 1
 
-- title: Magnetic Excitations in Strained Infinite-layer Nickelate PrNiO2
-  date: "2022-08-11"
-  journal: arXiv:2208.05614
+- title: Magnetic excitations in strained infinite-layer nickelate PrNiO<sub>2</sub> films
+  date: "2024-07-03"
+  journal: <b>Nature Communications</b> 15, 5576 (2024)
   arxiv: https://arxiv.org/abs/2208.05614
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2208.05614
+  preprint:
+  doi: https://doi.org/10.1038/s41467-024-49940-4
   pdf-name:
-  authors: Qiang Gao<sup>#</sup>, Shiyu Fan<sup>#</sup>, Qisi Wang<sup>#</sup>, Jiarui Li, Xiaolin Ren, Izabela Biało, Annabella Drewanowski, Pascal Rothenbühler, Jaewon Choi, Yao Wang, Tao Xiang, Jiangping Hu, Ke-Jin Zhou, Valentina Bisogni, Riccardo Comin, J. Chang*, Jonathan Pelliciari*, X. J. Zhou*, Zhihai Zhu*
+  authors: Qiang Gao<sup>#</sup>, Shiyu Fan<sup>#</sup>, Qisi Wang<sup>#</sup>, Jiarui Li, Xiaolin Ren, Izabela Biało, Annabella Drewanowski, Pascal Rothenbühler, Jaewon Choi, Ronny Sutarto, Yao Wang, Tao Xiang, Jiangping Hu, Ke-Jin Zhou, Valentina Bisogni, Riccardo Comin, J. Chang*, Jonathan Pelliciari*, X. J. Zhou*, Zhihai Zhu*
   authors-short: Qiang Gao et al.
-  picture-path: 2022_gao.jpg
+  picture-path: 2024_gao_nc.jpg
   description: 1
 
 - title: Magnon interactions in a moderately correlated Mott insulator
@@ -118,7 +118,7 @@
   picture-path: 2024_zheng_prb.jpg
   description: 1
 
-- title: Two-dimensional phase-fluctuating superconductivity in bulk crystalline NdO0.5F0.5BiS2
+- title: Two-dimensional phase-fluctuating superconductivity in bulk crystalline NdO<sub>0.5</sub>F<sub>0.5</sub>BiS<sub>2</sub>
   date: "2024-02-20"
   journal: <b>Physical Review B</b> 109, 054516 (2024)
   arxiv: https://arxiv.org/abs/2401.16980
@@ -142,7 +142,7 @@
   picture-path: 2024_oppliger_nmi.jpg
   description: 1
 
-- title: Revealing the Orbital Composition of Heavy Fermion Quasiparticles in CeRu2Si2
+- title: Revealing the Orbital Composition of Heavy Fermion Quasiparticles in CeRu<sub>2</sub>Si<sub>2</sub>
   date: "2023-09-05"
   journal: <b>Journal of the Physical Society of Japan</b> 92, 104701 (2023)
   arxiv:
@@ -153,7 +153,7 @@
   picture-path: 2023_kramer_jpsj.jpg
   description: 1
 
-- title: Exchange-renormalized crystal field excitations in the quantum Ising magnet KTmSe2
+- title: Exchange-renormalized crystal field excitations in the quantum Ising magnet KTmSe<sub>2</sub>
   date: "2023-08-23"
   journal: <b>Physical Review B</b> 108, 054435 (2023) <i>Editor's suggestion</i>
   arxiv: https://arxiv.org/abs/2306.03544
@@ -163,7 +163,7 @@
   picture-path: 2023_zheng_prb.jpg
   description: 1
 
-- title: Spin Fluctuations in Sr1.8La0.2RuO4
+- title: Spin Fluctuations in Sr<sub>1.8</sub>La<sub>0.2</sub>RuO<sub>4</sub>
   date: "2023-05-09"
   journal: <b>Physical Review B</b> 107, L201107 (2023)
   arxiv: https://arxiv.org/abs/2304.08214
@@ -193,7 +193,7 @@
   picture-path: 2023_vonarx_npjqm.jpg
   description: 1
 
-- title: Low-energy spin fluctuations in FeSe0.95S0.05
+- title: Low-energy spin fluctuations in FeSe<sub>0.95</sub>S<sub>0.05</sub>
   date: "2022-12-22"
   journal: <b>Physical Review B</b> 106, 214522 (2022)
   arxiv:
@@ -243,7 +243,7 @@
   picture-path: 2022_gu_prb.jpg
   description: 1
 
-- title: Crystal symmetry of stripe-ordered La1.88Sr0.12CuO4
+- title: Crystal symmetry of stripe-ordered La<sub>1.88</sub>Sr<sub>0.12</sub>CuO<sub>4</sub>
   date: "2022-06-27"
   journal: <b>Physical Review B</b> 105, 224113 (2022)
   arxiv: https://arxiv.org/abs/2201.04858
@@ -253,7 +253,7 @@
   picture-path: 2022_frison_prb.jpg
   description: 1
 
-- title: Resonant Inelastic Soft X-Ray Scattering on LaPt2Si2
+- title: Resonant Inelastic Soft X-Ray Scattering on LaPt<sub>2</sub>Si<sub>2</sub>
   date: "2022-06-15"
   journal: "<b>Journal of Physics: Condensed Matter</b> 34, 324003 (2022)"
   arxiv: https://arxiv.org/abs/2202.11587
@@ -293,7 +293,7 @@
   picture-path: 2022_yang_cpl.jpg
   description: 1
 
-- title: Uniaxial pressure induced stripe order rotation in La1.88Sr0.12CuO4
+- title: Uniaxial pressure induced stripe order rotation in La<sub>1.88</sub>Sr<sub>0.12</sub>CuO<sub>4</sub>
   date: "2022-04-04"
   journal: <b>Nature Communications</b> 13, 1795 (2022)
   arxiv: https://arxiv.org/abs/2203.09987
@@ -313,7 +313,7 @@
   picture-path: 2022_qin_sb.jpg
   description: 1
 
-- title: Polarized neutron scattering studies of magnetic excitations in iron-selenide superconductor (Li0.8Fe0.2)ODFeSe (Tc = 41 K)
+- title: Polarized neutron scattering studies of magnetic excitations in iron-selenide superconductor (Li<sub>0.8</sub>Fe<sub>0.2</sub>)ODFeSe (Tc = 41 K)
   date: "2021-09-01"
   journal: "<b>Journal of Physics: Condensed Matter</b> 33, 45LT01 (2021)"
   arxiv: https://arxiv.org/abs/2108.05832
@@ -323,7 +323,7 @@
   picture-path: 2021_hu_jpcm.jpg
   description: 1
 
-- title: Charge order lock-in by electron-phonon coupling in La1.675Eu0.2Sr0.125CuO4
+- title: Charge order lock-in by electron-phonon coupling in La<sub>1.675</sub>Eu<sub>0.2</sub>Sr<sub>0.125</sub>CuO<sub>4</sub>
   date: "2021-06-30"
   journal: <b>Science Advances</b> 7, eabg7394 (2021)
   arxiv: https://arxiv.org/abs/2012.10503
@@ -353,7 +353,7 @@
   picture-path: 2021_pelliciari_nc.jpg
   description: 1
 
-- title: Electronic reconstruction forming a C2-symmetric Dirac semimetal in Ca3Ru2O7
+- title: Electronic reconstruction forming a C2-symmetric Dirac semimetal in Ca<sub>3</sub>Ru<sub>2</sub>O<sub>7</sub>
   date: "2021-03-19"
   journal: <b>npj Quantum Materials</b> 6, 29 (2021)
   arxiv: https://arxiv.org/abs/1911.12163
@@ -383,7 +383,7 @@
   picture-path: 2020_horio_prb.jpg
   description: 1
 
-- title: Resonant inelastic x-ray scattering study of Ca3Ru2O7
+- title: Resonant inelastic x-ray scattering study of Ca<sub>3</sub>Ru<sub>2</sub>O<sub>7</sub>
   date: "2020-12-01"
   journal: <b>Physical Review B</b> 102, 235104 (2020)
   arxiv: https://arxiv.org/abs/2004.13391
@@ -393,7 +393,7 @@
   picture-path: 2020_vonarx_prb.jpg
   description: 1
 
-- title: High-Temperature Charge-Stripe Correlations in La1.675Eu0.2Sr0.125CuO4
+- title: High-Temperature Charge-Stripe Correlations in La<sub>1.675</sub>Eu<sub>0.2</sub>Sr<sub>0.125</sub>CuO<sub>4</sub>
   date: "2020-05-07"
   journal: <b>Physical Review Letters</b> 124, 187002 (2020)
   arxiv: https://arxiv.org/abs/1912.00194
@@ -433,7 +433,7 @@
   picture-path: 2019_frandsen_prb.jpg
   description: 1
 
-- title: Coexistence of ferromagnetic and stripe-type antiferromagnetic spin fluctuations in YFe2Ge2
+- title: Coexistence of ferromagnetic and stripe-type antiferromagnetic spin fluctuations in YFe<sub>2</sub>Ge<sub>2</sub>
   date: "2019-05-31"
   journal: <b>Physical Review Letters</b> 122, 217003 (2019)
   arxiv: https://arxiv.org/abs/1808.07262
@@ -453,7 +453,7 @@
   picture-path: 2018_biswas_prb.jpg
   description: 1
 
-- title: Structure of spin excitations in heavily electron-doped Li0.8Fe0.2ODFeSe superconductors
+- title: Structure of spin excitations in heavily electron-doped Li<sub>0.8</sub>Fe<sub>0.2</sub>ODFeSe superconductors
   date: "2017-07-25"
   journal: <b>Nature Communications</b> 8, 123 (2017)
   arxiv: https://arxiv.org/abs/1608.01204
@@ -483,7 +483,7 @@
   picture-path: 2016_shen_nature.jpg
   description: 1
 
-- title: Highly anisotropic and twofold symmetric superconducting gap in nematically ordered FeSe0.93S0.07
+- title: Highly anisotropic and twofold symmetric superconducting gap in nematically ordered FeSe<sub>0.93</sub>S<sub>0.07</sub>
   date: "2016-10-07"
   journal: <b>Physical Review Letters</b> 117, 157003 (2016)
   arxiv:
@@ -543,7 +543,7 @@
   picture-path: 2016_xu_prb.jpg
   description: 1
 
-- title: Unexpected low thermal conductivity and large power factor in Dirac semimetal Cd3As2
+- title: Unexpected low thermal conductivity and large power factor in Dirac semimetal Cd<sub>3</sub>As<sub>2</sub>
   date: "2015-12-14"
   journal: <b>Chinese Physics B</b> 25, 017202 (2016)
   arxiv:
@@ -553,7 +553,7 @@
   picture-path: 2016_zhang_cpb.jpg
   description: 1
 
-- title: Landau level splitting in Cd3As2 under high magnetic fields
+- title: Landau level splitting in Cd<sub>3</sub>As<sub>2</sub> under high magnetic fields
   date: "2015-07-13"
   journal: <b>Nature Communications</b> 6, 7779 (2015)
   arxiv: https://arxiv.org/abs/1412.0824
