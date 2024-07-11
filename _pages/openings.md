@@ -2,7 +2,7 @@
 layout: page
 title: Openings
 permalink: /openings
-banner-path: dalle_openings_image.png
+banner-path: dalle_openings_image.jpg
 ---
 <div Class="research-introduction">
 <h3>
