@@ -1,5 +1,5 @@
 ---
-title: "New paper in Communications Physics: Strain-tuning the phase competition in cuprates" 
+title: "New paper in Communications Physics: Strain-tuning phase competition in cuprates" 
 picture-path: news_pictures/news_2024_07_10_publication.jpg
 date: 2024-07-10
 tag: news
