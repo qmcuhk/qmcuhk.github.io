@@ -2,7 +2,7 @@
 layout: page
 title: Members
 permalink: /members
-banner-path: member_rabbit.jpg
+banner-path: banner-members.jpg
 ---
 
 <div class="medium-divider"></div>

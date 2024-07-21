@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching
-banner-path: dalle_teaching_image.png
+banner-path: banner-teaching.jpg
 ---
 
 <div class="medium-divider">

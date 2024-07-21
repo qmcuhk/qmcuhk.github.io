@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications
-banner-path: dalle_publications_image.png
+banner-path: banner-publications.jpg
 line: RIXS, XAS, XRD, Neutron Scattering, and more...
 ---
 
