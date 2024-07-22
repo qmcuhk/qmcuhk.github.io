@@ -3,7 +3,6 @@ layout: page
 title: Publications
 permalink: /publications
 banner-path: banner-publications.jpg
-line: RIXS, XAS, XRD, Neutron Scattering, and more...
 ---
 
 

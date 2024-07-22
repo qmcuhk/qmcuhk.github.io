@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research
 banner-path: banner-research.jpg
-line: RIXS, XAS, XRD, Neutron Scattering, and more... 
+line: RIXS, XRD, Neutron Scattering, Crystal Growth...
 ---
 
 
