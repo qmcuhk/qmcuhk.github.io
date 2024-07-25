@@ -48,6 +48,9 @@ The course provides student-centred learning experience in a small-group setting
 <hr>
 <h4>Useful Links</h4>
 <a class="teaching-link"  href="https://blackboard.cuhk.edu.hk/ultra/stream" target="_blank">[Blackboard]</a>
+<a class="teaching-link" href="https://elearning.itsc.cuhk.edu.hk/courselist/CourseList.aspx" target="_blank">[CourseLIst]</a>
+<a class="teaching-link" href="https://newww.phy.cuhk.edu.hk/undergraduate/curriculum/course-information" target="_blank">[PHYSCourse]</a>
+<a class="teaching-link" href="https://https://www.elearning.cuhk.edu.hk/" target="_blank">[e-Learning]</a>
 <a class="teaching-link" href="https://ureply.mobi/teacher/Desktop_teacher.php/" target="_blank">[UREPLY]</a>
 <a class="teaching-link" href="http://www.res.cuhk.edu.hk/en-gb/" target="_blank">[RES]</a>
 <a class="teaching-link" href="https://www.aqs.cuhk.edu.hk/" target="_blank">[AQS]</a>
