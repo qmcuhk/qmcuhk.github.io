@@ -1,12 +1,12 @@
 ---
 name: Ying Chan
-title: Research Assistant
+title: MPhil Student
 photo-path: ying.jpg
 affiliation-1: The Chinese University of HK
 affiliation-2: 
-bachelor:
+bachelor: The Chinese University of HK
 master:
-phd:  
+phd:
 email: k.space.infinity@gamil.com
 twitter: 
 github: 

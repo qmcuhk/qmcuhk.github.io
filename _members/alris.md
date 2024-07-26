@@ -10,7 +10,7 @@ phd:
 email: alris.dai@link.cuhk.edu.hk
 twitter: 
 github: 
-ordering: 6
+ordering: 8
 layout: members
 ---
 
