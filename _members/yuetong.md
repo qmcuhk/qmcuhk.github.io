@@ -7,7 +7,7 @@ affiliation-2:
 bachelor: B.S. China University of Geosciences (Beijing)
 master: M.S. China University of Geosciences (Beijing)
 phd: 
-email: 1155227250@link.cuhk.edu.hk
+email: yuetongwu@link.cuhk.edu.hk
 twitter: 
 github: 
 ordering: 7
