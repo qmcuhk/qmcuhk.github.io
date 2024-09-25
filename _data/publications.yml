@@ -1,3 +1,15 @@
+- title: Probing enhanced superconductivity in van der Waals polytypes of V<sub>x</sub>TaS<sub>2</sub>
+  date: "2024-09-20"
+  journal: arXiv:2409.13384
+  arxiv: https://arxiv.org/abs/2409.13384
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2409.13384
+  pdf-name:
+  authors: Wojciech R. Pudelko*, Huanlong Liu, Francesco Petocchi, Hang Li, Eduardo Bonini Guedes, Julia Küspert, Karin von Arx, Qisi Wang, Ron Cohn Wagner, Craig M. Polley, Mats Leandersson, Jacek Osiecki, Balasubramanian Thiagarajan, Milan Radović, Philipp Werner, Andreas Schilling, Johan Chang, Nicholas C. Plumb*
+  authors-short: Wojciech R. Pudelko et al.
+  picture-path: 2024_pudelko.jpg
+  description: 1
+
 - title: Decoupled static and dynamical charge correlations in La<sub>2−x</sub>Sr<sub>x</sub>CuO<sub>4</sub>
   date: "2024-06-21"
   journal: arXiv:2406.15062
