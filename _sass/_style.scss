@@ -337,6 +337,7 @@ body.index a{
     filter: brightness(65%);
   }
   @media (max-width:768px) {
+    width: 100vw;
     .welcome-image {
       height: 50vh;
     }
