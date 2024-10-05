@@ -51,6 +51,7 @@ footer {
     .info-contact {
       display: flex;
       flex-direction: row;
+      gap: 0.5em;
     }
   }
   .info-item i {
@@ -83,18 +84,23 @@ footer {
       gap: 1em;
     }
     .footer-logos{
-      width: 100vw;
+      width: 100%;
       flex-direction: row;
       justify-content: left;
+      align-items: center;
       img {
-        max-width: 70vw;
+        max-width: 100%;
         max-height: 9vh;
+        height: auto;
       }
     }
     
     .footer-info {
-      width: 100vw;
+      width: 100%;
       text-align: left;
+      flex-direction: column;
+      gap: 2em;    
+      margin-top: 2em;
     }
     .info-item {
       gap: 2vh;
@@ -183,7 +189,6 @@ nav {
     background-color: #f5f5f5; /* Background color on hover */
   }
   /* ... Your existing CSS ... */
-
   .dropdown {
     position: relative;
     display: inline-block;
@@ -196,8 +201,8 @@ nav {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
     border-radius: 5px;
-    top: 100%; /* Makes it appear directly below the parent item */
-    left: 50%; /* Align with the left edge of parent item */
+    top: 100%; 
+    left: 50%; 
     transform: translateX(-50%);
     li {
       padding: 1em 0;
@@ -379,6 +384,9 @@ body {
     }
     .home-wrapper {
       padding: 1em;
+    }
+    .note-wrapper {
+      margin: 65px auto;
     }
   }
 }

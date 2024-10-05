@@ -3,16 +3,19 @@ let lastScrollTop = 0;
 const navbar = document.getElementById('navbar');
 
 window.addEventListener('scroll', function() {
-    let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-    if (scrollTop > lastScrollTop) {
-        // Scrolling down
-        navbar.style.top = "-80px";  // Assumes navbar height is 60px. Adjust accordingly.
-    } else {
-        // Scrolling up
-        navbar.style.top = "0";
+    // apply only to desktop screens
+    if (window.innerWidth > 786) {
+        let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+        if (scrollTop > lastScrollTop) {
+            // Scrolling down
+            navbar.style.top = "-80px";  // Assumes navbar height is 60px. Adjust accordingly.
+        } else {
+            // Scrolling up
+            navbar.style.top = "0";
+        }
+        lastScrollTop = scrollTop;
     }
-    lastScrollTop = scrollTop;
-    
+
     const welcomeImage = document.getElementById('welcome-image');
     if (welcomeImage){
         // Calculate opacity based on scroll position.
@@ -32,3 +35,5 @@ window.addEventListener('scroll', function() {
         }
       }
 });
+
+
