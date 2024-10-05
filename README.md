@@ -125,15 +125,10 @@ layout: news
 
 # To-do List
 ### 🍉 Content filling
-- News and group photo on home page
 ### 🌟 Fany web design
-- interactive design for all pages. 
 - add highlighted publications in publication page, with the effect as on https://www.crbgroup.com/
 - We could change the design of the member card on the homepage to those on https://www.crbgroup.com/
 - redesign `teachinig` page.
 
 ### 🧀 extra to-dos
 - Change banner design: pastel color scheme. Light purple, pink, and orange
-- Three news item each row on the news page
-- colaborator on members page.
-- external links on research page
