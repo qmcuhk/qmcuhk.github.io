@@ -46,16 +46,16 @@
   picture-path: 2023_vonarx.jpg
   description: 1
 
-- title: Two Distinct Charge Orders in Infinite-layer PrNiO<sub>2+δ</sub> revealed by Resonant X-ray Diffraction
-  date: "2023-03-06"
-  journal: arXiv:2303.02865
+- title: Two Distinct Charge Orders in Infinite-layer PrNiO<sub>2+δ</sub> Revealed by Resonant X-Ray Diffraction
+  date: "2024-10-12"
+  journal: <b>Chinese Physics Letters</b> 41, 117404 (2024)
   arxiv: https://arxiv.org/abs/2303.02865
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2303.02865
+  preprint:
+  doi: https://doi.org/10.1088/0256-307X/41/11/117404
   pdf-name:
   authors: Xiaolin Ren, Ronny Sutarto, Qiang Gao, Qisi Wang, Jiarui Li, Yao Wang, Tao Xiang, Jiangping Hu, Fu-Chun Zhang, J. Chang, Riccardo Comin, X. J. Zhou*, Zhihai Zhu*
   authors-short: Xiaolin Ren et al.
-  picture-path: 2023_ren.jpg
+  picture-path: 2024_ren_cpl.jpg
   description: 1
 
 - title: Strain-tuned incompatible magnetic exchange-interaction in La<sub>2</sub>NiO<sub>4</sub>
