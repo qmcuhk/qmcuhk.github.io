@@ -14,6 +14,6 @@ ordering: 2
 layout: members
 ---
 
-Hi, I am Yujie. I used to have two adopted sons, not any more now :(
+Hi, I am Yujie. I used to have two adopted cats, not any more now :(
 
 
