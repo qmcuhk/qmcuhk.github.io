@@ -17,7 +17,7 @@ What is the most important thing in life? For me, it is to stay motivated and to
 
 One of my wildest dream, is to work as a producer to produce comedy tv series, or a figure engineerer, or draw manga for a living, or be a professional ballerina, or a professional stand-up comedian, or be a chef for life, cooking chinese food. And I believe being a physicist achieves all that, because I could write jokes in my journals, draw or do simulations, I do clay-like work on samples, I cook with paint and I dance around my critical mistakes. 
 
-Working in physics makes my world so very simple, as if CMP is not complicated enough. I enjoy working under immense stress and tight schedule because I enjoy being on the edge of being fired all day long. Imagine how red my boss's face would look like when he read this.
+Working in physics makes my world so very simple, as if CMP is not complicated enough. I enjoy working under immense stress and tight schedule because I enjoy being on the edge of being fired all day long.
 
 You know what they call ultra cold atoms? Cryogenics? Uhhhh NOPE. Its so cold because your boss makes jokes you HAD to laugh along, my ass is constantly at 70K by default. The reason why no one works cryogenics, you have to CRY in cryogenics.
 
