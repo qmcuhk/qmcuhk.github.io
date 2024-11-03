@@ -199,10 +199,10 @@ body.index a{
       margin: 0 auto;
     }
     img {
-    width: 10em;
+    width: 8.4em;
     transition: transform 0.3s ease-in-out;
     &:hover {  
-      transform: scale(2);
+      transform: scale(2.5);
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
       z-index: 1000;
     }
@@ -793,4 +793,54 @@ $primary-color: #333;
 // teaching 
 .teaching-link {
   margin: 0 0.5em;
+}
+
+
+
+/* Alumni Section Styling */
+.alumni-container {
+  padding: 20px;
+}
+
+.alumni-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.alumni-item {
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+}
+
+.alumni-item:last-child {
+  border-bottom: none;
+}
+
+.alumni-item strong {
+  font-size: 1.2em;
+}
+
+.alumni-title {
+  color: #666;
+  font-style: italic;
+  margin-top: 2px;
+}
+
+.alumni-affiliation {
+  color: #333;
+  font-size: 0.9em;
+}
+
+.alumni-email {
+  margin-top: 5px;
+  color: #333;
+  text-decoration: none;
+}
+
+.alumni-email i {
+  font-size: 1em;
+  vertical-align: middle;
 }

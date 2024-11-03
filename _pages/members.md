@@ -13,7 +13,7 @@ banner-path: banner-members.jpg
 <div class="medium-divider"></div>
 
 <div class="hompage-members-container">
-  {% assign members = site.members |sort: "ordering" %}
+  {% assign members = site.members | where_exp: "item", "item.ordering > 0" | sort: "ordering" %}
   {% for member in members%}
     <div class="member-card">
         <div class="member-image-container hover-effect">
@@ -60,6 +60,24 @@ banner-path: banner-members.jpg
   {% endfor %}
 </div>
 
+<!-- Alumni Section -->
+<div class="medium-divider"></div>
+
+<hr>
+<div class="medium-divider"></div>
+
+## Alumni
+<div class="alumni-list">
+  {% assign alumni_members = site.members | where_exp: "item", "item.ordering < 0" | sort: "ordering" %}
+  {% for member in alumni_members %}
+    <p>
+      <strong>{{ member.name }}</strong> - {{ member.title }}, {{ member['affiliation-1'] }}
+      {% if member['affiliation-2'] %}
+        , {{ member['affiliation-2'] }}
+      {% endif %}
+    </p>
+  {% endfor %}
+</div>
 
 
 ## Collaborators
