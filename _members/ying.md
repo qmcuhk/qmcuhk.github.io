@@ -33,4 +33,12 @@ You know about the most ridiculous thing ever??? EVERRRR??!?!?!?! The only colle
 
 I cant say Im the happiest person, but I spend so little time being sad unless I wanted to, you know the teenager phase you went through just to stream sad songs on loops for 24 hours to keep your mentality an absolute crap just so someone might come say "r you ok?". Yeah I am not those dumb ass attention seekers who walk around all day with their teeniest tiniest stupid ass water bottles just to annoy ppl who sit next to a corridor. They can get water every 5 minutes, I was worried their profession was getting water. And BECAUUUUSE they drink such an amount of water thoughout the day, they get to pee all the damn time. I dont think I am getting any younger, I seriously think my bladder is just no longer elastic and will hold 5 litres of liquid because you bitches occupy the stalls all the damn time.
 
-Xunyang is holding a knife next to my head just to make me leak billion dollar jokes through his damn page. He is adorable but hat a psychopath, i wonder if good scientist possess the will and motive to watch me bitch about every little thing in life.
+Xunyang is holding a knife next to my head just to make me leak billion dollar jokes through his damn page. He is adorable but what a psych, i wonder if all good scientist possess the will and motive to MAKE me bitch about every little thing in life.
+
+I think you have to understand charlie and the chocolate factory isnt real, but the dwarfs are. The little snowman dairy products are actually real, why would the chocolate factories produce chocolates that are shaped like little humans and little rabits, its because the manufactuers has to accomplish their lifelong dream to eat humans. Yikes ;D
+
+I am so not a crygenic person because I need no helium to make me cool, im coolness itself.  :D
+
+This is the real life example of how dark and sad the academic world could possibly be, Xunyang just added some emojis and now he gets to be the second author?!?!?!?! (XUn: yes) 
+
+Everyone could be a quantum optics professional, all they do is point laser at the most random things with a cool terminator sunglasses on. I call myself a pro with laser, pointers.
