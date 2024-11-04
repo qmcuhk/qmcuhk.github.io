@@ -42,3 +42,13 @@ I am so not a crygenic person because I need no helium to make me cool, im cooln
 This is the real life example of how dark and sad the academic world could possibly be, Xunyang just added some emojis and now he gets to be the second author?!?!?!?! (XUn: yes) 
 
 Everyone could be a quantum optics professional, all they do is point laser at the most random things with a cool terminator sunglasses on. I call myself a pro with laser, pointers.
+
+I bet this the closest random thoughts blog to www.creedthoughts.com. 
+
+Let's talk about how insulting it is that your home schools department publishes your big ass face on the internet which is totally violating. They choose to publish the biggest ass ugliest picture that even you will willingly vomit over, to the public, on the internet. The coolest way to die will be to pakour to their office and fart real loud and stink them to death. And you die in eternal embarrassment.
+
+<style>
+p {
+    color:white;
+}
+</style>
