@@ -49,5 +49,6 @@ Let's talk about how insulting it is that your home schools department publishes
 
 <style>
 p {
+    color:white;
 }
 </style>
