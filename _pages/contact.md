@@ -14,7 +14,7 @@ line:
         <div class="contact-item">
             <div class="icon-container"><i class="fas fa-map-marker-alt"></i></div>
             <h3>ADDRESS</h3>
-            <p>Room 352B, 
+            <p>Room 307, 
             Science Centre North Block, <br>
             Department of Physics, <br>
             The Chinese University of Hong Kong, <br>
