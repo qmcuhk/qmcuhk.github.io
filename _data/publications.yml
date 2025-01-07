@@ -10,18 +10,6 @@
   picture-path: 2024_martinelli.jpg
   description: 1
 
-- title: Discovery of Giant Unit-Cell Super-Structure in the Infinite-Layer Nickelate PrNiO<sub>2</sub>
-  date: "2024-04-27"
-  journal: arXiv:2404.17795
-  arxiv: https://arxiv.org/abs/2404.17795
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2404.17795
-  pdf-name:
-  authors: J. Oppliger*, J. Küspert, A.-C. Dippel, M. v. Zimmermann, O. Gutowski, X. Ren, X. J. Zhou, Z. Zhu, R. Frison, Q. Wang, L. Martinelli, I. Biało, J. Chang*
-  authors-short: J. Oppliger et al.
-  picture-path: 2024_oppliger.jpg
-  description: 1
-
 - title: Resolving the Orbital Character of Low-energy Excitations in Mott Insulator with Intermediate Spin-orbit Coupling
   date: "2023-12-07"
   journal: arXiv:2312.04406
@@ -32,6 +20,18 @@
   authors: K. von Arx, P. Rothenbühler, Qisi Wang, J. Choi, M. Garcia-Fernandez, S. Agrestini, Ke-Jin Zhou, A. Vecchione, R. Fittipaldi, Y. Sassa, M. Cuoco, F. Forte*, J. Chang
   authors-short: K. von Arx et al.
   picture-path: 2023_vonarx.jpg
+  description: 1
+
+- title: Discovery of giant unit-cell super-structure in the infinite-layer nickelate PrNiO<sub>2+x</sub>
+  date: "2025-01-07"
+  journal: <b>Communications Materials</b> 6, 3 (2025)
+  arxiv: https://arxiv.org/abs/2404.17795
+  preprint:
+  doi: https://doi.org/10.1038/s43246-024-00729-4
+  pdf-name:
+  authors: Jens Oppliger*, Julia Küspert, Ann-Christin Dippel, Martin v. Zimmermann, Olof Gutowski, Xiaolin Ren, Xingjiang Zhou, Zhihai Zhu, Ruggero Frison, Qisi Wang, Leonardo Martinelli, Izabela Biało, Johan Chang*
+  authors-short: Jens Oppliger et al.
+  picture-path: 2025_oppliger_cm.jpg
   description: 1
 
 - title: Probing enhanced superconductivity in van der Waals polytypes of V<sub>x</sub>TaS<sub>2</sub>
