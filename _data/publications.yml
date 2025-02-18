@@ -1,3 +1,15 @@
+- title: Anatomy of anomalous Hall effect due to magnetic fluctuations
+  date: "2024-06-21"
+  journal:  arXiv:2502.11702
+  arxiv: https://arxiv.org/abs/2502.11702
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2502.11702
+  pdf-name:
+  authors: Ola Kenji Forslund*, Xiaoxiong Liu, Soohyeon Shin, Chun Lin, Masafumi Horio, Qisi Wang, Kevin Kramer, Saumya Mukherjee, Timur Kim, Cephise Cacho, Chennan Wang, Tian Shang, Victor Ukleev, Jonathan S. White, Pascal Puphal, Yasmine Sassa, Ekaterina Pomjakushina, Titus Neupert, Johan Chang
+  authors-short: Ola Kenji Forslund et al.
+  picture-path: 2025_forslund.jpg
+  description: 1
+
 - title: Decoupled static and dynamical charge correlations in La<sub>2−x</sub>Sr<sub>x</sub>CuO<sub>4</sub>
   date: "2024-06-21"
   journal: arXiv:2406.15062
