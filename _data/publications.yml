@@ -34,6 +34,18 @@
   picture-path: 2023_vonarx.jpg
   description: 1
 
+- title: Progress in resonant X-ray scattering studies of charge order in cuprate superconductors
+  date: "2025-02-21"
+  journal: <b>Acta Physica Sinica</b> (2025)
+  arxiv:
+  preprint:
+  doi: https://doi.org/10.7498/aps.74.20241402
+  pdf-name:
+  authors:  CHAN Ying, YAN Yujie, WU Yuetong, WANG Qisi*
+  authors-short: Ying Chan et al.
+  picture-path: 2025_chan_aps.png
+  description: 1
+
 - title: Discovery of giant unit-cell super-structure in the infinite-layer nickelate PrNiO<sub>2+x</sub>
   date: "2025-01-07"
   journal: <b>Communications Materials</b> 6, 3 (2025)
