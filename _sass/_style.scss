@@ -224,18 +224,23 @@ body.index a{
     }
     .publication-button {
       display: inline-block;
-      padding: 1px 10px;
+      padding: 4px 13px;
       margin-left: 10px;
-      background-color: #f3f3f3;
-      color: rgb(119, 119, 119);
+      background-color: #b5b5b5;
+      color: white;
       text-decoration: none;
-      border-radius: 5px;
+      border-radius: 4px;
       font-size: 0.8em;
       transition: background-color 0.3s;
-      font-weight:400;
+      font-weight: 400;
+      cursor: pointer;
+
       &:hover {
-        background-color: #b6b6b6;
-        color: white;
+        background-color: #7e7e7e;
+      }
+
+      &:active {
+        transform: translateY(2px);
       }
     }
     .title {
