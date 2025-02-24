@@ -51,9 +51,11 @@ banner-path: banner-publications.jpg
         {% endif %}
         </div>
         <div class="publication-info">
-            <div class="title">
-              {{counter}}. {{preprint.title}}
-            </div>
+            <a href="{{preprint.arxiv}}" target="_blank" rel="noopener noreferrer">
+              <div class="title">
+                {{counter}}. {{preprint.title}}
+              </div>
+            </a>
             <div class="authors">
                 {{preprint.authors}}
             </div>
@@ -108,9 +110,11 @@ banner-path: banner-publications.jpg
           {% endif %}
         </div>
         <div class="publication-info">
-            <div class="title">
-              {{counter}}. {{publication.title}}
-            </div>
+            <a href="{{publication.doi}}" target="_blank" rel="noopener noreferrer">
+              <div class="title">
+                {{counter}}. {{publication.title}}
+              </div>
+            </a>
             <div class="authors">
                 {{publication.authors}}
             </div>
