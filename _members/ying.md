@@ -12,6 +12,9 @@ twitter:
 github: 
 ordering: 4
 layout: members
+start_date: 2023-08-01
+end_date: 
+post-stay-position: 
 ---
 What is the most important thing in life? For me, it is to stay motivated and to enjoy the freedom to explore solutions for problems of any kind. I navigated my way into condensed matter physics understanding the potential reward is to go on an eternal journey of discovery, else it could just a sad bumpy ride. 
 

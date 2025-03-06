@@ -68,14 +68,22 @@ banner-path: banner-members.jpg
 
 ## Alumni
 <div class="alumni-list">
-  {% assign alumni_members = site.members | where_exp: "item", "item.ordering < 0" | sort: "ordering" %}
+  {% assign alumni_members = site.members | where_exp: "item", "item.ordering < 0" | sort: "end_date" | reverse %}
   {% for member in alumni_members %}
-    <p>
-      <strong>{{ member.name }}</strong> - {{ member.title }}, {{ member['affiliation-1'] }}
-      {% if member['affiliation-2'] %}
-        , {{ member['affiliation-2'] }}
-      {% endif %}
-    </p>
+    <div class="alumni-container">
+      <p class="alumni-header">
+        <strong>{{ member.name }}</strong>
+        <span class="alumni-duration">({{ member.start_date | date: "%d %b %Y" }} - {{ member.end_date | date: "%d %b %Y" }})</span>
+      </p>
+      <div class="alumni-positions">
+        <div class="position-row">
+          <span class="position-label">Former</span>: {{ member.title }}
+        </div>
+        <div class="position-row">
+          <span class="position-label">Now</span>: {{ member.post-stay-position }}
+        </div>
+      </div>
+    </div>
   {% endfor %}
 </div>
 

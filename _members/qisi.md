@@ -11,6 +11,9 @@ email: qwang@cuhk.edu.hk
 twitter: 
 github: https://github.com/qmcuhk
 linkedin: https://www.linkedin.com/in/qisi-wang/
+start_date: 2023-01-01
+end_date: 
+post-stay-position: 
 ordering: 1
 layout: members
 ---

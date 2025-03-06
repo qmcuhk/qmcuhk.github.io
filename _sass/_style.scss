@@ -803,49 +803,45 @@ $primary-color: #333;
 
 
 /* Alumni Section Styling */
-.alumni-container {
-  padding: 20px;
-}
-
 .alumni-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.alumni-item {
-  padding: 10px 0;
-  border-bottom: 1px solid #ddd;
   display: flex;
   flex-direction: column;
+  gap: 20px;
+  margin-top: 20px;
 }
 
-.alumni-item:last-child {
-  border-bottom: none;
-}
+.alumni-container {
+  padding: 0;
+  width: 100%;
+  
+  .alumni-header {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  .alumni-positions {
+    margin: 0;
+    padding-left: 20px;
+  }
 
-.alumni-item strong {
-  font-size: 1.2em;
-}
+  .position-row {
+    line-height: 1.5;
+  }
 
-.alumni-title {
-  color: #666;
-  font-style: italic;
-  margin-top: 2px;
-}
-
-.alumni-affiliation {
-  color: #333;
-  font-size: 0.9em;
-}
-
-.alumni-email {
-  margin-top: 5px;
-  color: #333;
-  text-decoration: none;
-}
-
-.alumni-email i {
-  font-size: 1em;
-  vertical-align: middle;
+  .position-label {
+    display: inline-block;
+    width: 50px;
+    text-align: right;
+  }
+  
+  strong {
+    font-size: 1.1rem;
+    color: $color-primary;
+  }
+  
+  .alumni-duration {
+    color: $color-subtext;
+    font-style: italic;
+    margin-left: 5px;
+  }
 }
