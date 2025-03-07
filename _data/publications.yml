@@ -1,3 +1,15 @@
+- title: Observation of collective charge excitations in a cuprate superconductor
+  date: '2025-03-07'
+  journal: arXiv:2503.04334
+  arxiv: https://arxiv.org/abs/2503.04334
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2503.04334
+  pdf-name: null
+  authors: Xunyang Hong, Yujie Yan, L. Martinelli, I. Biało, K. von Arx, J. Choi, Y. Sassa, S. Pyon, T. Takayama, H. Takagi, Zhenglu Li, M. Garcia-Fernandez, Ke-Jin Zhou, J. Chang*, Qisi Wang*
+  authors-short: Xunyang Hong et al.
+  picture-path: 2025_hong.png
+  description: 1
+
 - title: Anatomy of anomalous Hall effect due to magnetic fluctuations
   date: '2025-02-17'
   journal: arXiv:2502.11702
