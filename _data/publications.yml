@@ -1,5 +1,5 @@
 - title: Observation of collective charge excitations in a cuprate superconductor
-  date: '2025-03-07'
+  date: '2025-03-06'
   journal: arXiv:2503.04334
   arxiv: https://arxiv.org/abs/2503.04334
   preprint: true
@@ -8,6 +8,18 @@
   authors: Xunyang Hong, Yujie Yan, L. Martinelli, I. Biało, K. von Arx, J. Choi, Y. Sassa, S. Pyon, T. Takayama, H. Takagi, Zhenglu Li, M. Garcia-Fernandez, Ke-Jin Zhou, J. Chang*, Qisi Wang*
   authors-short: Xunyang Hong et al.
   picture-path: 2025_hong.png
+  description: 1
+
+- title: Concurrent Multifractality and Anomalous Hall Response in the Nodal Line Semimetal Fe3GeTe2 Near Localization
+  date: '2025-03-06'
+  journal: arXiv:2503.04367
+  arxiv: https://arxiv.org/abs/2503.04367
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2503.04367
+  pdf-name: null
+  authors: Subramanian Mathimalar<sup>#</sup>, Ambikesh Gupta<sup>#</sup>, Yotam Roet<sup>#</sup>, Stanislaw Galeski<sup>#</sup>, Rafal Wawrzynczak, Mikel Garcia-Diez, Iñigo Robredo, Praveen Vir, Nitesh Kumar, Walter Schnelle, Karin von Arx, Julia Küspert, Qisi Wang, Johan Chang, Yasmine Sassa, Ady Stern, Felix von Oppen, Maia G. Vergniory, Claudia Felser, Johannes Gooth, Nurit Avraham, Haim Beidenkopf*
+  authors-short: Subramanian Mathimalar et al.
+  picture-path: 2025_mathimalar.jpg
   description: 1
 
 - title: Anatomy of anomalous Hall effect due to magnetic fluctuations
