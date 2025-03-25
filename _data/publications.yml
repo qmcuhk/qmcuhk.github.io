@@ -22,21 +22,6 @@
   picture-path: 2025_mathimalar.jpg
   description: 1
 
-- title: Anatomy of anomalous Hall effect due to magnetic fluctuations
-  date: '2025-02-17'
-  journal: arXiv:2502.11702
-  arxiv: https://arxiv.org/abs/2502.11702
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2502.11702
-  pdf-name: null
-  authors: Ola Kenji Forslund*, Xiaoxiong Liu, Soohyeon Shin, Chun Lin, Masafumi Horio,
-    Qisi Wang, Kevin Kramer, Saumya Mukherjee, Timur Kim, Cephise Cacho, Chennan Wang,
-    Tian Shang, Victor Ukleev, Jonathan S. White, Pascal Puphal, Yasmine Sassa, Ekaterina
-    Pomjakushina, Titus Neupert, Johan Chang
-  authors-short: Ola Kenji Forslund et al.
-  picture-path: 2025_forslund.jpg
-  description: 1
-
 - title: Decoupled static and dynamical charge correlations in La<sub>2−x</sub>Sr<sub>x</sub>CuO<sub>4</sub>
   date: '2024-06-21'
   journal: arXiv:2406.15062
@@ -64,6 +49,21 @@
     J. Chang
   authors-short: K. von Arx et al.
   picture-path: 2023_vonarx.jpg
+  description: 1
+
+- title: Anomalous Hall Effect due to Magnetic Fluctuations in a Ferromagnetic Weyl Semimetal
+  date: '2025-03-24'
+  journal: <b>Physical Review Letters</b> 134, 126602 (2025) <i>Editors' suggestion</i>
+  arxiv: https://arxiv.org/abs/2502.11702
+  preprint: true
+  doi: https://doi.org/10.1103/PhysRevLett.134.126602
+  pdf-name: null
+  authors: Ola Kenji Forslund*, Xiaoxiong Liu, Soohyeon Shin, Chun Lin, Masafumi Horio,
+    Qisi Wang, Kevin Kramer, Saumya Mukherjee, Timur Kim, Cephise Cacho, Chennan Wang,
+    Tian Shang, Victor Ukleev, Jonathan S. White, Pascal Puphal, Yasmine Sassa, Ekaterina
+    Pomjakushina, Titus Neupert, Johan Chang
+  authors-short: Ola Kenji Forslund et al.
+  picture-path: 2025_forslund_prl.jpg
   description: 1
 
 - title: Progress in resonant X-ray scattering studies of charge order in cuprate
