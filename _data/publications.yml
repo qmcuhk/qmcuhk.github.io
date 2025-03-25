@@ -55,7 +55,7 @@
   date: '2025-03-24'
   journal: <b>Physical Review Letters</b> 134, 126602 (2025) <i>Editors' suggestion</i>
   arxiv: https://arxiv.org/abs/2502.11702
-  preprint: true
+  preprint: null
   doi: https://doi.org/10.1103/PhysRevLett.134.126602
   pdf-name: null
   authors: Ola Kenji Forslund*, Xiaoxiong Liu, Soohyeon Shin, Chun Lin, Masafumi Horio,
