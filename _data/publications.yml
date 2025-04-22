@@ -51,6 +51,18 @@
   picture-path: 2023_vonarx.jpg
   description: 1
 
+- title: Research progress of resonant X-ray scattering of charge order in cuprate superconductors
+  date: '2025-04-20'
+  journal: <b>Acta Physica Sinica</b> 74, 087402 (2025) <i>Invited review</i>
+  arxiv: null
+  preprint: null
+  doi: https://doi.org/10.7498/aps.74.20241402
+  pdf-name: null
+  authors: CHAN Ying, YAN Yujie, WU Yuetong, WANG Qisi*
+  authors-short: Ying Chan et al.
+  picture-path: 2025_chan_aps.png
+  description: 1
+
 - title: Anomalous Hall Effect due to Magnetic Fluctuations in a Ferromagnetic Weyl Semimetal
   date: '2025-03-24'
   journal: <b>Physical Review Letters</b> 134, 126602 (2025) <i>Editors' suggestion</i>
@@ -64,19 +76,6 @@
     Pomjakushina, Titus Neupert, Johan Chang
   authors-short: Ola Kenji Forslund et al.
   picture-path: 2025_forslund_prl.jpg
-  description: 1
-
-- title: Progress in resonant X-ray scattering studies of charge order in cuprate
-    superconductors
-  date: '2025-02-21'
-  journal: <b>Acta Physica Sinica</b> (2025)
-  arxiv: null
-  preprint: null
-  doi: https://doi.org/10.7498/aps.74.20241402
-  pdf-name: null
-  authors: CHAN Ying, YAN Yujie, WU Yuetong, WANG Qisi*
-  authors-short: Ying Chan et al.
-  picture-path: 2025_chan_aps.png
   description: 1
 
 - title: Discovery of giant unit-cell super-structure in the infinite-layer nickelate
