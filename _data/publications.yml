@@ -36,19 +36,17 @@
   picture-path: 2024_martinelli.jpg
   description: 1
 
-- title: Resolving the Orbital Character of Low-energy Excitations in Mott Insulator
-    with Intermediate Spin-orbit Coupling
-  date: '2023-12-07'
-  journal: arXiv:2312.04406
+- title: Resolving the orbital character of low-energy excitations in Mott insulator
+    with intermediate spin-orbit coupling
+  date: '2025-05-22'
+  journal: <b>Communications Materials</b> 8, 210 (2025)
   arxiv: https://arxiv.org/abs/2312.04406
-  preprint: true
+  preprint:
   doi: https://doi.org/10.48550/arXiv.2312.04406
   pdf-name: null
-  authors: K. von Arx, P. Rothenbühler, Qisi Wang, J. Choi, M. Garcia-Fernandez, S.
-    Agrestini, Ke-Jin Zhou, A. Vecchione, R. Fittipaldi, Y. Sassa, M. Cuoco, F. Forte*,
-    J. Chang
+  authors: Karin von Arx, Pascal Rothenbühler, Qisi Wang, Leonardo Martinelli, Jaewon Choi, Mirian Garcia-Fernandez, Stefano Agrestini, Ke-Jin Zhou, Antonio Vecchione, Rosalba Fittipaldi, Yasmine Sassa, Mario Cuoco, Filomena Forte, Johan Chang
   authors-short: K. von Arx et al.
-  picture-path: 2023_vonarx.jpg
+  picture-path: 2025_vonarx_cp.jpg
   description: 1
 
 - title: Research progress of resonant X-ray scattering of charge order in cuprate superconductors
