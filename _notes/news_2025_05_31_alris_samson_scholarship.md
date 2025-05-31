@@ -6,4 +6,4 @@ tag: news
 layout: news
 ---
 
-At the closing ceremony of last semester, Alris and Samson both received prestigious departmental scholarships in recognition of their outstanding academic performance. These awards highlight their dedication, hard work, and commitment to excellence. We warmly congratulate them and look forward to witnessing even greater accomplishments from them in the future!
+At the closing ceremony of last semester, Alris and Samson both received prestigious departmental scholarships in recognition of their outstanding academic performance. These awards highlight their dedication, hard work, and commitment to excellence. Congratulations to them and we look forward to witnessing greater accomplishments from them in the future!
