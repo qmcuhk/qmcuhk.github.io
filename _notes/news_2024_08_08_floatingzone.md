@@ -1,5 +1,5 @@
 ---
-title: Installation of the Optical Floating Zone Furnace
+title: Installation of the optical floating zone furnace
 picture-path: news_pictures/news_2024_08_08_floatingzone.jpg
 date: 2024-08-08
 tag: news
