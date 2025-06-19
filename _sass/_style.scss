@@ -204,7 +204,7 @@ body.index a{
     width: 6.2em;
     transition: transform 0.3s ease-in-out;
     &:hover {  
-      transform: scale(2.5);
+      transform: scale(3);
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
       z-index: 1000;
     }
@@ -257,7 +257,7 @@ body.index a{
     }
     .authors {
       color: #7e7e7e;
-      font-size:0.82em;
+      font-size: 0.86em;
       max-width: 95%;
     }
     .year {
