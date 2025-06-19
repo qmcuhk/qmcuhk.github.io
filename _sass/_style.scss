@@ -659,6 +659,7 @@ $primary-color: #333;
       display: flex;
       align-items: center;
       justify-content: center;
+      transition: transform 0.3s ease-in-out;
       img {
         width: 100%;
         height: 100%;
@@ -666,9 +667,9 @@ $primary-color: #333;
         object-fit: cover;
         display: block;
         z-index: 1;
-        transition: transform 0.3s ease-in-out;
+        
       }
-      &:hover img {
+      &:hover {
         transform: scale(1.2);
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
         z-index: 1000;
