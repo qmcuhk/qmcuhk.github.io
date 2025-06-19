@@ -81,7 +81,7 @@ banner-path: banner-publications.jpg
 
 
 
-<div class="large-divider"></div>
+<div class="medium-divider" style="margin-top: 1.5em; margin-bottom: 1.5em;"></div>
 <div class="medium-divider">
 <h1> Publications </h1>
 <p># equal contribution; * corresponding author</p>
