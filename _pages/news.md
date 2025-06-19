@@ -17,9 +17,6 @@ banner-path: banner-news.jpg
         <a href="{{new.url}}">
         <img src="../assets/{{new.picture-path}}" alt="Cross Country Champions">
         </a>
-        <div class="news-img-popup">
-          <img src="../assets/{{new.picture-path}}" alt="Preview" style="width:100%;height:100%;object-fit:cover;aspect-ratio:16/9;">
-        </div>
         </div>
         <div class="news-content">
             <h3>{{new.title}}</h3>
