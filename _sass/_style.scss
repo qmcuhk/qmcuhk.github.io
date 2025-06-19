@@ -651,6 +651,7 @@ $primary-color: #333;
       width: 90%;
     }
     .news-img-container {
+      position: relative;
       width: 100%;
       aspect-ratio: 16/9;
       max-height: none;
@@ -664,6 +665,31 @@ $primary-color: #333;
         aspect-ratio: 16/9;
         object-fit: cover;
         display: block;
+        transition: opacity 0.2s;
+        z-index: 1;
+      }
+      // Popup preview hidden by default
+      .news-img-popup {
+        display: none;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%) scale(1.7);
+        width: 60vw;
+        max-width: 600px;
+        aspect-ratio: 16/9;
+        z-index: 10;
+        box-shadow: 0 8px 32px 0 rgba(0,0,0,0.18);
+        border-radius: 8px;
+        background: white;
+        pointer-events: none;
+        overflow: hidden;
+      }
+      &:hover .news-img-popup {
+        display: block;
+      }
+      &:hover img {
+        opacity: 0.2;
       }
     }
     .news-content {
