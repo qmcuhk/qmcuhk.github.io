@@ -1,5 +1,5 @@
 ---
-title: Zihou win the best poster prizes of SURIP
+title: Zihou wins the best poster prize of SURIP
 picture-path: news_pictures/news_2025_07_18_surip_prize.jpg
 date: 2025-07-18
 tag: news
