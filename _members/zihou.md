@@ -1,6 +1,6 @@
 ---
 name: Zihou Zhang
-title: Bachelor Student
+title: Undergraduate Student 
 photo-path: zihou_zhang.jpg
 affiliation-1: The Chinese University of HK
 affiliation-2: 
