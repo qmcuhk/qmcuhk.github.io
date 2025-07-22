@@ -1,6 +1,6 @@
 ---
 name: Ying Chan
-title: MPhil Student
+title: PhD Student
 photo-path: ying.jpg
 affiliation-1: The Chinese University of HK
 affiliation-2: 
