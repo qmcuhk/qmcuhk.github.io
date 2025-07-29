@@ -34,18 +34,18 @@
   picture-path: 2025_mathimalar.jpg
   description: 1
 
-- title: Decoupling of Static and Dynamic Charge Correlations revealed by Uniaxial Strain in a Cuprate Superconductor
-  date: '2024-06-21'
-  journal: arXiv:2406.15062
+- title: Decoupling of static and dynamic charge correlations revealed by uniaxial strain in a cuprate superconductor
+  date: '2025-07-28'
+  journal: <b>Physical Review B</b> 112, L041124 (2025) <i>Letter</i>,  <i>Editors' suggestion</i>
   arxiv: https://arxiv.org/abs/2406.15062
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2406.15062
+  preprint: null
+  doi: https://doi.org/10.1103/n834-dkyh
   pdf-name: null
   authors: L. Martinelli<sup>#</sup>*, I. Biało<sup>#</sup>*, X. Hong, J. Oppliger,
     C. Lin, T. Schaller, J.Küspert, M. H. Fischer, T. Kurosawa, N. Momono, M. Oda,
     D. V. Novikov, A. Khadiev, E. Weschke, J. Choi, S. Agrestini, M. Garcia-Fernandez, Ke-Jin Zhou, Q. Wang, J. Chang*
   authors-short: L. Martinelli et al.
-  picture-path: 2024_martinelli.jpg
+  picture-path: 2025_martinelli_prb.jpg
   description: 1
 
 - title: Resolving the orbital character of low-energy excitations in Mott insulator
