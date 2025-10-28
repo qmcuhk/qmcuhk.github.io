@@ -9,6 +9,27 @@ banner-path: banner-teaching.jpg
 <h1>Courses taught by Qisi Wang</h1>
 </div>
 <hr>
+## 2025-26 Academic year
+
+### &#9632; &nbsp; PHYS1003A General Physics for Engineers (Term 1)
+
+This non-calculus-based course covers some essential concepts in mechanics, heat, and electricity.  It is designed for engineering students to get an overview on what physics is about.  Selected topics include: Newton’s laws of motion including one-dimensional and two-dimensional motions, temperature and heat, laws of thermodynamics, electric field and potential, current and circuits.  The course is suitable for Engineering students without HKDSE physics or Combined Science with a physics component, or with permission of instructor. [See [Blackboard system](https://blackboard.cuhk.edu.hk) for more details and resources].
+#### Class Time: Monday 10:30 am - 12:15 pm; Thursday 12:30 am - 13:15 am
+
+
+### &#9632; &nbsp; PHYS3710 Short Experimental Projects I (Term 1)
+
+This course aims at providing students with project learning experience in experimental physics. Students taking this course are required to finish a short experimental project which illustrates modern physics and/or experimental techniques. A project report in the format of a journal article is required.
+#### Class Time: NA
+
+
+### &#9632; &nbsp; PHYS1110G Engineering Physics: Mechanics and Thermodynamics (Term 2)
+
+This is an introductory calculus-based engineering physics course covering topics in mechanics and thermodynamics.  Topics include:  Use of vectors in mechanics, force and motion, free-body diagrams, work and energy, potential energy and conservation of energy, momentum and impulse, torque, essential ideas in rotation, equilibrium, gravitation, ideal fluids, oscillations, waves and sound, elementary concepts of thermodynamics and heat transfer mechanisms.  Contents will be supplemented by discussions on applications relevant to engineering.  The course is suitable for Engineering students with HKDSE physics or Combined Science with a physics component, or with permission of instructor.
+#### Class Time: NA
+
+<div class="medium-divider"></div>
+<hr>
 ## 2024-25 Academic year
 
 ### &#9632; &nbsp; PHYS1003A General Physics for Engineers (Term 1)
