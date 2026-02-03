@@ -323,6 +323,7 @@
         <!-- Features -->
         <div class="card">
             <h2>What Can You Do?</h2>
+            <p>Watch the <a href="https://youtu.be/Zh4_jvWzumA" target="_blank">video tutorial on YouTube</a> for step-by-step instructions.</p>
             <div class="features">
                 <div class="feature">
                     <div class="feature-icon">👥</div>
