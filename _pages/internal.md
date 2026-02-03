@@ -4,4 +4,4 @@ title: Internal
 permalink: /internal
 ---
 
-this is an internal page
+[website updater information]({{ site.baseurl }}/standalone/website-updater-info.html)

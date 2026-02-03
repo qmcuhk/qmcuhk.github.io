@@ -37,6 +37,10 @@ collections:
     output: true
     permalink: /members/:slug
     layout: members
+  standalone:
+    output: true
+    permalink: /standalone/:slug
+    layout: none
     
 
 
