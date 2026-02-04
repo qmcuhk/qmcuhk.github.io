@@ -233,6 +233,48 @@
             margin: 16px 0;
             max-width: 100%;
         }
+
+        .video-section {
+            margin-bottom: 20px;
+        }
+
+        .video-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            border-radius: 12px;
+            overflow: hidden;
+            background-color: #1a1a2e;
+            box-shadow: 0 4px 20px rgba(67, 97, 238, 0.15);
+        }
+
+        .video-container iframe,
+        .video-container video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+            object-fit: contain;
+            background-color: #1a1a2e;
+        }
+
+        .video-caption {
+            text-align: center;
+            margin-top: 12px;
+            font-size: 14px;
+            color: #6c757d;
+        }
+
+        .video-caption a {
+            color: #4361ee;
+            text-decoration: none;
+        }
+
+        .video-caption a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -274,6 +316,18 @@
         <div class="card">
             <h2>Installation</h2>
             
+            <!-- Installation Demo Video -->
+            <div class="video-section">
+                <div class="video-container">
+                    <video controls playsinline>
+                        <source src="/assets/standalone/demo_install_qmcuhk_updater.mov" type="video/quicktime">
+                        <source src="assets/standalone/demo_install_qmcuhk_updater.mov" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+                <p class="video-caption">Installation walkthrough demo</p>
+            </div>
+
             <div class="step">
                 <span class="step-number">1</span>
                 <div class="step-content">
@@ -305,6 +359,10 @@
                     <p>The GUI will launch! You can run this command anytime from any folder.</p>
                 </div>
             </div>
+
+            <p style="color: #6c757d; font-size: 14px; margin-top: 8px; padding-left: 36px;">
+                <em><strong>Note:</strong> On some systems, you may need to use <code>python</code> and <code>pip</code> instead of <code>python3</code> and <code>pip3</code>. Try both if one doesn't work.</em>
+            </p>
         </div>
 
         <!-- First Time Setup -->
@@ -323,7 +381,22 @@
         <!-- Features -->
         <div class="card">
             <h2>What Can You Do?</h2>
-            <p>Watch the <a href="https://youtu.be/Zh4_jvWzumA" target="_blank">video tutorial on YouTube</a> for step-by-step instructions.</p>
+            
+            <!-- Video Tutorial -->
+            <div class="video-section">
+                <div class="video-container">
+                    <iframe 
+                        src="https://www.youtube.com/embed/Zh4_jvWzumA" 
+                        title="QMCUHK Website Updater Tutorial"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+                <p class="video-caption">
+                    Video not loading? <a href="https://youtu.be/Zh4_jvWzumA" target="_blank">Watch on YouTube</a>
+                </p>
+            </div>
+
             <div class="features">
                 <div class="feature">
                     <div class="feature-icon">👥</div>
