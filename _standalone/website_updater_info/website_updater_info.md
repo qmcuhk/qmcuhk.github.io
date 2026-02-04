@@ -291,7 +291,7 @@
                 Before You Start - Important!
             </div>
             <ol>
-                <li><strong>Get GitHub Access:</strong> Contact the current website maintainer to get an invitation to the <a href="https://github.com/qmcuhk" target="_blank">qmcuhk</a> GitHub organization.</li>
+                <li><strong>Get GitHub Access:</strong> Contact the current website maintainer to get an invitation to the <a href="https://github.com/qmcuhk" target="_blank">qmcuhk</a> GitHub repository.</li>
                 <li><strong>Accept the Invitation:</strong> Check your email and accept the collaboration invitation for the <code>qmcuhk.github.io</code> repository.</li>
                 <li><strong>Clone the Repository:</strong> Clone the website repo to your local computer:
                     <pre><code><span class="command">git clone</span> https://github.com/qmcuhk/qmcuhk.github.io.git</code></pre>
