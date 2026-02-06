@@ -20,18 +20,6 @@
   picture-path: 2025_hong_2.jpg
   description: 1
 
-- title: Magnetic Excitations of a Half-Filled Tl-based Cuprate
-  date: '2025-07-31'
-  journal: arXiv:2507.22242
-  arxiv: https://arxiv.org/abs/2507.22242
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2507.22242
-  pdf-name: null
-  authors: I. Biało*, Q. Wang*, J. Küspert, X. Hong, L. Martinelli, O. Gerguri, Y. Chan, K. von Arx, O. K. Forslund, W. R. Pudełko, C. Lin, N. C. Plumb, Y. Sassa, D. Betto, N. B. Brookes, M. Rosmus, N. Olszowska, M. D. Watson, T. K. Kim, C. Cacho, M. Horio, M. Ishikado, H. M. Rønnow, J. Chang
-  authors-short: I. Biało et al.
-  picture-path: 2025_bialo.png
-  description: 1
-
 - title: Persistent paramagnons in high-temperature infinite-layer nickelate superconductors
   date: '2025-07-25'
   journal: arXiv:2507.18373
@@ -78,6 +66,18 @@
   authors: Subramanian Mathimalar<sup>#</sup>, Ambikesh Gupta<sup>#</sup>, Yotam Roet<sup>#</sup>, Stanislaw Galeski<sup>#</sup>, Rafal Wawrzynczak, Mikel Garcia-Diez, Iñigo Robredo, Praveen Vir, Nitesh Kumar, Walter Schnelle, Karin von Arx, Julia Küspert, Qisi Wang, Johan Chang, Yasmine Sassa, Ady Stern, Felix von Oppen, Maia G. Vergniory, Claudia Felser, Johannes Gooth, Nurit Avraham, Haim Beidenkopf*
   authors-short: Subramanian Mathimalar et al.
   picture-path: 2025_mathimalar.jpg
+  description: 1
+
+- title: Magnetic Excitations of a Half-Filled Tl-based Cuprate
+  date: '2025-12-31'
+  journal: <b>Communications Materials</b> 7, 50 (2026)
+  arxiv: https://arxiv.org/abs/2507.22242
+  preprint: true
+  doi: https://doi.org/10.1038/s43246-025-01061-1
+  pdf-name: null
+  authors: I. Biało*, Q. Wang*, J. Küspert, X. Hong, L. Martinelli, O. Gerguri, Y. Chan, K. von Arx, O. K. Forslund, W. R. Pudełko, C. Lin, N. C. Plumb, Y. Sassa, D. Betto, N. B. Brookes, M. Rosmus, N. Olszowska, M. D. Watson, T. K. Kim, C. Cacho, M. Horio, M. Ishikado, H. M. Rønnow, J. Chang
+  authors-short: I. Biało et al.
+  picture-path: 2025_bialo.png
   description: 1
 
 - title: Decoupling of static and dynamic charge correlations revealed by uniaxial strain in a cuprate superconductor
