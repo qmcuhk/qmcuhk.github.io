@@ -32,18 +32,6 @@
   picture-path: 2025_yan.png
   description: 1
 
-- title: Enhanced Superconductivity and Mixed-dimensional Behaviour in Infinite-layer Samarium Nickelate Thin Films
-  date: '2025-03-24'
-  journal: arXiv:2503.18346
-  arxiv: https://arxiv.org/abs/2503.18346
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2503.18346
-  pdf-name: null
-  authors: Mingwei Yang<sup>#</sup>, Heng Wang<sup>#</sup>, Jiayin Tang<sup>#</sup>, Junping Luo, Xianfeng Wu, Wenjing Xu, Aile Wang, Yuetong Wu, Ruilin Mao, Ze Wang, Zhicheng Pei, Guangdi Zhou, Zhengang Dong, Bohan Feng, Lingchi Shi, Wenjie Meng, Chuanying Xi, Li Pi, Qingyou Lu, Jun Okamoto, Hsiao-Yu Huang, Di-Jing Huang, Haoliang Huang, Qisi Wang, Peng Gao, Zhuoyu Chen*, Danfeng Li*
-  authors-short: Mingwei Yang et al.
-  picture-path: 2025_mingwei.jpg
-  description: 1
-
 - title: Observation of collective charge excitations in a cuprate superconductor
   date: '2025-03-06'
   journal: arXiv:2503.04334
@@ -66,6 +54,18 @@
   authors: Subramanian Mathimalar<sup>#</sup>, Ambikesh Gupta<sup>#</sup>, Yotam Roet<sup>#</sup>, Stanislaw Galeski<sup>#</sup>, Rafal Wawrzynczak, Mikel Garcia-Diez, Iñigo Robredo, Praveen Vir, Nitesh Kumar, Walter Schnelle, Karin von Arx, Julia Küspert, Qisi Wang, Johan Chang, Yasmine Sassa, Ady Stern, Felix von Oppen, Maia G. Vergniory, Claudia Felser, Johannes Gooth, Nurit Avraham, Haim Beidenkopf*
   authors-short: Subramanian Mathimalar et al.
   picture-path: 2025_mathimalar.jpg
+  description: 1
+
+- title: Enhanced superconductivity and mixed-dimensional behaviour in infinite-layer samarium nickelate thin Films
+  date: '2025-03-24'
+  journal: <b>Nature Communications</b> (2026)
+  arxiv: https://arxiv.org/abs/2503.18346
+  preprint: null
+  doi: https://doi.org/10.1038/s41467-026-69650-3
+  pdf-name: null
+  authors: Mingwei Yang<sup>#</sup>, Heng Wang<sup>#</sup>, Jiayin Tang<sup>#</sup>, Junping Luo, Xianfeng Wu, Wenjing Xu, Aile Wang, Yuetong Wu, Ruilin Mao, Ze Wang, Zhicheng Pei, Guangdi Zhou, Zhengang Dong, Bohan Feng, Lingchi Shi, Wenjie Meng, Chuanying Xi, Li Pi, Qingyou Lu, Jun Okamoto, Hsiao-Yu Huang, Di-Jing Huang, Haoliang Huang, Qisi Wang, Peng Gao, Zhuoyu Chen*, Danfeng Li*
+  authors-short: Mingwei Yang et al.
+  picture-path: 2025_mingwei.jpg
   description: 1
 
 - title: Magnetic Excitations of a Half-Filled Tl-based Cuprate
