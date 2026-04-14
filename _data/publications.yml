@@ -1,3 +1,14 @@
+- title: Autonomous Diffractometry Enabled by Visual Reinforcement Learning
+  date: '2026-04-14'
+  journal: arXiv:2604.11773
+  arxiv: https://arxiv.org/abs/2604.11773
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2604.11773
+  pdf-name: null
+  authors: J. Oppliger*, M. Stifter, A. Rüegg, I. Biało, L. Martinelli, P. G. Freeman, D. Prabhakaran, J. Zhao, Q. Wang, J. Chang*
+  picture-path: 2026_oppliger.png
+  description: 1
+
 - title: Collective spin excitations in trilayer nickelate La<sub>4</sub>Ni<sub>3</sub>O<sub>10</sub>
   date: '2026-04-07'
   journal: arXiv:2604.04643
