@@ -1,3 +1,14 @@
+- title: Nature of magnetism in bilayer nickelate La3Ni2O7 single crystals
+  date: '2026-05-05'
+  journal: arXiv:2605.03448
+  arxiv: https://arxiv.org/abs/2605.03448
+  preprint: true
+  doi: https://doi.org/10.48550/arXiv.2605.03448
+  pdf-name: null
+  authors: Lixing Chen<sup>#</sup>, Enkang Zhang<sup>#</sup>, Yiqing Hao, Yinghao Zhu, Bingkun Cui, Douglas L. Abernathy, Travis J. Williams, Yoichi Ikeda, Hao Zhang, Feiyang Liu, Wenbin Wang, Qisi Wang, Jun Zhao*
+  picture-path: 2026_chen.jpg
+  description: 1
+
 - title: Autonomous Diffractometry Enabled by Visual Reinforcement Learning
   date: '2026-04-14'
   journal: arXiv:2604.11773
