@@ -42,17 +42,6 @@
   picture-path: 2026_bialo.png
   description: 1
 
-- title: Impact of Electron Correlations on Infinite-Layer Cuprates and Nickelates
-  date: '2025-11-12'
-  journal: arXiv:2511.09460
-  arxiv: https://arxiv.org/abs/2511.09460
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2511.09460
-  pdf-name: null
-  authors: Xunyang Hong<sup>#</sup>, Yuetong Wu<sup>#</sup>, Ying Chan, Sze Tung Li, I. Biało, L. Martinelli, A. Drewanowski, Qiang Gao, Xiaolin Ren, Xingjiang Zhou, Zhihai Zhu, A. Galdi, D. G. Schlom, K. M. Shen, J. Choi, M. Garcia Fernandez, Ke-Jin Zhou, N. B. Brookes, H. M. Rønnow, Qisi Wang*, J. Chang
-  picture-path: 2025_hong_2.jpg
-  description: 1
-
 - title: Persistent paramagnons in high-temperature infinite-layer nickelate superconductors
   date: '2025-07-25'
   journal: arXiv:2507.18373
@@ -87,6 +76,17 @@
   authors: Subramanian Mathimalar<sup>#</sup>, Ambikesh Gupta<sup>#</sup>, Yotam Roet<sup>#</sup>, Stanislaw Galeski<sup>#</sup>, Rafal Wawrzynczak, Mikel Garcia-Diez, Iñigo Robredo, Praveen Vir, Nitesh Kumar, Walter Schnelle, Karin von Arx, Julia Küspert, Qisi Wang, Johan Chang, Yasmine Sassa, Ady Stern, Felix von Oppen, Maia G. Vergniory, Claudia Felser, Johannes Gooth, Nurit Avraham, Haim Beidenkopf*
   authors-short: Subramanian Mathimalar et al.
   picture-path: 2025_mathimalar.jpg
+  description: 1
+
+- title: Impact of electron correlations on infinite-layer cuprates and nickelates
+  date: '2026-05-07'
+  journal: Communications Materials
+  arxiv: https://arxiv.org/abs/2511.09460
+  preprint: true
+  doi: https://doi.org/10.1038/s43246-026-01175-0
+  pdf-name: null
+  authors: Xunyang Hong<sup>#</sup>, Yuetong Wu<sup>#</sup>, Ying Chan, Sze Tung Li, I. Biało, L. Martinelli, A. Drewanowski, Qiang Gao, Xiaolin Ren, Xingjiang Zhou, Zhihai Zhu, A. Galdi, D. G. Schlom, K. M. Shen, J. Choi, M. Garcia Fernandez, Ke-Jin Zhou, N. B. Brookes, H. M. Rønnow, Qisi Wang*, J. Chang
+  picture-path: 2025_hong_2.jpg
   description: 1
 
 - title: Enhanced superconductivity and mixed-dimensional behaviour in infinite-layer samarium nickelate thin films
