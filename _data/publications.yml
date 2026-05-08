@@ -80,12 +80,13 @@
 
 - title: Impact of electron correlations on infinite-layer cuprates and nickelates
   date: '2026-05-07'
-  journal: Communications Materials
+  journal: <b>Communications Materials</b>
   arxiv: https://arxiv.org/abs/2511.09460
   preprint: null
   doi: https://doi.org/10.1038/s43246-026-01175-0
   pdf-name: null
   authors: Xunyang Hong<sup>#</sup>, Yuetong Wu<sup>#</sup>, Ying Chan, Sze Tung Li, I. Biało, L. Martinelli, A. Drewanowski, Qiang Gao, Xiaolin Ren, Xingjiang Zhou, Zhihai Zhu, A. Galdi, D. G. Schlom, K. M. Shen, J. Choi, M. Garcia Fernandez, Ke-Jin Zhou, N. B. Brookes, H. M. Rønnow, Qisi Wang*, J. Chang
+  authors-short: Xunyang Hong et al.
   picture-path: 2025_hong_2.jpg
   description: 1
 
