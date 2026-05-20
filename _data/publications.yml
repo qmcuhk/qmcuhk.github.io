@@ -42,18 +42,6 @@
   picture-path: 2026_bialo.png
   description: 1
 
-- title: Persistent paramagnons in high-temperature infinite-layer nickelate superconductors
-  date: '2025-07-25'
-  journal: arXiv:2507.18373
-  arxiv: https://arxiv.org/abs/2507.18373
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2507.18373
-  pdf-name: null
-  authors: Yujie Yan<sup>#</sup>, Ying Chan<sup>#</sup>, Xunyang Hong, S. Lin Er Chow, Zhaoyang Luo, Yuehong Li, Tianren Wang, Yuetong Wu, Izabela Biało, Nurul Fitriyah, Saurav Prakash, Xing Gao, King Yau Yip, Qiang Gao, Xiaolin Ren, Jaewon Choi, Ganesha Channagowdra, Jun Okamoto, Xingjiang Zhou, Zhihai Zhu, Liang Si, Mirian Garcia-Fernandez, Ke-Jin Zhou, Hsiao-Yu Huang, Di-Jing Huang, Johan Chang*, A. Ariando*, Qisi Wang*
-  authors-short: Yujie Yan et al.
-  picture-path: 2025_yan.png
-  description: 1
-
 - title: Observation of collective charge excitations in a cuprate superconductor
   date: '2025-03-06'
   journal: arXiv:2503.04334
@@ -76,6 +64,18 @@
   authors: Subramanian Mathimalar<sup>#</sup>, Ambikesh Gupta<sup>#</sup>, Yotam Roet<sup>#</sup>, Stanislaw Galeski<sup>#</sup>, Rafal Wawrzynczak, Mikel Garcia-Diez, Iñigo Robredo, Praveen Vir, Nitesh Kumar, Walter Schnelle, Karin von Arx, Julia Küspert, Qisi Wang, Johan Chang, Yasmine Sassa, Ady Stern, Felix von Oppen, Maia G. Vergniory, Claudia Felser, Johannes Gooth, Nurit Avraham, Haim Beidenkopf*
   authors-short: Subramanian Mathimalar et al.
   picture-path: 2025_mathimalar.jpg
+  description: 1
+
+- title: Persistent paramagnons in high-temperature infinite-layer nickelate superconductors
+  date: '2025-07-25'
+  journal: <b>Nature Communications</b> (2026)
+  arxiv: https://arxiv.org/abs/2507.18373
+  preprint: null
+  doi: https://doi.org/10.1038/s41467-026-73083-3
+  pdf-name: null
+  authors: Yujie Yan<sup>#</sup>, Ying Chan<sup>#</sup>, Xunyang Hong, S. Lin Er Chow, Zhaoyang Luo, Yuehong Li, Tianren Wang, Yuetong Wu, Izabela Biało, Nurul Fitriyah, Saurav Prakash, Xing Gao, King Yau Yip, Qiang Gao, Xiaolin Ren, Jaewon Choi, Ganesha Channagowdra, Jun Okamoto, Xingjiang Zhou, Zhihai Zhu, Liang Si, Mirian Garcia-Fernandez, Ke-Jin Zhou, Hsiao-Yu Huang, Di-Jing Huang, Johan Chang*, A. Ariando*, Qisi Wang*
+  authors-short: Yujie Yan et al.
+  picture-path: 2025_yan.png
   description: 1
 
 - title: Impact of electron correlations on infinite-layer cuprates and nickelates
