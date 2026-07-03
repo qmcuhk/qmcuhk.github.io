@@ -1,5 +1,5 @@
 ---
-name: Samson Li
+name: Samson Sze Tung Li
 title: PhD Student
 photo-path: samson.jpg
 affiliation-1: The Chinese University of HK
