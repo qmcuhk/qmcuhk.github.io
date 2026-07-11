@@ -1,5 +1,5 @@
 ---
-title: "New paper in Communications Materials: Comparing electron correlations in infinite-layer cuprates and nickelates"
+title: "New paper in Communications Materials: Comparing correlation in infinite-layer cuprates and nickelates"
 picture-path: news_pictures/news_2026_05_07_publication.jpg
 date: 2026-05-07
 tag: news
@@ -12,4 +12,4 @@ To address this question, we performed resonant inelastic x-ray scattering (RIXS
 
 These results demonstrate that PrNiO<sub>2</sub> is more strongly correlated than its infinite-layer cuprate counterpart, despite having a smaller absolute Coulomb interaction. Our work provides an experimental route to quantify correlation strength from spin excitations and offers new insights into the distinct magnetic and electronic properties of infinite-layer nickelates and cuprates.
 
-This work has been published in Communications Materials (Hong, X., Wu, Y., Biało, I., Wang, Q.<sup>&#9993;</sup>, Chang, J. et al. <b>Impact of electron correlations on infinite-layer cuprates and nickelates</b>. <a href="https://doi.org/10.1038/s43246-026-01175-0" target="_blank">https://doi.org/10.1038/s43246-026-01175-0</a>). We are thankful to all collaborators.
+This work has been published in Communications Materials (Hong, X., Wu, Y., Wang, Q.<sup>&#9993;</sup>, Chang, J. et al. <b>Impact of electron correlations on infinite-layer cuprates and nickelates</b>. <a href="https://doi.org/10.1038/s43246-026-01175-0" target="_blank">https://doi.org/10.1038/s43246-026-01175-0</a>). We are thankful to all collaborators.
