@@ -6,7 +6,7 @@ tag: news
 layout: news
 ---
 
-Infinite-layer nickelates have emerged as an important platform for exploring unconventional superconductivity, yet their relationship to cuprates remains under active debate. In particular, understanding how electron correlations differ between infinite-layer nickelates and cuprates is essential for identifying the microscopic ingredients that control their magnetic and electronic ground states.
+A central question in the study of infinite-layer nickelates is their relationship to cuprates. In particular, understanding how electron correlations differ between infinite-layer nickelates and cuprates is essential for identifying the microscopic ingredients that control their magnetic and electronic ground states.
 
 To address this question, we performed resonant inelastic x-ray scattering (RIXS) measurements on infinite-layer PrNiO<sub>2</sub> and compared its collective excitations with those of the isostructural cuprate SrCuO<sub>2</sub>. Our experiments reveal dispersive magnetic excitations in PrNiO<sub>2</sub> with a magnon bandwidth of approximately 180 meV, about half that observed in SrCuO<sub>2</sub>, indicating a substantially reduced magnetic energy scale in the nickelate. By analyzing the magnon dispersion within a Hubbard-Heisenberg framework, we find that although the effective Coulomb interaction <i>U</i> is lower in PrNiO<sub>2</sub> than in SrCuO<sub>2</sub>, the reduced hopping amplitude leads to a larger correlation ratio <i>U/t</i> in PrNiO<sub>2</sub>.
 
