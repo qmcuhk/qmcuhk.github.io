@@ -1,5 +1,5 @@
 ---
-title: "New paper in Nature Communications: Persistent paramagnons in high-temperature infinite-layer nickelate superconductors"
+title: "New paper in Nature Communications: Persistent paramagnons in high-Tc infinite-layer nickelates"
 picture-path: news_pictures/news_2026_05_20_publication.jpg
 date: 2026-05-20
 tag: news
