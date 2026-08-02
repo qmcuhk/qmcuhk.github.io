@@ -1,6 +1,6 @@
 ---
 title: Qisi gave an invited talk at the 2026 Hefei Light Source User Meeting
-picture-path: news_pictures/news_2026_07_26_hefei_user_meeting.png
+picture-path: news_pictures/news_2026_07_26_hefei_user_meeting.jpg
 date: 2026-07-26
 tag: news
 layout: news
