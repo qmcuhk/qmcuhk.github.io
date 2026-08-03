@@ -1,6 +1,6 @@
 ---
 title: Qisi gave an invited talk at the 3rd International Workshop on High-Tc Nickelate Superconductors
-picture-path: news_pictures/news_2025_12_05_ni_workshop.png
+picture-path: news_pictures/news_2025_12_05_ni_workshop.jpg
 date: 2025-12-05
 tag: news
 layout: news

@@ -1,6 +1,6 @@
 ---
 title: Qisi gave an invited talk at the ICAM-China Workshop on High-Tc Superconductor and Correlated Electron Systems
-picture-path: news_pictures/news_2025_12_19_hts_workshop.png
+picture-path: news_pictures/news_2025_12_19_hts_workshop.jpg
 date: 2025-12-19
 tag: news
 layout: news
