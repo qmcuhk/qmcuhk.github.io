@@ -3,7 +3,7 @@ name: Alris Dai
 title: Joint Master Student
 photo-path: alris.JPG
 affiliation-1: University of Zurich
-affiliation-2: The Chinese University of HK
+affiliation-2: 
 bachelor:
 master: 
 phd:  
