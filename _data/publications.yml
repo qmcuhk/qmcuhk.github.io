@@ -86,18 +86,6 @@
   picture-path: 2026_bialo.png
   description: 1
 
-- title: Observation of collective charge excitations in a cuprate superconductor
-  date: '2025-03-06'
-  journal: arXiv:2503.04334
-  arxiv: https://arxiv.org/abs/2503.04334
-  preprint: true
-  doi: https://doi.org/10.48550/arXiv.2503.04334
-  pdf-name: null
-  authors: Xunyang Hong, Yujie Yan, L. Martinelli, I. Biało, K. von Arx, J. Choi, Y. Sassa, S. Pyon, T. Takayama, H. Takagi, Zhenglu Li, M. Garcia-Fernandez, Ke-Jin Zhou, J. Chang*, Qisi Wang*
-  authors-short: Xunyang Hong et al.
-  picture-path: 2025_hong.png
-  description: 1
-
 - title: Concurrent Multifractality and Anomalous Hall Response in the Nodal Line Semimetal Fe<sub>3</sub>GeTe<sub>2</sub> Near Localization
   date: '2025-03-06'
   journal: arXiv:2503.04367
@@ -110,12 +98,24 @@
   picture-path: 2025_mathimalar.jpg
   description: 1
 
+- title: Unveiling the nature of collective charge excitations in a cuprate superconductor
+  date: '2026-09-16'
+  journal: <b>The Innovation Physics</b> 1, 100011 (2026)
+  arxiv: https://arxiv.org/abs/2503.04334
+  preprint: null
+  doi: https://doi.org/10.48550/arXiv.2503.04334
+  pdf-name: null
+  authors: Xunyang Hong, Yujie Yan, Leonardo Martinelli, Izabela Biało, Karin von Arx, Jaewon Choi, Yasmine Sassa, Sunseng Pyon, Tomohiro Takayama, Hidenori Takagi, Chafic Fawaz, Laura Chaix, Mehdi Frachet, Igor Vinograd, Flora Yakhou, Kaya Vogler, Dan Zhao, Yanbing Zhou, Tao Wu, Xianhui Chen, Marc-Henri Julien, Mirian Garcia-Fernandez, Ke-Jin Zhou, Johan Chang*, Qisi Wang*
+  authors-short: Xunyang Hong et al.
+  picture-path: 2026_hong_tip.jpg
+  description: 1
+
 - title: Persistent paramagnons in high-temperature infinite-layer nickelate superconductors
   date: '2026-05-20'
   journal: <b>Nature Communications</b> 17, 6645 (2026)
   arxiv: https://arxiv.org/abs/2507.18373
   preprint: null
-  doi: https://doi.org/10.1038/s41467-026-73083-3
+  doi: https://doi.org/10.59717/j.tip.2026.100011
   pdf-name: null
   authors: Yujie Yan<sup>#</sup>, Ying Chan<sup>#</sup>, Xunyang Hong, S. Lin Er Chow, Zhaoyang Luo, Yuehong Li, Tianren Wang, Yuetong Wu, Izabela Biało, Nurul Fitriyah, Saurav Prakash, Xing Gao, King Yau Yip, Qiang Gao, Xiaolin Ren, Jaewon Choi, Ganesha Channagowdra, Jun Okamoto, Xingjiang Zhou, Zhihai Zhu, Liang Si, Mirian Garcia-Fernandez, Ke-Jin Zhou, Hsiao-Yu Huang, Di-Jing Huang, Johan Chang*, A. Ariando*, Qisi Wang*
   authors-short: Yujie Yan et al.
@@ -165,19 +165,16 @@
   preprint: null
   doi: https://doi.org/10.1103/n834-dkyh
   pdf-name: null
-  authors: L. Martinelli<sup>#</sup>*, I. Biało<sup>#</sup>*, X. Hong, J. Oppliger,
-    C. Lin, T. Schaller, J.Küspert, M. H. Fischer, T. Kurosawa, N. Momono, M. Oda,
-    D. V. Novikov, A. Khadiev, E. Weschke, J. Choi, S. Agrestini, M. Garcia-Fernandez, Ke-Jin Zhou, Q. Wang, J. Chang*
+  authors: L. Martinelli<sup>#</sup>*, I. Biało<sup>#</sup>*, X. Hong, J. Oppliger, C. Lin, T. Schaller, J.Küspert, M. H. Fischer, T. Kurosawa, N. Momono, M. Oda, D. V. Novikov, A. Khadiev, E. Weschke, J. Choi, S. Agrestini, M. Garcia-Fernandez, Ke-Jin Zhou, Q. Wang, J. Chang*
   authors-short: L. Martinelli et al.
   picture-path: 2025_martinelli_prb.jpg
   description: 1
 
-- title: Resolving the orbital character of low-energy excitations in Mott insulator
-    with intermediate spin-orbit coupling
+- title: Resolving the orbital character of low-energy excitations in Mott insulator with intermediate spin-orbit coupling
   date: '2025-05-22'
   journal: <b>Communications Physics</b> 8, 210 (2025)
   arxiv: https://arxiv.org/abs/2312.04406
-  preprint:
+  preprint: null
   doi: https://doi.org/10.1038/s42005-025-02104-2
   pdf-name: null
   authors: Karin von Arx, Pascal Rothenbühler, Qisi Wang, Leonardo Martinelli, Jaewon Choi, Mirian Garcia-Fernandez, Stefano Agrestini, Ke-Jin Zhou, Antonio Vecchione, Rosalba Fittipaldi, Yasmine Sassa, Mario Cuoco, Filomena Forte, Johan Chang
