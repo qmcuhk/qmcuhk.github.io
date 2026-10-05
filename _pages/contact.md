@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact
-banner-path: banner-campus.jpg
+banner-path: CUHK_overview.png
 line: 
 ---
 
